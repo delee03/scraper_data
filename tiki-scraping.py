@@ -3,7 +3,7 @@ import json
 import time
 
 # Define the category and base URL
-category_id = 24306
+category_id = 10803
 base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 
 # Parameters for pagination and API request
