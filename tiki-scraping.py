@@ -3,7 +3,7 @@ import json
 import time
 
 # Define the category and base URL
-category_id = 24064
+category_id = 23132
 base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 
 # Parameters for pagination and API request
@@ -15,7 +15,7 @@ params = {
     "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
     "category": category_id,
     "page": 1,
-    "urlKey": "nha-sach-tiki"
+    "urlKey": "thung-dung-gao"
 }
 
 # Custom headers to mimic a browser request
