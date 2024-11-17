@@ -15,7 +15,7 @@ base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 product_detail_url = "https://tiki.vn/api/v2/products"
 
 # List of category IDs to scrape (update to include electronics or other categories)
-category_ids = [1795]  # Replace with categories like electronics, home appliances, etc.
+category_ids = [2538,2365,1910,1899,1907,2333,6210,5674,2452,3892,16458,2368,18398,18378]  
 
 # Function to fetch all products for a specific category
 def fetch_products_for_category(category_id):
@@ -112,13 +112,13 @@ def scrape_categories(category_ids):
 
         # Save data for the category with the product count
         output_data = {
-            "length": len(detailed_products),
+            "total_products": len(detailed_products),
             "products": detailed_products
         }
         output_file = f"tiki_category_{category_id}_products_thread.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
-        print(f"Data for category {category_id} saved to {output_file} with {output_data['length']} products.")
+        print(f"Data for category {category_id} saved to {output_file} with {output_data['total_products']} products.")
 
 # Run the scraper
 scrape_categories(category_ids)

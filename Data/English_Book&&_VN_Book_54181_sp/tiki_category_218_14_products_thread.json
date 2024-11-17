@@ -1,0 +1,173 @@
+{
+  "total_products": 14,
+  "products": [
+    {
+      "id": 274324153,
+      "name": "The Saigon Times Weekly kỳ số 09-2024",
+      "price": 19000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/93/56/0fc34dab2c60329cb25a4831e8b3bdd4.jpg",
+      "primary_category_path": "1/2/8322/320/218",
+      "availability": 1
+    },
+    {
+      "id": 276164783,
+      "name": "The Saigon Times Weekly kỳ số 38-24",
+      "price": 19000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/b4/fc/020fdc6b7b70418c151d3729848e2dc8.jpg",
+      "primary_category_path": "1/2/8322/320/218/68100",
+      "availability": 1
+    },
+    {
+      "id": 272829938,
+      "name": "Why We Sleep - The New Science of Sleep and Dreams",
+      "price": 316000,
+      "discount_rate": 4,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d4/0f/06/f86aa8a74103fab0920fa9a399fcc18c.jpeg",
+      "primary_category_path": "1/2/8322/320/218",
+      "availability": 1
+    },
+    {
+      "id": 142548548,
+      "name": "Genetics 101",
+      "price": 349000,
+      "discount_rate": 5,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c0/ff/61/cd2ed939faeea4bf6075a4c8137c3800.jpg",
+      "primary_category_path": "1/2/8322/320/218",
+      "availability": 1
+    },
+    {
+      "id": 271199324,
+      "name": "No Bad Parts: Healing Trauma And Restoring Wholeness With The Internal Family Systems Model",
+      "price": 346500,
+      "discount_rate": 20,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/e2/74/4292f0c8cf57b2f8e78677b875a57d35.jpg",
+      "primary_category_path": "1/2/8322/320/218/68103",
+      "availability": 1
+    },
+    {
+      "id": 276481752,
+      "name": "The Saigon Times Weekly kỳ số 44-2024",
+      "price": 19000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/14/5b/3d2b12c4b4f9b32fd758eb3b5ae1d180.jpg",
+      "primary_category_path": "1/2/8322/320/218/68100",
+      "availability": 1
+    },
+    {
+      "id": 205303262,
+      "name": "The Washington Manual Endocrinology Subspecialty Consult",
+      "price": 200000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/5d/f1/06512dbe62ab267c1f4b11f82c59e704.jpg",
+      "primary_category_path": "1/2/8322/320/218/68100",
+      "availability": 1
+    },
+    {
+      "id": 129538258,
+      "name": "The Autoimmune Solution: Prevent and Reverse the Full Spectrum of Inflammatory Symptoms and Diseases",
+      "price": 240000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/13/f7/0f9caba1ae0fe0315c7e93837da87d7d.jpg",
+      "primary_category_path": "1/2/8322/320/218/68103",
+      "availability": 1
+    },
+    {
+      "id": 108748248,
+      "name": "Destructive Emotions",
+      "price": 324000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/73/01/3a0d196a81e60568bf1ce26dfc60f6b0.jpg",
+      "primary_category_path": "1/2/8322/320/218/68100",
+      "availability": 1
+    },
+    {
+      "id": 710331,
+      "name": "On The Move: A Life",
+      "price": 305000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/4/0/40-on-the-move.u5168.d20170707.t140444.359355.jpg",
+      "primary_category_path": "1/2/8322/320/218/68100",
+      "availability": 1
+    },
+    {
+      "id": 12030265,
+      "name": "Overcoming Alcohol Misuse, 2nd Edition",
+      "price": 326000,
+      "discount_rate": 9,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/a3/b8/94f73221d640d79551710b6dcdba2529.jpg",
+      "primary_category_path": "1/2/8322/320/218/68103",
+      "availability": 1
+    },
+    {
+      "id": 74551931,
+      "name": "Sách tiếng Anh - Mulan",
+      "price": 290000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/f4/15/2686f7bc2c6506a18cdee1b044dedd3b.jpg",
+      "primary_category_path": "1/2/8322/320/218/68103",
+      "availability": 1
+    },
+    {
+      "id": 121006079,
+      "name": "How To Master Nursing Calculations: Improve Your Maths And Make Sense Of Drug Dosage Charts",
+      "price": 258100,
+      "discount_rate": 19,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/f0/bc/bd2ffb763876def6344a688c2989a76c.jpg",
+      "primary_category_path": "1/2/8322/320/218/68104",
+      "availability": 1
+    },
+    {
+      "id": 96290077,
+      "name": "How To Make A Vaccine: An Essential Guide For COVID-19 And Beyond",
+      "price": 393000,
+      "discount_rate": 18,
+      "rating_average": 5,
+      "review_count": 5,
+      "order_count": 9,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/d6/8f/49c79169f990305419c20c23c15ded9e.jpg",
+      "primary_category_path": "1/2/8322/320/218/68103",
+      "availability": 1
+    }
+  ]
+}

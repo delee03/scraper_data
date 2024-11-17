@@ -18,7 +18,7 @@ headers = {
 
 base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 product_detail_url = "https://tiki.vn/api/v2/products"
-category_ids = [915, 18358, 625, 626, 1883, 1795]  # Include various categories
+category_ids = [915, 1815, 8594, 626, 1883, 1795]  # Include various categories
 semaphore = asyncio.Semaphore(10)  # Limit concurrent requests
 
 async def fetch_products_for_category(session: ClientSession, category_id):

@@ -1,0 +1,3333 @@
+{
+  "length": 17,
+  "products": [
+    {
+      "id": 274124348,
+      "sku": "3296639189815",
+      "name": "Around The World In 80 Festivals",
+      "url_key": "around-the-world-in-80-festivals-p274124348",
+      "url_path": "around-the-world-in-80-festivals-p274124348.html?spid=274124349",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "When do you eat 'bread of the dead', or walk barefoot across red-hot coals? When might you dress up as a demon in a hairy suit and huge horned headdress? What are you celebrating if you climb an 18-me...",
+      "price": 279000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "NANCY DICKMANN",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 20000,
+      "discount_rate": 7,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/89/5c/ac56b89635768f9bd159b4b1703e7b66.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 274124349,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 299000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-GzEoxyiA",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 274124348,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 1,
+            "price": 299000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 274124349,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 229023,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3309962",
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": true,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "2656698927431",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 299000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 229023,
+          "seller_product_id": 274124349,
+          "seller_product_sku": "3296639189815",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/f7/9e/83/ab28365ea395893fe5abac88b5103444.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<div>When do you eat 'bread of the dead', or walk barefoot across red-hot coals? When might you dress up as a demon in a hairy suit and huge horned headdress? What are you celebrating if you climb an 18-metre-high tower made out of buns?</div>\n<div>Includes a stunning central gatefold that opens out to reveal a calendar of all the festivals featured in the book. This is a visual celebration of festivals from across the globe, from the more familiar to those you might never have heard of before. Discover more about Junkanoo in the Bahamas, Juneteenth in the United States, Matariki in New Zealand and Poland's Great Dragon Parade. As you journey around the world, explore celebrations of food and drink, nature, culture, religion and history, plus ways to mark the passing of the year.</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Welbeck Publishing Group"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Welbeck Publishing Group"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "72"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9781913519889"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà Sách Phương Nam",
+      "stock_status": "available"
+    },
+    {
+      "id": 274082691,
+      "sku": "9127492932405",
+      "name": "Artbook - Sách Tiếng Anh - domus 1940–1949",
+      "url_key": "artbook-sach-tieng-anh-domus-1940-1949-p274082691",
+      "url_path": "artbook-sach-tieng-anh-domus-1940-1949-p274082691.html?spid=274082692",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "domus 1940–1949 is a book about domus magazine in the 1940s, a period marked by turmoil due to World War II. This book records the trends and developments of design in the context of crisis and recons...",
+      "price": 1040000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "CHARLOTTE & PETER FIELL",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 0,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/46/a6/c4fda7ba04ed9e6696b0e6bd870d4dc6.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 274082692,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 1040000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-KklWDvG2",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 274082691,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 2,
+            "price": 1040000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 274082692,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 305,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7840678053499",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 1040000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 305,
+          "seller_product_id": 274082692,
+          "seller_product_sku": "9127492932405",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "domus 1940–1949 is a book about domus magazine in the 1940s, a period marked by turmoil due to World War II. This book records the trends and developments of design in the context of crisis and reconstruction. This book also presents the works and designers that were significant, such as modern furniture and prefabricated houses, American academic architecture, Carlo Mollino, Gian Luigi Banfi, Franco Albini and Giuseppe Terragni<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "ARTBook"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Taschen"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9783836593830"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Artbook",
+      "stock_status": "available"
+    },
+    {
+      "id": 271515440,
+      "sku": "2600651615416",
+      "name": "Artbook - Sách Tiếng Anh - The Cyclades: Greek Island Paradise",
+      "url_key": "the-cyclades-greek-island-paradise-p271515440",
+      "url_path": "the-cyclades-greek-island-paradise-p271515440.html?spid=271515441",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "Một cuốn sách rất đặc biệt về một vùng đất tuyệt đẹp của Hy Lạp: The Cyclades: Greek Island Paradise. Cuốn sách này sẽ đưa bạn đến khám phá những hòn đảo nổi tiếng như Santorini, Mykonos, Naxos hay Pa...",
+      "price": 1760000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "CHRISTIAN STANG",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 0,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0b/fe/c9/32abf933d9fbd9cdce21012b0341cb92.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 271515441,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 1760000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-6DN1WJTq",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 271515440,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 3,
+            "price": 1760000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 271515441,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 305,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "4089734959284",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 1760000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 305,
+          "seller_product_id": 271515441,
+          "seller_product_sku": "2600651615416",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<p>Một cuốn sách rất đặc biệt về một vùng đất tuyệt đẹp của Hy Lạp: The Cyclades: Greek Island Paradise. Cuốn sách này sẽ đưa bạn đến khám phá những hòn đảo nổi tiếng như Santorini, Mykonos, Naxos hay Paros, cũng như những hòn đảo ít được biết đến nhưng không kém phần quyến rũ như Folegandros, Sifnos hay Milos. Bạn sẽ được chiêm ngưỡng những cảnh quan thiên nhiên tuyệt vời, những ngôi làng trắng xinh xắn, những bãi biển trong xanh và những di tích lịch sử của vùng đất này. Bạn cũng sẽ được cảm nhận được nét văn hóa độc đáo và phong phú của người dân Cyclades, qua những bức ảnh chân thực và sống động.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "ARTBook"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "teNeues"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9783961714513"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Artbook",
+      "stock_status": "available"
+    },
+    {
+      "id": 270397667,
+      "sku": "2659139560932",
+      "name": "Ancient Greek Philosophers (Leather-bound Classics)",
+      "url_key": "ancient-greek-philosophers-leather-bound-classics-p270397667",
+      "url_path": "ancient-greek-philosophers-leather-bound-classics-p270397667.html?spid=270397668",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "Bạn có bao giờ tò mò về sự phát triển của văn minh? Những chủ đề nào đã được thảo luận trong thời kỳ Hy Lạp cổ đại? Bộ sưu tập suy tư từ Plato, Aristotle và những nhà văn học triết học khác sẽ dẫn dắt...",
+      "price": 700000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 0,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/23/a1/f2517f9e4740a9b690cba4ea43019095.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 270397668,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 700000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-42PrQH5w",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 270397667,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 4,
+            "price": 700000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 270397668,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 305,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6502908953533",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 700000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 305,
+          "seller_product_id": 270397668,
+          "seller_product_sku": "2659139560932",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<p>Bạn có bao giờ tò mò về sự phát triển của văn minh? Những chủ đề nào đã được thảo luận trong thời kỳ Hy Lạp cổ đại? Bộ sưu tập suy tư từ Plato, Aristotle và những nhà văn học triết học khác sẽ dẫn dắt tâm hồn bạn vào một cuộc hành trình khám phá sáng suốt về đạo đức, đạo lý, luật pháp, y học và nhiều chủ đề khác. Với lời giới thiệu từ một học giả lỗi lạc về văn học cổ điển, bản thưc phẩm được làm từ da liền mạch của Canterbury Classics với cạnh vàng và giấy cuốn cẩn thận thiết kế đặc biệt sẽ là một bản ấn phẩm yêu thích trong tủ sách của bạn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "ARTBook"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Canterbury Classics"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Leatherbound Harback"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "992"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2018-10-02 21:44:52"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9781684125531"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Artbook",
+      "stock_status": "available"
+    },
+    {
+      "id": 205714887,
+      "sku": "7034752409619",
+      "name": "Artbook - Sách Tiếng Anh - Astrology: The Library of Esoterica",
+      "url_key": "astrology-the-library-of-esoterica-p205714887",
+      "url_path": "astrology-the-library-of-esoterica-p205714887.html?spid=205714888",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "Một cuộc hẹn với định mệnhNghệ thuật chiêm tinh, từ khoa học cổ đại đến thực tiễn hiện đạiNgay từ buổi đầu của lịch sử nhân loại, các cá nhân trên khắp các nền văn hóa và hệ thống tín ngưỡng đã tìm ...",
+      "price": 1080000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "JOYCE MEYER",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 0,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/fc/7d/ef08acebc1f9c82c53132161cc30bf91.png",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 205714888,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 3",
+        "value": 3
+      },
+      "tiki_live": null,
+      "original_price": 1080000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-fw0jNkpl",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 205714887,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 5,
+            "price": 1080000,
+            "quantity_sold": 3,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 205714888,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 305,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 3,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7681983544628",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 1080000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 305,
+          "seller_product_id": 205714888,
+          "seller_product_sku": "7034752409619",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<div class=\"row read-more-headline\">\n<div class=\"col-12 col-lg-6 pb-4 pb-lg-0\">\n<p class=\"h1\"><strong>Một cuộc hẹn với định mệnh</strong><br />Nghệ thuật chiêm tinh, từ khoa học cổ đại đến thực tiễn hiện đại<br />Ngay từ buổi đầu của lịch sử nhân loại, các cá nhân trên khắp các nền văn hóa và hệ thống tín ngưỡng đã tìm kiếm ý nghĩa của bầu trời. Sự chuyển động của các thiên thể và mối quan hệ của chúng với cuộc sống con người của chúng ta là đối tượng chính của chiêm tinh học trong hàng ngàn năm. Việc thực hành vừa truyền cảm hứng cho lòng tôn kính và thờ phượng, vừa làm sâu sắc thêm sự hiểu biết của chúng ta về bản thân và thế giới xung quanh.</p>\n<h2 class=\"h1\">A Date with Destiny</h2>\n</div>\n</div>\n<div class=\"row read-more-content pb-2\">\n<div class=\"col-12 col-lg-6 pb-4 pb-lg-0\">\n<h5>The art of astrology, from ancient science to modern-day practice</h5>\nFrom the beginning of human history, individuals across cultures and belief systems have looked to the sky for meaning. The movement of celestial bodies and their relation to our human lives has been the central tenant of astrology for thousands of years. The practice has both inspired reverence and worship, and deepened our understanding of ourselves and the world around us.<br /><br /><strong>While modern-day horoscopes may be the most familiar form of astrological knowledge, their lineage reaches back to ancient Mesopotamia. </strong>As author <strong>Andrea Richards</strong> recounts in <strong><em>Astrology</em></strong>, the second volume in TASCHEN’s <strong><em></em> </strong>series, astronomy and astrology were once sister sciences: the King’s Chamber of the Great Pyramid at Giza was built to align with constellations, Persian scholars oversaw some of the first observatories, and even Galileo cast horoscopes for the Medicis. But with the Enlightenment and the birth of exact science, the practice moved to places where mystery was still permitted, inspiring literature, art, and psychology, and influenced artists and thinkers such as Goethe, Byron, and Blake. Later movements like the Theosophists and the New Agers, would thrust the practice into the mainstream.<br /><br />Edited by <strong>Jessica Hundley</strong>, this vibrant visual history of Western astrology is the first ever compendium of its kind, exploring<strong> the symbolic meaning behind more than 400 images, from Egyptian temples and illuminated manuscripts to contemporary art from across the globe</strong>. Works by artists from Alphonese Mucha and Hilma af Klint to Arpita Singh and Manzel Bowman are sequenced to mirror the spin of the planets and the wheel of the zodiac. With wisdom from new interviews with astrologers like <strong>Robert Hand, Jessica Lanyadoo, and Mecca Woods</strong>, <em>Astrology</em> celebrates the stars and their mysterious influence on our everyday lives.</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "ARTBook"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Taschen"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Hard cover"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "520"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2021-04-20 11:12:10"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9783836579889"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Artbook",
+      "stock_status": "available"
+    },
+    {
+      "id": 91998808,
+      "sku": "3051634563505",
+      "name": "Sách - Khơi lửa sông Nile",
+      "url_key": "sach-khoi-lua-song-nile-p91998808",
+      "url_path": "sach-khoi-lua-song-nile-p91998808.html?spid=98572405",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       Sách - Khơi lửa sông Nile   Tên Nhà Cung Cấp Alpha Books   Tác giả Nhi Phan, Lalita, Khoa Lê, Reni Nguyễn   NXB NXB Thế Giới   Năm XB 2020   Ngôn Ngữ Tiếng Việt   Trọng lượng (gr) 280...",
+      "price": 89000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 30000,
+      "discount_rate": 25,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/bf/17/b442b09b2343db5b0c7ff4bd431017cb.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 98572405,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 3",
+        "value": 3
+      },
+      "tiki_live": null,
+      "original_price": 119000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-PYP32922",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91998808,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 6,
+            "price": 89000,
+            "quantity_sold": 3,
+            "rating": 5,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 98572405,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 145814,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 3,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6746831383841",
+          "number_of_reviews": 1,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 89000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 145814,
+          "seller_product_id": 98572405,
+          "seller_product_sku": "3051634563505",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Sách - Khơi lửa sông Nile</p>\n   <p>Tên Nhà Cung Cấp Alpha Books</p>\n   <p>Tác giả Nhi Phan, Lalita, Khoa Lê, Reni Nguyễn</p>\n   <p>NXB NXB Thế Giới</p>\n   <p>Năm XB 2020</p>\n   <p>Ngôn Ngữ Tiếng Việt</p>\n   <p>Trọng lượng (gr) 280</p>\n   <p>Kích thước 13 x 20.5 cm</p>\n   <p>Số trang 256</p>\n   <p>Hình thức Bìa Mềm</p>\n   <p>- Travel: Du lịch Thượng Hạ cổ Ai Cập</p>\n   <p>- Volunter: Giáo viên tình nguyện làng Baharwa</p>\n   <p>+TRÍCH ĐOẠN:</p>\n   <p>- Những ngôi nhà, góc phố, làng mạc, đền đài và dòng sông Nile uốn lượn trên vùng sa mạc khô cằn đầy gió và cát sẽ mãi luôn ở trong tâm trí người qua… Đặc biệt là sự chia sẻ và tình yêu thương không chỉ dành cho gia đình, cho đồng bào của mình mà còn cho tất cả những ai đang tồn tại trên thế giới này.</p>\n   <p>- Dáng dấp thanh thoát của người mẹ và sự nghiêm túc của cậu bé khiến tôi không thể vẫy tay hay ồn ào chào hỏi như mọi khi. Tôi đã thấy cảnh người dân Ả Rập cầu nguyện nhiều lần trong chuyến du lịch trước đó: trong đền thờ, ở quảng trường, trong góc chợ và tại trường. Đôi lúc tôi chẳng có cảm xúc gì, khi lại thấy chút gì đó phù phiếm. Nhưng khung cảnh người phụ nữ và cậu bé cầu nguyện bên bờ sông lại khiến tôi dường như hiểu được sự rung cảm của họ. Sự an yên và hy vọng có thể đang tưới mát tâm hồn họ khi cầu nguyện. Đó là cảnh cầu nguyện đẹp nhất mà tôi nhìn thấy ở Ai Cập. Và cũng là lần đầu tiên tôi nghĩ mình có thể chạm đến trái tim của người Ai Cập.</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thế Giới"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Omega Plus Books",
+      "stock_status": "available"
+    },
+    {
+      "id": 91986433,
+      "sku": "4711088258711",
+      "name": "Sách - Sách Danh Họa Nổi Tiếng Larousse: Vincent Van Gogh + Claude Monet + Paul Gauguin",
+      "url_key": "sach-sach-danh-hoa-noi-tieng-larousse-vincent-van-gogh-claude-monet-paul-gauguin-p91986433",
+      "url_path": "sach-sach-danh-hoa-noi-tieng-larousse-vincent-van-gogh-claude-monet-paul-gauguin-p91986433.html?spid=104860551",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       3 tác phẩm mở hàng trong bộ sách về những họa sĩ có tầm ảnh hưởng đến nền hội họa thế giới bao gồm:   VINCENT VAN GOGH   (Gérard Denizeau)   Cuốn sách sẽ dành cho những ai yêu thích danh...",
+      "price": 665750,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 231250,
+      "discount_rate": 26,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/95/26/37443e838f8d2e00e6c412fb987d6f66.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 104860551,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 897000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-bVmmsgQe",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao chiều thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91986433,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 7,
+            "price": 672750,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 104860551,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 7247,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3239143",
+          "earliest_delivery_estimate": 3.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6310049345416",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 672750,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 7247,
+          "seller_product_id": 104860551,
+          "seller_product_sku": "4711088258711",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>3 tác phẩm mở hàng trong bộ sách về những họa sĩ có tầm ảnh hưởng đến nền hội họa thế giới bao gồm:</p>\n   <p>VINCENT VAN GOGH</p>\n   <p>(Gérard Denizeau)</p>\n   <p>Cuốn sách sẽ dành cho những ai yêu thích danh họa Van Gogh muốn tìm hiểu, tra cứu thông tin nhanh chóng về cuộc đời ông, cùng 45 kiệt tác mà ông đã để lại.</p>\n   <p>PAUL GAUGUIN</p>\n   <p>(Laure-Caroline Semmer)</p>\n   <p>Nghệ thuật từ một nhà du hành đích thực</p>\n   <p>Từ góc nhìn mới mẻ đó, cuốn sách sẽ làm sáng tỏ những hành trình qua lại của Gauguin giữa nước Pháp và vùng Tahiti, mang đến những phân tích chặt chẽ mà qua đó, người đọc sẽ có thể hiểu trí tưởng tượng cùng những giấc mơ của Gauguin đã đưa ông đến đâu trong sự nghiệp nghệ thuật.</p>\n   <p>CLAUDE MONET</p>\n   <p>(Gérard Denizeau)</p>\n   <p>Cha đẻ của trường phái hội họa ấn tượng</p>\n   <p>Tên Nhà Cung Cấp Omega Plus</p>\n   <p>Tác giả Gérard Denizeau, Laure - Caroline Semmer</p>\n   <p>Dịch giả Hoàng Nhung, Nguyễn Thanh Xuân, Nguyễn Thị Quỳnh Châu.</p>\n   <p>NXB NXB Thế Giới</p>\n   <p>Năm XB 2020</p>\n   <p>Trọng lượng (gr) 2600</p>\n   <p>Kích Thước Bao Bì 22 x 29 cm</p>\n   <p>Số trang 374</p>\n   <p>Hình thức Bìa Cứng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thế Giới"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "374"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Alpha Books Official",
+      "stock_status": "available"
+    },
+    {
+      "id": 91986414,
+      "sku": "3920004591578",
+      "name": "Sách - Đi bộ xuyên việt với cây đàn Guitar",
+      "url_key": "sach-di-bo-xuyen-viet-voi-cay-dan-guitar-p91986414",
+      "url_path": "sach-di-bo-xuyen-viet-voi-cay-dan-guitar-p91986414.html?spid=98572537",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       Hy vọng, những câu chuyện trong cuốn sách này sẽ gợi cảm hứng để bạn dám sống ước mơ và không ngừng trải nghiệm khám phá.   “Và gã có một ý tưởng. Gã có một trò chơi. Người chơi không ai k...",
+      "price": 93000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 31000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/29/d8/25/579bb35f5d93bfc64f307a3fc3265642.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 98572537,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 1",
+        "value": 1
+      },
+      "tiki_live": null,
+      "original_price": 124000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-ZsoLNcUW",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91986414,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 8,
+            "price": 93000,
+            "quantity_sold": 1,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 98572537,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 145814,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 1,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "9718123403301",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 93000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 145814,
+          "seller_product_id": 98572537,
+          "seller_product_sku": "3920004591578",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Hy vọng, những câu chuyện trong cuốn sách này sẽ gợi cảm hứng để bạn dám sống ước mơ và không ngừng trải nghiệm khám phá.</p>\n   <p>“Và gã có một ý tưởng. Gã có một trò chơi. Người chơi không ai khác là chính gã. Gã sẽ đi kiểm chứng về tình thương của người Việt. Gã sẽ đi đến mọi miền đất nước để kiểm chứng người Việt Nam thật sự như thế nào. Gã sẽ thử thách khả năng sinh tồn, thử để ước mơ của mình lần nữa sống lại. Và gã quyết định đi bộ xuyên Việt mà không mang tiền.”</p>\n   <p>“Tôi nghĩ về những cô chú, anh chị đã giúp đỡ tôi trên hành trình. Họ đều là những người lao động khá vất vả. Đồng tiền kiếm được với họ cũng rất khó khăn, nhưng khi gặp tôi họ đã mở lòng giúp đỡ mà không cần nhận lại bất cứ điều gì. Và tôi nghĩ họ đã lựa chọn trở thành người tử tế dù đang trong hoàn cảnh như thế nào đi nữa. Ơn Chúa! Điều đó thật là phúc lành!”</p>\n   <p>Tác giả Hồ Nhật Hà</p>\n   <p>NXB NXB Thanh Niên</p>\n   <p>Năm XB 2019</p>\n   <p>Trọng lượng (gr) 350</p>\n   <p>Kích thước 13 x 20.5</p>\n   <p>Số trang 344</p>\n   <p>Hình thức Bìa Mềm</p>\n   <p>Ngôn ngữ Sách tiếng Việt</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thanh Niên"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Omega Plus Books",
+      "stock_status": "available"
+    },
+    {
+      "id": 91985576,
+      "sku": "8133308993135",
+      "name": "Sách - Người Ê Đê - Một xã hội mẫu quyền",
+      "url_key": "sach-nguoi-e-de-mot-xa-hoi-mau-quyen-p91985576",
+      "url_path": "sach-nguoi-e-de-mot-xa-hoi-mau-quyen-p91985576.html?spid=104876554",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       Tác giả :Anne de Hauteclocque-Howe   Ngày xuất bản :12-2018   Loại bìa :Bìa mềm   Số trang :416   ...",
+      "price": 131000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao chủ nhật, 24/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 44000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/03/25/da/9761b09a9561186c4ef99adcb48ed82a.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 104876554,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 3",
+        "value": 3
+      },
+      "tiki_live": null,
+      "original_price": 175000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-bD1qgcZ2",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/24",
+            "delivery_info_badge_text": "Giao chủ nhật, 24/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91985576,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 9,
+            "price": 131000,
+            "quantity_sold": 3,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 104876554,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 146243,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 3,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6230676652071",
+          "number_of_reviews": 0,
+          "order_route": "hn_hcm",
+          "partner_rewards_amount": 0,
+          "price": 131000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 146243,
+          "seller_product_id": 104876554,
+          "seller_product_sku": "8133308993135",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 7.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Tác giả :Anne de Hauteclocque-Howe</p>\n   <p>Ngày xuất bản :12-2018</p>\n   <p>Loại bìa :Bìa mềm</p>\n   <p>Số trang :416</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thế Giới"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Omega Plus Books",
+      "stock_status": "available"
+    },
+    {
+      "id": 91985010,
+      "sku": "8896212614121",
+      "name": "Sách - Đi như tờ giấy trắng",
+      "url_key": "sach-di-nhu-to-giay-trang-p91985010",
+      "url_path": "sach-di-nhu-to-giay-trang-p91985010.html?spid=98572462",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       +TRÍCH ĐOẠN:   Tác giả Trần Thùy Linh   NXB NXB Văn Học   Năm XB 2019   Trọng lượng (gr) 320   Kích thước 13 x 20.5   Số trang 304   Hình thức Bìa Mềm   Ngôn ngữ Sách tiếng Việt  ...",
+      "price": 89000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "icon": "https://salt.tikicdn.com/cache/w96/ts/tka/26/a2/90/0663718b1c04d15a46bf0f23874a7e01.png",
+          "icon_height": 16,
+          "icon_width": 32,
+          "placement": "delivery_info",
+          "text": "Giao chiều thứ 3, 19/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 30000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/04/a3/ef/79374956fefb9ad711097acd13da0287.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 98572462,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 1",
+        "value": 1
+      },
+      "tiki_live": null,
+      "original_price": 119000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-FMFp5WFt",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/19",
+            "delivery_info_badge_text": "Giao chiều thứ 3, 19/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91985010,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 10,
+            "price": 89000,
+            "quantity_sold": 1,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 98572462,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 145814,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 1,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 2.154,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "8670833125402",
+          "number_of_reviews": 0,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 89000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 145814,
+          "seller_product_id": 98572462,
+          "seller_product_sku": "8896212614121",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 2.362,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>+TRÍCH ĐOẠN:</p>\n   <p>Tác giả Trần Thùy Linh</p>\n   <p>NXB NXB Văn Học</p>\n   <p>Năm XB 2019</p>\n   <p>Trọng lượng (gr) 320</p>\n   <p>Kích thước 13 x 20.5</p>\n   <p>Số trang 304</p>\n   <p>Hình thức Bìa Mềm</p>\n   <p>Ngôn ngữ Sách tiếng Việt</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Văn Học"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Omega Plus Books",
+      "stock_status": "available"
+    },
+    {
+      "id": 91984762,
+      "sku": "2141403114384",
+      "name": "Sách - Danh họa thế giới Hokusai ",
+      "url_key": "sach-danh-hoa-the-gioi-hokusai-p91984762",
+      "url_path": "sach-danh-hoa-the-gioi-hokusai-p91984762.html?spid=118673062",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       HOKUSAI   | THÔNG TIN TÁC GIẢ |   JOHANN PROTAIS (1979): Tốt nghiệp Trường Đại học Paris I Panthéon-Sorbonne chuyên ngành Lịch sử, Protais từng có thời gian làm việc tại Bảo tàng Louvre. ...",
+      "price": 224000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao chủ nhật, 24/11",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "text_deal",
+          "placement": "under_rating_v2",
+          "promotions": [
+            {
+              "icon": "https://salt.tikicdn.com/ts/upload/56/12/53/7e524d144a7251570f53c968526c68bd.png",
+              "icon_height": 16,
+              "icon_width": 16,
+              "text": "Giảm 5K"
+            }
+          ],
+          "text_color": "#808089",
+          "type": "icon_text_promotion"
+        }
+      ],
+      "discount": 75000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/9d/bf/d1beca3b86cf845e672319e5b294be4b.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 118673062,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 299000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-CRmb9Ky1",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/24",
+            "delivery_info_badge_text": "Giao chủ nhật, 24/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 25,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 91984762,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 11,
+            "price": 224000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 118673062,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 111899,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 0,
+          "ineligible_coupon_rule_id": 3239147,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6925239649568",
+          "number_of_reviews": 0,
+          "order_route": "hn_hcm",
+          "partner_rewards_amount": 0,
+          "price": 224000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 111899,
+          "seller_product_id": 118673062,
+          "seller_product_sku": "2141403114384",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 7.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>HOKUSAI</p>\n   <p>| THÔNG TIN TÁC GIẢ |</p>\n   <p>JOHANN PROTAIS (1979): Tốt nghiệp Trường Đại học Paris I Panthéon-Sorbonne chuyên ngành Lịch sử, Protais từng có thời gian làm việc tại Bảo tàng Louvre. Hiện nay, khi đã là giảng viên dạy Lịch sử và có chứng chỉ chuyên môn về Lịch sử Nghệ thuật, Protais dạy học ở Paris và là tác giả, đồng tác giả của nhiều cuốn sách viết về các danh họa và lịch sử nghệ thuật.</p>\n   <p>Tên Nhà Cung Cấp Omega Plus</p>\n   <p>Tác giả Johann Protais, Éloi Rousseau</p>\n   <p>Người Dịch Phan Lê Huy</p>\n   <p>NXB NXB Dân Trí</p>\n   <p>Năm XB 2021</p>\n   <p>Trọng lượng (gr) 300</p>\n   <p>Kích Thước Bao Bì 29 x 22 cm</p>\n   <p>Số trang 128</p>\n   <p>Hình thức Bìa Cứng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Alphabooks"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Thế Giới"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "128"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "info book",
+      "stock_status": "available"
+    },
+    {
+      "id": 89314700,
+      "sku": "4807764698598",
+      "name": "Sách - Thế Giới Rộng Lớn Đừng Đi Một Mình (tặng kèm bookmark)",
+      "url_key": "sach-the-gioi-rong-lon-dung-di-mot-minh-tang-kem-bookmark-p89314700",
+      "url_path": "sach-the-gioi-rong-lon-dung-di-mot-minh-tang-kem-bookmark-p89314700.html?spid=89314701",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "       Tên sách: Thế giới rộng lớn đừng đi một mình   Tác giả: Lý Thành Cơ   Thể loại: sách du lịch   Khổ: 14,5x20,5cm   Số trang: 208 trang   Giá bìa: 96.000đ   Nhà xuất bản Phụ Nữ   ISBN:...",
+      "price": 97000,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao chủ nhật, 24/11",
+          "type": "delivery_info_badge"
+        },
+        {
+          "code": "text_deal",
+          "placement": "under_rating_v2",
+          "promotions": [
+            {
+              "icon": "https://salt.tikicdn.com/ts/upload/56/12/53/7e524d144a7251570f53c968526c68bd.png",
+              "icon_height": 16,
+              "icon_width": 16,
+              "text": "Giảm 5%"
+            }
+          ],
+          "text_color": "#808089",
+          "type": "icon_text_promotion"
+        }
+      ],
+      "discount": 0,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/dc/96/ed20f14f836e58ee27c0cb27a1056779.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 89314701,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": null,
+      "tiki_live": null,
+      "original_price": 97000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-DyIoLaYS",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/24",
+            "delivery_info_badge_text": "Giao chủ nhật, 24/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 0,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 89314700,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 12,
+            "price": 97000,
+            "quantity_sold": 0,
+            "rating": 0,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 89314701,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 161219,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 0,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "earliest_delivery_estimate": 0,
+          "ineligible_coupon_rule_id": 3311261,
+          "is_authentic": 0,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7059435808887",
+          "number_of_reviews": 0,
+          "order_route": "hn_hcm",
+          "partner_rewards_amount": 0,
+          "price": 97000,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 0,
+          "search_rank": 0,
+          "seller_id": 161219,
+          "seller_product_id": 89314701,
+          "seller_product_sku": "4807764698598",
+          "seller_type": "NONE",
+          "standard_delivery_estimate": 7.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [],
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>Tên sách: Thế giới rộng lớn đừng đi một mình</p>\n   <p>Tác giả: Lý Thành Cơ</p>\n   <p>Thể loại: sách du lịch</p>\n   <p>Khổ: 14,5x20,5cm</p>\n   <p>Số trang: 208 trang</p>\n   <p>Giá bìa: 96.000đ</p>\n   <p>Nhà xuất bản Phụ Nữ</p>\n   <p>ISBN: 978 604 56 6409 4</p>\n   <p>Phát hành tháng 5/2019</p>\n   <p>REVIEW THẾ GIỚI RỘNG LỚN, ĐỪNG ĐI MỘT MÌNH</p>\n   <p>\"Sợ thì sợ, nhưng nếu cứ sống mãi trong vùng sợ, liệu chúng ta có biết được tuổi trẻ của mình dài bao nhiêu?\"</p>\n   <p>Chúng ta sợ nhiều thứ là vậy, nhưng chúng ta lại chưa bao giờ biết sợ tuổi trẻ của mình sẽ trôi đi một cách lãng phí.</p>\n   <p>Chúng ta nào đâu biết được, vì thậm chí không ai đoán được ngày mai.</p>\n   <p>Vậy thì có gì để mà sợ hãi cái tương lai thậm chí còn chưa xảy đến?</p>\n   <p>Thế giới ngoài kia có rất nhiều điều tuyệt vời.</p>\n   <p>Như Lý Thành Cơ- tác giả cuốn sách THẾ GIỚI RỘNG LỚN, ĐỪNG ĐI MỘT MÌNH, cũng đã từng như vậy.</p>\n   <p>Rồi một ngày, chính tay anh đã phá vỡ thế giới đó, bước ra ngoài và khám phá những điều tuyệt vời ngoài kia.</p>\n   <p>Để hôm nay, chúng ta có cơ hội được cầm THẾ GIỚI RỘNG LỚN, ĐỪNG ĐI MỘT MÌNH trên tay. Bắt đầu từng bước một khám phá thế giới qua từng trang sách.</p>\n   <p>“Thế giới rộng lớn đừng đi một mình” ghi lại hành trình tác giả đặt chân đến 36 nước. Từ những vùng trời u cổ kính, cho đến những góc nhỏ châu Á quen thuộ Từ những ngày đông lạnh lẽo ở Icleland, Thụy Điển, đến những ngày hạ ấm áp ở Hàn Quốc, Nhật Bản, rồi lại trở về với Đà Lạt, Sài Gò Tất cả những chuyến đi ấy của tác giả đều hiện lên như một bức tranh chân thật, gần gũi thôi thúc người ta như muốn xách ba lô lên và đi ngay lập tức.</p>\n   <p>Mùa hè này, hy vọng, cầm \"Thế giới rộng lớn, đừng đi một mình\" trên tay, chúng ta sẽ không còn sợ hãi nữa, không còn sống trong thế giới chật chội của riêng mình, không còn chần chừ mà tiến về phía trước, mở cánh cửa rộng lớn và khám phá những điều tuyệt vời nhất để tuổi trẻ này, không vô nghĩa mà trôi đi !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "AZ Việt Nam"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Phụ Nữ"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "208"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "0"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà Sách Trẻ Online",
+      "stock_status": "available"
+    },
+    {
+      "id": 13758662,
+      "sku": "9090192595065",
+      "name": "The Psychology Book",
+      "url_key": "the-psychology-book-p13758662",
+      "url_path": "the-psychology-book-p13758662.html?spid=56890293",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "About The Psychology BookExplaining more than 100 of the most important big ideas and groundbreaking theories in the field of psychology in a clear and simple way, this is the perfect introduction to...",
+      "price": 481400,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 107600,
+      "discount_rate": 18,
+      "rating_average": 5,
+      "review_count": 17,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/3b/1f/0ee2598ed12b087423581531629e6c22.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 56890293,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 68",
+        "value": 68
+      },
+      "tiki_live": null,
+      "original_price": 589000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-ITfq9F6C",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 17,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 13758662,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 13,
+            "price": 486400,
+            "quantity_sold": 68,
+            "rating": 5,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 56890293,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 53660,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 68,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3297446",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "7481015110305",
+          "number_of_reviews": 17,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 486400,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 53660,
+          "seller_product_id": 56890293,
+          "seller_product_sku": "9090192595065",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<p><strong>About The Psychology Book</strong></p>\n<p>Explaining more than 100 of the most important big ideas and groundbreaking theories in the field of psychology in a clear and simple way, this is the perfect introduction to the history of psychology and understanding human behaviour.</p>\n<p>The Psychology Book provides an excellent introduction to the history of psychology from its roots in philosophy right up to modern studies of autism and psychiatry. The groundbreaking ideas of great thinkers in the world of psychology from Freud and Carl Jung to Noam Chomsky and Daniel Kahneman are outlined here.</p>\n<p>Covering all the schools of psychology including psychotherapy, cognitive psychology, and behaviourism, this handy reference is ideal for students or anyone interested in this popular subject. Hard-to-grasp concepts are explained in clear language with clever graphics that break down the ideas to make them accessible to everyone. And here is also a directory of psychologists and a useful glossary of psychological terms.</p>\n<p>If you're fascinated by the human mind then The Psychology Book will offer you lots of food for thought.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        },
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "DK Publishing"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Hardcover"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "352"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "235 x 195 mm"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2012-02-01 00:00:00"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9781405391245"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà sách Fahasa",
+      "stock_status": "available"
+    },
+    {
+      "id": 13758658,
+      "sku": "9216960020120",
+      "name": "DK The Classical Music Book (Series Big Ideas Simply Explained)",
+      "url_key": "dk-the-classical-music-book-series-big-ideas-simply-explained-p13758658",
+      "url_path": "dk-the-classical-music-book-series-big-ideas-simply-explained-p13758658.html?spid=56765920",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "About The Classical Music BookFrom Mozart to Mendelssohn, this comprehensive guide to classical music history and classical music biography is the perfect latest addition to the bestselling Big Ideas...",
+      "price": 471100,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "is_hero",
+          "icon": "https://salt.tikicdn.com/ts/upload/e4/d1/27/0e83bc569f546e1ab27144b772660ea0.png",
+          "icon_height": 20,
+          "icon_width": 101,
+          "placement": "under_product_image_2",
+          "type": "icon_badge"
+        },
+        {
+          "code": "brand_name",
+          "placement": "above_product_name",
+          "text": "FOREWORD BY KATIE DERHAM",
+          "text_color": "#808089",
+          "type": "text_above_product_name"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 117900,
+      "discount_rate": 20,
+      "rating_average": 5,
+      "review_count": 7,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/5d/0e/531e9cedf3543f6551ed89b7d8d2a4a1.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 56765920,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 26",
+        "value": 26
+      },
+      "tiki_live": null,
+      "original_price": 589000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-A2r3YDRh",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 19,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 13758658,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 14,
+            "price": 476100,
+            "quantity_sold": 26,
+            "rating": 5,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 56765920,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 53660,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 26,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3297446",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": true,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6295821976151",
+          "number_of_reviews": 7,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 476100,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 53660,
+          "seller_product_id": 56765920,
+          "seller_product_sku": "9216960020120",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/12/e2/4a/c5226426ee9429b0050449ae5403c9cf.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        },
+        {
+          "code": "event_badge",
+          "placement": "text_overlay_product_image",
+          "style": {
+            "background": "#D93843",
+            "border_color": "#FFFFFF",
+            "text_color": "#FFF0F1"
+          },
+          "text": "15.11",
+          "type": "text_badge"
+        }
+      ],
+      "description": "<p><strong>About The Classical Music Book</strong></p>\n<p>From Mozart to Mendelssohn, this comprehensive guide to classical music history and classical music biography is the perfect latest addition to the bestselling Big Ideas series.</p>\n<p>Easy to understand and clear to follow, this history of classical music explores and explains music theory and the impact of seminal pieces, while also providing fascinating stories about the lives of crucial composers and performers.</p>\n<p>Including an insightful foreword by Katie Derham, The Classical Music Book analyses over 90 works by famous composers. From Thomas Tallis in the early period to baroque masters like Bach and Handel, to the classical genius of Beethoven and Wagner and beyond to the modern day, The Classical Music Book explores the key ideas underpinning the world's greatest classical compositions and musical traditions, and defines their importance to the musical canon, placing them into their wider social, cultural, and historical context.</p>\n<p>The unique approach to the subject makes this book the perfect classical music guide for everyone. Regardless of whether you are relatively new to the subject and want to learn or if you are a classical music aficionado, there is plenty to discover in The Classical Music Book.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        },
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "DK Publishing"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Hardcover"
+            },
+            {
+              "code": "number_of_page",
+              "name": "Số trang",
+              "value": "352"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "233 x 195 mm"
+            },
+            {
+              "code": "publication_date",
+              "name": "Ngày xuất bản",
+              "value": "2018-09-06 00:00:00"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9780241301975"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà sách Fahasa",
+      "stock_status": "available"
+    },
+    {
+      "id": 13758646,
+      "sku": "9136867659820",
+      "name": "DK The Literature Book (Series Big Ideas Simply Explained)",
+      "url_key": "dk-the-literature-book-series-big-ideas-simply-explained-p13758646",
+      "url_path": "dk-the-literature-book-series-big-ideas-simply-explained-p13758646.html?spid=21296873",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "",
+      "price": 481400,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 107600,
+      "discount_rate": 18,
+      "rating_average": 4.8,
+      "review_count": 9,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/ba/e2/b6e9d889f26e5a8f258fa1ba8707ac37.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 21296873,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 41",
+        "value": 41
+      },
+      "tiki_live": null,
+      "original_price": 589000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-OfvA5nuL",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 17,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 13758646,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 15,
+            "price": 486400,
+            "quantity_sold": 41,
+            "rating": 4.8,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 21296873,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 53660,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 41,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3297446",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": true,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "6056717938925",
+          "number_of_reviews": 9,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 486400,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 4.8,
+          "search_rank": 0,
+          "seller_id": 53660,
+          "seller_product_id": 21296873,
+          "seller_product_sku": "9136867659820",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ]
+    },
+    {
+      "id": 4682621,
+      "sku": "8046551209426",
+      "name": "Vibrant Vietnam",
+      "url_key": "vibrant-vietnam-p4682621",
+      "url_path": "vibrant-vietnam-p4682621.html?spid=37151406",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "Vibrant VietnamCùng tham gia với nhiếp ảnh gia Neil Featherstone trên một hành trình xuyên Việt từ Sapa ở miền núi phía bắc đến quần đảo Côn Đảo ở miền Nam. Vibrant Vietnam là cuốn sách thứ tư của Ne...",
+      "price": 430600,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 64400,
+      "discount_rate": 13,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cb/1b/de/e4b5f977f4e32f2761443b7cc68434a8.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 37151406,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 14",
+        "value": 14
+      },
+      "tiki_live": null,
+      "original_price": 495000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-3nI91o6W",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 12,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 4682621,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 16,
+            "price": 435600,
+            "quantity_sold": 14,
+            "rating": 5,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 37151406,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 53660,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 14,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3297446",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "8627140950952",
+          "number_of_reviews": 2,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 435600,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 53660,
+          "seller_product_id": 37151406,
+          "seller_product_sku": "8046551209426",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<p><strong>Vibrant Vietnam</strong></p>\n<p>Cùng tham gia với nhiếp ảnh gia Neil Featherstone trên một hành trình xuyên Việt từ Sapa ở miền núi phía bắc đến quần đảo Côn Đảo ở miền Nam. Vibrant Vietnam là cuốn sách thứ tư của Neil tại Việt Nam, sau các cuốn Hội An Panorama (2015), Saigon Ca Phe (2016) và Hanoi Panorama (2018). Cho dù bạn đã từng đến Việt Nam và muốn lưu giữ những chuyến du lịch của mình hay bạn đang lên kế hoạch đến thăm và muốn thưởng thức những gì bạn sẽ trải nghiệm, cuốn sách này nhằm mục đích đưa bạn đến đất nước và con người Việt Nam.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        },
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Nhà Xuất Bản Dân Trí"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Dân Trí"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9786048858827"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà sách Fahasa",
+      "stock_status": "available"
+    },
+    {
+      "id": 4682613,
+      "sku": "4613410876101",
+      "name": "Sai Gon Panorama",
+      "url_key": "sai-gon-panorama-p4682613",
+      "url_path": "sai-gon-panorama-p4682613.html?spid=26148655",
+      "type": "",
+      "author_name": "",
+      "book_cover": null,
+      "brand_name": "",
+      "short_description": "Sai Gon PanoramaNhiếp ảnh gia đoạt giải thưởng Adam Robert Young sẽ đưa bạn vào một cuộc hành trình qua thành phố lịch sử nhưng không ngừng phát triển của Sài Gòn. Saigon Panorama cung cấp một cái nh...",
+      "price": 330700,
+      "list_price": 0,
+      "badges": [],
+      "badges_new": [
+        {
+          "code": "authentic_brand",
+          "icon": "https://salt.tikicdn.com/ts/tka/69/cf/22/1be823299ae34c7ddcd922e73abd4909.png",
+          "icon_height": 20,
+          "icon_width": 89,
+          "placement": "under_product_image",
+          "type": "icon_badge"
+        },
+        {
+          "code": "delivery_info_badge",
+          "placement": "delivery_info",
+          "text": "Giao thứ 4, 20/11",
+          "type": "delivery_info_badge"
+        }
+      ],
+      "discount": 64300,
+      "discount_rate": 16,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 0,
+      "favourite_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1c/22/e4/b673b1a2de1edfa7ff4ebb17d47bfc44.jpg",
+      "thumbnail_width": 280,
+      "thumbnail_height": 280,
+      "freegift_items": [],
+      "has_ebook": false,
+      "inventory_status": "",
+      "is_visible": false,
+      "productset_id": 233,
+      "productset_group_name": "",
+      "seller": null,
+      "is_flower": false,
+      "is_gift_card": false,
+      "inventory": null,
+      "url_attendant_input_form": "",
+      "option_color": [],
+      "stock_item": null,
+      "salable_type": "",
+      "seller_product_id": 26148655,
+      "installment_info": null,
+      "url_review": "",
+      "bundle_deal": false,
+      "quantity_sold": {
+        "text": "Đã bán 12",
+        "value": 12
+      },
+      "tiki_live": null,
+      "original_price": 395000,
+      "shippable": true,
+      "impression_info": [
+        {
+          "impression_id": "thanos-kCeaxZ0snGNpItiQ-d1fymmGu",
+          "metadata": {
+            "astra_reward": 0,
+            "category": 626,
+            "delivery_date": "2024/11/20",
+            "delivery_info_badge_text": "Giao thứ 4, 20/11",
+            "delivery_zone": "VN039006001",
+            "discount_rate": 15,
+            "flags": {
+              "_v": "filter_revamp"
+            },
+            "is_ad": 0,
+            "is_astra_plus": 0,
+            "is_official_store": 0,
+            "is_tikinow": 0,
+            "is_tikipro": 0,
+            "is_trusted_store": 0,
+            "mpid": 4682613,
+            "params": {
+              "_v": "filter_revamp",
+              "aggregations": "2",
+              "category": "626",
+              "include": "advertisement",
+              "limit": "40",
+              "page": "1",
+              "trackity_id": "7a06d2b7-bbf3-0fa6-31f1-b26251aa2d80",
+              "version": "home-persionalized"
+            },
+            "position": 17,
+            "price": 335700,
+            "quantity_sold": 12,
+            "rating": 5,
+            "request_id": "kCeaxZ0snGNpItiQ",
+            "spid": 26148655,
+            "tiki_verified": 1
+          },
+          "checksum": ""
+        }
+      ],
+      "advertisement": null,
+      "availability": 1,
+      "primary_category_path": "1/2/8322/320/623/626",
+      "product_reco_score": 0,
+      "seller_id": 53660,
+      "visible_impression_info": {
+        "amplitude": {
+          "all_time_quantity_sold": 12,
+          "category_l1_name": "Nhà Sách Tiki",
+          "category_l2_name": "English Books",
+          "category_l3_name": "Art & Photography",
+          "deboosted_high_price_diff_position": 0,
+          "discounted_by_rule_ids": "3297446",
+          "earliest_delivery_estimate": 0,
+          "is_authentic": 1,
+          "is_best_offer_available": false,
+          "is_flash_deal": false,
+          "is_freeship_xtra": false,
+          "is_gift_available": false,
+          "is_hero": false,
+          "is_high_price_penalty": false,
+          "is_imported": false,
+          "is_top_brand": false,
+          "joined_strategy_rerank": false,
+          "layout": "grid_view",
+          "master_product_sku": "5322908378582",
+          "number_of_reviews": 1,
+          "order_route": "same_province",
+          "partner_rewards_amount": 0,
+          "price": 335700,
+          "primary_category_name": "Religion, Culture",
+          "product_rating": 5,
+          "search_rank": 0,
+          "seller_id": 53660,
+          "seller_product_id": 26148655,
+          "seller_product_sku": "4613410876101",
+          "seller_type": "OFFICIAL_STORE",
+          "standard_delivery_estimate": 3.404,
+          "tiki_verified": 1,
+          "tikinow_delivery_estimate": 0,
+          "tikipro_delivery_estimate": 0,
+          "variant": false
+        }
+      },
+      "badges_v3": [
+        {
+          "code": "product_image_badge",
+          "image": "https://salt.tikicdn.com/ts/upload/c2/bc/6d/ff18cc8968e2bbb43f7ac58efbfafdff.png",
+          "placement": "badge_overlay_product_image",
+          "type": "image_badge"
+        }
+      ],
+      "description": "<p><strong>Sai Gon Panorama</strong></p>\n<p>Nhiếp ảnh gia đoạt giải thưởng Adam Robert Young sẽ đưa bạn vào một cuộc hành trình qua thành phố lịch sử nhưng không ngừng phát triển của Sài Gòn. Saigon Panorama cung cấp một cái nhìn sâu rộng về Thành phố Hồ Chí Minh từ một đô thị nhộn nhịp đến sự yên tĩnh của các huyện nông thôn ngoại thành. Cuốn sách này dành cho bất cứ ai đã đến thăm, hoặc ước mơ khám phá thành phố hấp dẫn này, và đối với những người đã yêu mến sự ấm áp và tính cách độc đáo của người Sài Gòn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        },
+        {
+          "name": "Thông tin chi tiết",
+          "attributes": [
+            {
+              "code": "publisher_vn",
+              "name": "Công ty phát hành",
+              "value": "Nhà Xuất Bản Dân Trí"
+            },
+            {
+              "code": "manufacturer",
+              "name": "Nhà xuất bản",
+              "value": "Nhà Xuất Bản Dân Trí"
+            },
+            {
+              "code": "book_cover",
+              "name": "Loại bìa",
+              "value": "Bìa cứng"
+            },
+            {
+              "code": "isbn13",
+              "name": "ISBN-13",
+              "value": "9786048806736"
+            }
+          ]
+        }
+      ],
+      "technical_specifications": [],
+      "brand": "",
+      "seller_name": "Nhà sách Fahasa",
+      "stock_status": "available"
+    }
+  ]
+}
