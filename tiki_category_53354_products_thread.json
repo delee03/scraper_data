@@ -1,0 +1,53 @@
+{
+  "total_products": 1,
+  "products": [
+    {
+      "id": 13393340,
+      "name": "Son OHUI Rouge Real OW (3.5g) - FI50241155",
+      "price": 562500,
+      "discount_rate": 27,
+      "rating_average": 4.5,
+      "review_count": 4,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/58/45/d22ad21d2758639c1f78808d6f61746b.jpg",
+      "primary_category_path": "1/2/1520/1584/53354",
+      "availability": 1,
+      "short_description": "Son OHUI Rouge Real OW (3.5g) được lấy ý tưởng từ công nghệ mà các đạo diễn thường sử dụng dụng cụ giúp phản xạ ánh sáng lúc quay để làm nổi bật vẻ đẹp của bạn như các diễn viên.Son OHUI Rouge Real vớ...",
+      "description": "<p>Son OHUI Rouge Real OW (3.5g) được lấy ý tưởng từ công nghệ mà các đạo diễn thường sử dụng dụng cụ giúp phản xạ ánh sáng lúc quay để làm nổi bật vẻ đẹp của bạn như các diễn viên.<br />Son OHUI Rouge Real với thành phần ngọc trai bao phủ, cho khả năng thể hiện màu sắc vượt trội, phản ánh đúng màu sắc chỉ sau một lần thoa.<br />Sản phẩm có độ dàn trải mềm mượt mang đến cho bạn đôi môi rạng rỡ với 16 sắc màu thời trang, độ bền màu cao đến 12h, cùng chỉ số chống nắng SPF10 mang đến cho bạn làn môi quyến rũ căng mọng suốt cả ngày dài.<br /><br />Tông đỏ:<br />RW10 Curtain Call Red 3.5g<br />RW13 Hommade Red 3.5g<br />RW15 Redsien 3.5g<br />RC16 Grand Red 3.5g<br />RW17 French Rose 3.5g<br />RW11 Intro Red 3.5g<br /><br />Tông hồng:<br />PC16 City Pink 3.5g<br />PW18 Rising Pink 3.5g<br />PC19 Pink Prologue 3.5g<br />PW12 Curtain Call Pink 3.5g<br />PC20 Purple Nouveau 3.5g<br /><br />Tông cam:<br />CW11 Intro Coral 3.5g<br />OW10 Photogenic Orange 3.5g<br />OW11 Buyout Orange 3.5g <br />Đối tượng sử dụng: mọi đối tượng<br />Loại da: mọi Loại da: <br /><br />Hướng dẫn sử dụng:<br />Son thoa trực tiếp hoặc dùng cọ để thoa </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "OHUI"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Hàn Quốc"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Hàn Quốc"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Mercy Cosmetics",
+      "stock_status": "available"
+    }
+  ]
+}

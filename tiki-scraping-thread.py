@@ -15,14 +15,13 @@ base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 product_detail_url = "https://tiki.vn/api/v2/products"
 
 # List of category IDs to scrape (update to include electronics or other categories)
-category_ids = [2223,2685,2339,23258,23264,23018,4452,12984,12986,12986,2759,12980,2327,2760,27188,2806,10068,23450,23462,23464,23466,23468,10076,10074,23552,10073,68289,68304,68318,23054,23058,23078,67952,53050,23046,23004,2363,23012,20492,67956]
-
-# Function to fetch all products for a specific category
+category_ids = [1587,1614,1611,11797,8192,1609,11799,1612,17184,68187,68188, 53354,8228]
+# Function to fetch all products for a specific category //1587,1614,1611,11797,8192,1609,11799,1612,17184,68187,68188, 53354,8228
 def fetch_products_for_category(category_id):
 
     
     params = {
-        "limit": 40,
+        "limit": 60,
         "include": "advertisement",
         "aggregations": 2,
         "version": "home-persionalized",
