@@ -1,0 +1,491 @@
+{
+  "total_products": 7,
+  "products": [
+    {
+      "id": 275813393,
+      "name": "Phiếu Mua Xe Chính Hãng Bình Thuận Ford",
+      "price": 200000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/37/73/68/9e8a4c9e021ba5bba4492a0ea7826fb1.png",
+      "primary_category_path": "1/2/8594/8595/37630",
+      "availability": 1,
+      "short_description": "I. QUY ĐỊNH SỬ DỤNGPhiếu không áp dụng hình thức thanh toán COD.Phiếu dùng để thanh toán kết hợp khi mua xe Ford, xe đã qua sử dụng chính hãng tại Showroom Bình Thuận Ford.Phiếu có giá trị như...",
+      "description": "<div><strong>I. QUY ĐỊNH SỬ DỤNG</strong></div>\n<ul>\n<li class=\"bullet\">Phiếu không áp dụng hình thức thanh toán COD.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu dùng để thanh toán kết hợp khi mua xe Ford, xe đã qua sử dụng chính hãng tại Showroom Bình Thuận Ford.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu có giá trị như tiền mặt, nhưng không được quy đổi thành tiền mặt khi giá trị sử dụng thấp hơn giá trị của phiếu.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Đơn hàng không được phép hủy khi đã được quy đổi tại showroom Bình Thuận Ford.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Thanh toán linh hoạt với các hình thức bán hàng khác và khuyến mãi khác tại showroom Bình Thuận Ford.</li>\n</ul>\n<div><strong>II. LỢI ÍCH CỦA PHIẾU MUA PHỤ KIỆN BÌNH THUẬN FORD</strong></div>\n<div>Giảm áp lực tài chính với chương trình chuyển đổi trả góp 0% lãi suất (thời hạn và phí chuyển đổi tùy chính sách ngân hàng).</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "dia_chi_su_dung",
+              "name": "Địa chỉ sử dụng",
+              "value": "<p>Lô 4/3, Đường số 4, KCN Phan Thiết 1, Xã Phong Nẫm, TP. Phan Thiết, tỉnh Bình Thuận, Việt Nam</p>"
+            },
+            {
+              "code": "dieu_kien_su_dung",
+              "name": "Điều kiện sử dụng",
+              "value": "<ul>\n<li class=\"bullet\">Phiếu mua xe điện tử dành cho khách hàng mua xe mới, xe qua sử dụng tại showroom Bình Thuận Ford - Đại lý Ủy quyền chính thức của Ford Việt Nam.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Mua xe nhanh chóng, thanh toán an toàn. Hỗ trợ trả góp 0%. Mua ngay!</li>\n</ul>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Lô 4/3, Đường số 4, KCN Phan Thiết 1, Xã Phong Nẫm, TP. Phan Thiết, tỉnh Bình Thuận, Việt Nam"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty Cổ phần Dịch vụ Ô tô Bình Thuận"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FORD"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bình Thuận Ford",
+      "stock_status": "available"
+    },
+    {
+      "id": 270714688,
+      "name": "Phiếu đặt cọc [LV2-170km] Ô tô điện Wuling Mini EV",
+      "price": 5000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/0e/1d/a4f650a283f87938cff1f54eb9faccfb.jpg",
+      "primary_category_path": "1/2/8594/8595/54698/67303",
+      "availability": 1,
+      "short_description": " ...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/58/4b/e92b580ad7e2ed8d932602110c3d810c.png\" alt=\"\" width=\"487\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/95/42/1e/f94f617bda7fcdbf1dccdad6e1717030.png\" alt=\"\" width=\"485\" height=\"515\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c5/fc/c0/b3929d89d0aa1edd8531bfd92bd361ad.png\" alt=\"\" width=\"485\" height=\"512\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/48/c9/be/80fc4beae054bfc669d7a469e045f0a8.png\" alt=\"\" width=\"484\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/27/dd/d7/a7cc4dba29b01ab4cae0cc2d3aa3bc89.png\" alt=\"\" width=\"486\" height=\"523\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c9/ca/11/139784e44963db98959142eae7b09499.png\" alt=\"\" width=\"485\" height=\"519\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/75/29/42/50c253f27e5e9005fef53e08964049d0.png\" alt=\"\" width=\"487\" height=\"506\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e5/df/85/ee65ab19d483fc3cf01cdfee071b572a.png\" alt=\"\" width=\"486\" height=\"520\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/01/fa/3f/28c81306b07c2d02fb29857fe582099b.png\" alt=\"\" width=\"486\" height=\"518\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e0/ea/4f/96f60bb23ff58fc25e0b6976f5954f17.png\" alt=\"\" width=\"482\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3f/6e/f4/77d0c960f6cbb3896276779179ca0342.png\" alt=\"\" width=\"483\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a4/ac/60/e731554cf495bf43024a85ad0f5cd1e6.png\" alt=\"\" width=\"486\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/31/d1/9b/c055f930adc4c43bf98617f3210315fa.png\" alt=\"\" width=\"484\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/22/73/a2/cb05b1f7e3f718d991acdfae600bb6e2.png\" alt=\"\" width=\"481\" height=\"504\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7a/10/c6/1325a74165e4e610464a2f47d3412f1b.png\" alt=\"\" width=\"487\" height=\"516\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Wuling"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Phiếu bảo hành"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "3 Năm"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Wuling EV Official",
+      "stock_status": "available"
+    },
+    {
+      "id": 270706433,
+      "name": "Phiếu đặt cọc [LV1-120] Ô tô điện Wuling MiniEV",
+      "price": 5000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/f7/62/f7570ddb6bc43370b824e734b2196412.jpg",
+      "primary_category_path": "1/2/8594/8595/54698/67303",
+      "availability": 1,
+      "short_description": "...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/58/4b/49ebab11f8b8b86e02f71f213434ca00.png\" alt=\"\" width=\"487\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/95/42/1e/18e4897897dc17617f1c32e4d91b49c8.png\" alt=\"\" width=\"485\" height=\"515\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c5/fc/c0/d0ba0495b43c5e7f7891e0938952d8e9.png\" alt=\"\" width=\"485\" height=\"512\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/48/c9/be/c5e1665b3fce471c023e5fc0f6ae46f7.png\" alt=\"\" width=\"484\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/27/dd/d7/eb13262cc85c5736e63e52f6a7186dbd.png\" alt=\"\" width=\"486\" height=\"523\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c9/ca/11/27030db53066ea2bbb12aab1a58e896a.png\" alt=\"\" width=\"485\" height=\"519\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/75/29/42/c0125d5fda55d813c438968516242f60.png\" alt=\"\" width=\"487\" height=\"506\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e5/df/85/98c9c6f8366bcbbfc43e13f9014cd163.png\" alt=\"\" width=\"486\" height=\"520\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/01/fa/3f/45691342016198fea742a615529bedd8.png\" alt=\"\" width=\"486\" height=\"518\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e0/ea/4f/9496d5b3be6b6c4a6cc48dc6caa8e625.png\" alt=\"\" width=\"482\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3f/6e/f4/c9cba31fb25f2fb29c1945991ee787b7.png\" alt=\"\" width=\"483\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a4/ac/60/26a7c5c009c4fb75ad38b5bfc6be8389.png\" alt=\"\" width=\"486\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/31/d1/9b/e0f01695df379c2fa7e2be4bfb196def.png\" alt=\"\" width=\"484\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/22/73/a2/2fc8b9a6d3780ef81a8a70db43c91bde.png\" alt=\"\" width=\"481\" height=\"504\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7a/10/c6/4084415f739782cb37d01e0fa9943d4c.png\" alt=\"\" width=\"487\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/48/c9/be/0eb02a7da207a12221715ede90ebc037.png\" alt=\"\" width=\"0\" height=\"0\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Wuling"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Phiếu bảo hành"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "3 Năm"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Wuling EV Official",
+      "stock_status": "available"
+    },
+    {
+      "id": 275813325,
+      "name": "Phiếu Mua Xe Chính Hãng Bình Thuận Ford",
+      "price": 20000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/70/bb/3d8435cf74cae886b25e075749c7b158.png",
+      "primary_category_path": "1/2/8594/8595/37632",
+      "availability": 1,
+      "short_description": "I. QUY ĐỊNH SỬ DỤNGPhiếu không áp dụng hình thức thanh toán COD.Phiếu dùng để thanh toán kết hợp khi mua xe Ford, xe đã qua sử dụng chính hãng tại Showroom Bình Thuận Ford.Phiếu có giá trị nh...",
+      "description": "<div>\n<div><strong>I. QUY ĐỊNH SỬ DỤNG</strong></div>\n<ul>\n<li class=\"bullet\">Phiếu không áp dụng hình thức thanh toán COD.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu dùng để thanh toán kết hợp khi mua xe Ford, xe đã qua sử dụng chính hãng tại Showroom Bình Thuận Ford.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu có giá trị như tiền mặt, nhưng không được quy đổi thành tiền mặt khi giá trị sử dụng thấp hơn giá trị của phiếu.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Đơn hàng không được phép hủy khi đã được quy đổi tại showroom Bình Thuận Ford.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Thanh toán linh hoạt với các hình thức bán hàng khác và khuyến mãi khác tại showroom Bình Thuận Ford.</li>\n</ul>\n<div><strong>II. LỢI ÍCH CỦA PHIẾU MUA PHỤ KIỆN BÌNH THUẬN FORD</strong></div>\n<ul>\n<li>Giảm áp lực tài chính với chương trình chuyển đổi trả góp 0% lãi suất (thời hạn và phí chuyển đổi tùy chính sách ngân hàng).</li>\n</ul>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "dia_chi_su_dung",
+              "name": "Địa chỉ sử dụng",
+              "value": "<p>Showroom Bình Thuận Ford<br />Lô 4/3, Đường số 4, KCN Phan Thiết 1, xã Phong Nẫm, TP.Phan Thiết, tỉnh Bình Thuận, Việt Nam.</p>"
+            },
+            {
+              "code": "dieu_kien_su_dung",
+              "name": "Điều kiện sử dụng",
+              "value": "<div>\n<ul>\n<li class=\"bullet\">Phiếu mua xe điện tử dành cho khách hàng mua xe mới, xe qua sử dụng tại showroom Bình Thuận Ford - Đại lý Ủy quyền chính thức của Ford Việt Nam.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Mua xe nhanh chóng, thanh toán an toàn. Hỗ trợ trả góp 0%. Mua ngay!</li>\n</ul>\n</div>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng từ ngày mua"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Lô 4/3, Đường số 4, KCN Phan Thiết 1, xã Phong Nẫm, TP.Phan Thiết, tỉnh Bình Thuận, Việt Nam "
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty Cổ phần Dịch vụ Ô tô Bình Thuận"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FORD"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bình Thuận Ford",
+      "stock_status": "available"
+    },
+    {
+      "id": 275741486,
+      "name": "Phiếu đặt cọc dành cho xe mới, xe qua sử dụng - chính hãng Bình Thuận Ford",
+      "price": 5000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/07/cc/54521e882c5d609fb3f2f0a7c9a5de33.png",
+      "primary_category_path": "1/2/8594/8595/37628",
+      "availability": 1,
+      "short_description": "I. QUY ĐỊNH SỬ DỤNGPhiếu không áp dụng hình thức thanh toán COD.Phiếu chỉ áp dụng để thanh toán tiền đặt cọc trực tiếp tại showroom Bình Thuận Ford.Phiếu có giá trị như tiền mặt, nhưng không đ...",
+      "description": "<div><strong>I. QUY ĐỊNH SỬ DỤNG</strong></div>\n<ul>\n<li class=\"bullet\">Phiếu không áp dụng hình thức thanh toán COD.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu chỉ áp dụng để thanh toán tiền đặt cọc trực tiếp tại showroom Bình Thuận Ford.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Phiếu có giá trị như tiền mặt, nhưng không được quy đổi thành tiền mặt khi giá trị sử dụng thấp hơn giá trị của phiếu.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Giá trị quy đổi được tính là giá bán (giá thanh toán khi mua), không phải giá thị trường.</li>\n</ul>\n<ul>\n<li class=\"bullet\">Đơn hàng không được phép hủy khi đã được quy đổi tại showroom Bình Thuận Ford.</li>\n</ul>\n<div><strong>II. LỢI ÍCH KHI MUA PHIẾU ĐẶT CỌC BÌNH THUẬN FORD</strong></div>\n<ul>\n<li>Giảm áp lực tài chính với chương trình chuyển đổi trả góp 0% lãi suất (thời hạn và phí chuyển đổi tùy chính sách ngân hàng).</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "dia_chi_su_dung",
+              "name": "Địa chỉ sử dụng",
+              "value": "<p>Showroom Bình Thuận Ford<br />Lô 3/4, đường số 4, Khu công nghiệp Phan Thiết 1, Xã Phong Nẫm, Thành phố Phan Thiết, Tỉnh Bình Thuận, Việt Nam</p>"
+            },
+            {
+              "code": "dieu_kien_su_dung",
+              "name": "Điều kiện sử dụng",
+              "value": "<div><strong>Phiếu đặt cọc điện tử dành cho xe mới, xe qua sử dụng - tại showroom Bình Thuận Ford. Hỗ trợ trả góp 0%. Mua ngay!</strong></div>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "Không thời hạn"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Lô 3/4, đường số 4, Khu công nghiệp Phan Thiết 1, Xã Phong Nẫm, Thành phố Phan Thiết, Tỉnh Bình Thuận, Việt Nam"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty Cổ Phần Dịch vụ Ô tô Bình Thuận"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FORD"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bình Thuận Ford",
+      "stock_status": "available"
+    },
+    {
+      "id": 270714121,
+      "name": "Phiếu đặt cọc [LV2-120 Km]Ô tô điện Wuling Mini EV",
+      "price": 5000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/85/b9/55c186b3893a7e0b122cd663df107c56.jpg",
+      "primary_category_path": "1/2/8594/8595/54698/67303",
+      "availability": 1,
+      "short_description": " ...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/58/4b/9a51fe4754261923d6da529eeef387a1.png\" alt=\"\" width=\"487\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/95/42/1e/7b91e578338dc5b4c499e44ced208d87.png\" alt=\"\" width=\"485\" height=\"515\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c5/fc/c0/d8eb2d565b1cd9818011984a61dcfd9e.png\" alt=\"\" width=\"485\" height=\"512\" /></p>\n<p style=\"text-align:left;\"><img src=\"https://salt.tikicdn.com/ts/tmp/48/c9/be/7af99b25b0e7ff2576dfa20a98412777.png\" alt=\"\" width=\"484\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/27/dd/d7/3ad4b4995cd2722ca16c4d2bf7ed7f72.png\" alt=\"\" width=\"486\" height=\"523\" /></p>\n<p style=\"text-align:left;\"><img src=\"https://salt.tikicdn.com/ts/tmp/c9/ca/11/3244820029f1ddc9c9365a7aed5b1d7e.png\" alt=\"\" width=\"485\" height=\"519\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/75/29/42/2520fe03c1b90fb4da25c2b4a52de4bc.png\" alt=\"\" width=\"487\" height=\"506\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e5/df/85/c25c2b283890f6de81e0a7a52f83374a.png\" alt=\"\" width=\"486\" height=\"520\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/01/fa/3f/18fa6396e5cf443713ee49e40e424133.png\" alt=\"\" width=\"486\" height=\"518\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e0/ea/4f/387449a081b60eb3fe8e72567d2671c3.png\" alt=\"\" width=\"482\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3f/6e/f4/c3904ef7ba29dd63efc0ad8d2d4d4d00.png\" alt=\"\" width=\"483\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a4/ac/60/e952d36c05239454a21f6de8691d6149.png\" alt=\"\" width=\"486\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/31/d1/9b/62fcfdb57f8ba9532214578bf71d6c50.png\" alt=\"\" width=\"484\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/22/73/a2/df40c3c9c10e71836bf898858464b5ef.png\" alt=\"\" width=\"481\" height=\"504\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7a/10/c6/c09684a1630c5a2f9ee8f8b17934c2ad.png\" alt=\"\" width=\"487\" height=\"516\" /></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Wuling"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Phiếu bảo hành"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "3 Năm"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Wuling EV Official",
+      "stock_status": "available"
+    },
+    {
+      "id": 270708660,
+      "name": "Phiếu đặt cọc [LV1-170 Km] Ô tô điện Wuling Mini EV",
+      "price": 5000000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/f7/62/c41af9833150b26692a6551e773a29e8.jpg",
+      "primary_category_path": "1/2/8594/8595/54698/67303",
+      "availability": 1,
+      "short_description": " ...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/58/4b/d4f00e900393ba07d17c10e2e10dc585.png\" alt=\"\" width=\"487\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/95/42/1e/c19d12c01c3ea1a142e4af403fe29631.png\" alt=\"\" width=\"485\" height=\"515\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c5/fc/c0/92ed0993c785fae97ed8359c0544d44b.png\" alt=\"\" width=\"485\" height=\"512\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/48/c9/be/15ab8e939720f0530a57e85ebd6d327c.png\" alt=\"\" width=\"484\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/27/dd/d7/fcc57b765ff5dfcb0e04070962e0387d.png\" alt=\"\" width=\"486\" height=\"523\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/c9/ca/11/da1d0ab0e6f006c72e0b3b8b2d11089e.png\" alt=\"\" width=\"485\" height=\"519\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/75/29/42/f73e7a56f84d7e0ac67e5d9bf21aea0a.png\" alt=\"\" width=\"487\" height=\"506\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e5/df/85/c7117ca39247843b014ae14917dc9329.png\" alt=\"\" width=\"486\" height=\"520\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/01/fa/3f/2c9419a28a2e91b1bc73ade395c3b464.png\" alt=\"\" width=\"486\" height=\"518\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/e0/ea/4f/e4f61fe06c9f44798bc5ca830872c82e.png\" alt=\"\" width=\"482\" height=\"513\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/3f/6e/f4/4e0c3731fbea7b55ff27723d2e866bb4.png\" alt=\"\" width=\"483\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/a4/ac/60/11efacd673c518f22fb2c21b8ea9ac37.png\" alt=\"\" width=\"486\" height=\"517\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/31/d1/9b/bec31c791ec9ec89032a12b9db68792f.png\" alt=\"\" width=\"484\" height=\"516\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/22/73/a2/8c71828afce7a1ade2acedc11eb95007.png\" alt=\"\" width=\"481\" height=\"504\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/7a/10/c6/ce3342f540487045aa1ee22c93a7e893.png\" alt=\"\" width=\"487\" height=\"516\" /></p>\n<p> </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/27/dd/d7/5782e872af9ec4a43a200e14d09a8b09.png\" alt=\"\" width=\"0\" height=\"0\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Wuling"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Phiếu bảo hành"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "3 Năm"
+            }
+          ]
+        },
+        {
+          "name": "Thuộc tính",
+          "attributes": [
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Mỹ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Wuling EV Official",
+      "stock_status": "available"
+    }
+  ]
+}
