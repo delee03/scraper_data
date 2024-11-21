@@ -19,7 +19,7 @@ base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 product_detail_url = "https://tiki.vn/api/v2/products"
 
 # List of category IDs to scrape
-category_ids = [45498, 45522, 11904, 6045, 45546, 45558]
+category_ids = [1975,8411,1977, 8438,4227,8443,2980,2981,8444,23120,67442,24002,8445,24052,24074,69617,24294,6826,6827,24306,8413,24306, 10803,10806, 10804, 67485,8428,24258,67647,67703,67648,69498, 24128,24142,3323,24164,69627,67651,67700,24064,24092,24098,24102]
 
 # Function to fetch all products for a specific category
 def fetch_products_for_category(category_id):
