@@ -19,7 +19,8 @@ base_url = "https://tiki.vn/api/personalish/v1/blocks/listings"
 product_detail_url = "https://tiki.vn/api/v2/products"
 
 # List of category IDs to scrape
-category_ids = [1975,8411,1977, 8438,4227,8443,2980,2981,8444,23120,67442,24002,8445,24052,24074,69617,24294,6826,6827,24306,8413,24306, 10803,10806, 10804, 67485,8428,24258,67647,67703,67648,69498, 24128,24142,3323,24164,69627,67651,67700,24064,24092,24098,24102]
+
+category_ids = [17166,20766,20824,20828,20862,24986,20908,20910,20928, 21022, 21054, 21074, 21134,21166,21268,21298, 21300, 21334,21346,21356,21382, 21442,21444, 21462,21496,1846, 8095, 12884,2665,2664,8060,28844,1828,2663,13150,4343,4345,4454,4642,28894,4346,7361,28896,4585]
 
 # Function to fetch all products for a specific category
 def fetch_products_for_category(category_id):
@@ -123,7 +124,8 @@ def scrape_categories(category_ids):
             "total_products": len(detailed_products),
             "products": detailed_products
         }
-        output_file = f"tiki_category_{category_id}_products_thread.json"
+        # Update the output filename to include total products and category ID
+        output_file = f"tiki_category_{category_id}_{len(detailed_products)}_products.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
         logging.info(f"Data for category {category_id} saved to {output_file} with {output_data['total_products']} products.")
