@@ -20,7 +20,7 @@ product_detail_url = "https://tiki.vn/api/v2/products"
 
 # List of category IDs to scrape
 
-category_ids = [17166,20766,20824,20828,20862,24986,20908,20910,20928, 21022, 21054, 21074, 21134,21166,21268,21298, 21300, 21334,21346,21356,21382, 21442,21444, 21462,21496,1846, 8095, 12884,2665,2664,8060,28844,1828,2663,13150,4343,4345,4454,4642,28894,4346,7361,28896,4585]
+category_ids = [27498,8370,978,1017,11839,11374,11843,975,5401,5403,8361,49688,5387,5400,15118,67145,67146]
 
 # Function to fetch all products for a specific category
 def fetch_products_for_category(category_id):
@@ -95,7 +95,7 @@ def scrape_categories(category_ids):
 
         # Using ThreadPoolExecutor to fetch product details concurrently
         detailed_products = []
-        with ThreadPoolExecutor(max_workers=4) as executor:  # Adjust `max_workers` as needed
+        with ThreadPoolExecutor(max_workers=8) as executor:  # Adjust `max_workers` as needed
             future_to_product = {executor.submit(fetch_product_details, product["id"]): product for product in products}
 
             for future in as_completed(future_to_product):

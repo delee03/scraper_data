@@ -1,0 +1,645 @@
+{
+  "total_products": 10,
+  "products": [
+    {
+      "id": 276531121,
+      "name": "Xịt Thơm & Làm Phẳng Quần Áo Zily 4.7 Kg (3 Chai/Thùng) - Tặng 1 chai Nước giặt KH Zily 3.8Kg",
+      "price": 2248800,
+      "discount_rate": 19,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/8c/3d/dacf4a8366ad2f1aa67246c32b92aa62.png",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Xịt thơm & làm phẳng quần áo ZILY:- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàn...",
+      "description": "<h2><strong><img src=\"https://salt.tikicdn.com/ts/tmp/63/0d/20/26baa312d4656dc70e91ab3ea0670ee0.jpg\" alt=\"\" width=\"750\" height=\"750\" /></strong></h2>\n<h2><strong>Xịt thơm &amp; làm phẳng quần áo ZILY:</strong></h2>\n<p>- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch</p>\n<p>- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàng, chống bám bụi và quần áo khong dính sát vào người </p>\n<p>- Tạo lớp màng bảo vệ màu sắc và sợi vải của quần áo khỏi các tác động có hại của tia cực tím </p>\n<p>- Tạo cảm giác dễ chịu từ hương thơm tưới mát lưu lại suốt ngày dài</p>\n<h2><strong>* Lưu ý:</strong></h2>\n<p>- Tránh lửa.</p>\n<p>- Đậy nắp kín sau khi sử dung, để chai thẳng đứng.</p>\n<p><strong>Xuất xứ: Việt Nam</strong></p>\n<p><strong>Nhà sản xuất: Công ty cổ phần ầu tư V&amp;T</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Zily"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "5000ml"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "36 tháng"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<h2><strong>* Bảo quản:</strong></h2>\n<p>- Để xa tầm tay trẻ em và vật nuôi.</p>\n<p>- Tránh nhiệt độ cao và ánh nắng mặt trời.</p>\n<p>- Tránh xịt vào mắt, nếu sản phẩm dính vào mắt rửa ngay với nước sạch và đến trung tâm y tế gần nhất.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<h2><strong>* Cách dùng:</strong></h2>\n<p>- Lắc đều trước khi xịt</p>\n<p>- Giữ chai thẳng đứng và xịt cách quần áo  5 -10 cm.</p>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Hồ Chí Minh"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty cổ phần đầu tư V&amp;T"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "19Kg"
+            },
+            {
+              "code": "volume",
+              "name": "Thể tích",
+              "value": "5000ml"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Zily VietNam",
+      "stock_status": "available"
+    },
+    {
+      "id": 276531386,
+      "name": "Xịt Thơm & Làm Phẳng Quần Áo Zily 300 g",
+      "price": 56430,
+      "discount_rate": 29,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/cd/a1/3f7441cb39b0dccc14ad77a25502c94f.jpg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Xịt thơm & làm phẳng quần áo ZILY:- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàn...",
+      "description": "<h2><strong><img src=\"https://salt.tikicdn.com/ts/tmp/3f/cd/a1/896ebc1d378e6bef9538a725f5c2245c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></strong></h2>\n<h2><strong>Xịt thơm &amp; làm phẳng quần áo ZILY:</strong></h2>\n<p>- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch</p>\n<p>- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàng, chống bám bụi và quần áo khong dính sát vào người </p>\n<p>- Tạo lớp màng bảo vệ màu sắc và sợi vải của quần áo khỏi các tác động có hại của tia cực tím </p>\n<p>- Tạo cảm giác dễ chịu từ hương thơm tưới mát lưu lại suốt ngày dài</p>\n<h2><strong>* Lưu ý:</strong></h2>\n<p>- Tránh lửa.</p>\n<p>- Đậy nắp kín sau khi sử dung, để chai thẳng đứng.</p>\n<p><strong>Xuất xứ: Việt Nam</strong></p>\n<p><strong>Nhà sản xuất: Công ty cổ phần ầu tư V&amp;T</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Zily"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "300ml"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "36 tháng"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<h2><strong>* Bảo quản:</strong></h2>\n<p>- Để xa tầm tay trẻ em và vật nuôi.</p>\n<p>- Tránh nhiệt độ cao và ánh nắng mặt trời.</p>\n<p>- Tránh xịt vào mắt, nếu sản phẩm dính vào mắt rửa ngay với nước sạch và đến trung tâm y tế gần nhất.</p>\n<h2> </h2>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<h2><strong>* Cách dùng:</strong></h2>\n<p>- Lắc đều trước khi xịt</p>\n<p>- Giữ chai thẳng đứng và xịt cách quần áo  5 -10 cm.</p>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Bình Chánh, Hồ Chí Minh"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty cổ phần đầu tư V&amp;T"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "300g"
+            },
+            {
+              "code": "volume",
+              "name": "Thể tích",
+              "value": "300ml"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Zily VietNam",
+      "stock_status": "available"
+    },
+    {
+      "id": 276530698,
+      "name": "Xịt Thơm & Làm Phẳng Quần Áo Zily 300g ( 20 Chai/Thùng ) - Tặng 1 chai Nước giặt KH Zily 3.8Kg",
+      "price": 1149240,
+      "discount_rate": 27,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/e6/dd/e581a9996b2fa952e3ac7c1a607aab97.png",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Xịt thơm & làm phẳng quần áo ZILY:- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàn...",
+      "description": "<h2><img src=\"https://salt.tikicdn.com/ts/tmp/fd/da/07/596e7a5e5052ad23950ccdfe723f21ce.jpg\" alt=\"\" width=\"750\" height=\"750\" /></h2>\n<h2><strong>Xịt thơm &amp; làm phẳng quần áo ZILY:</strong></h2>\n<p>- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch</p>\n<p>- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàng, chống bám bụi và quần áo khong dính sát vào người </p>\n<p>- Tạo lớp màng bảo vệ màu sắc và sợi vải của quần áo khỏi các tác động có hại của tia cực tím </p>\n<p>- Tạo cảm giác dễ chịu từ hương thơm tưới mát lưu lại suốt ngày dài</p>\n<h2><strong>* Lưu ý:</strong></h2>\n<p>- Tránh lửa.</p>\n<p>- Đậy nắp kín sau khi sử dung, để chai thẳng đứng.</p>\n<p><strong>Xuất xứ: Việt Nam</strong></p>\n<p><strong>Nhà sản xuất: Công ty cổ phần ầu tư V&amp;T</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Zily"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "300ml"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "36 tháng"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p> </p>\n<h2><strong>* Bảo quản:</strong></h2>\n<p>- Để xa tầm tay trẻ em và vật nuôi.</p>\n<p>- Tránh nhiệt độ cao và ánh nắng mặt trời.</p>\n<p>- Tránh xịt vào mắt, nếu sản phẩm dính vào mắt rửa ngay với nước sạch và đến trung tâm y tế gần nhất.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<h2><strong>* Cách dùng:</strong></h2>\n<p>- Lắc đều trước khi xịt</p>\n<p>- Giữ chai thẳng đứng và xịt cách quần áo  5 -10 cm.</p>\n<h2> </h2>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Bình Chánh, Hồ Chí Minh"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty cổ phần đầu tư V&amp;T"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "8Kg"
+            },
+            {
+              "code": "volume",
+              "name": "Thể tích",
+              "value": "300ml"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Zily VietNam",
+      "stock_status": "available"
+    },
+    {
+      "id": 276531129,
+      "name": "Xịt Thơm & Làm Phẳng ( Ủi Thẳng) Quần Áo Zily 4.7 Kg",
+      "price": 755000,
+      "discount_rate": 18,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/73/f6/f3/f370ef3b7e66a8de1da8ea50b3489856.png",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Xịt thơm & làm phẳng quần áo ZILY:- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàn...",
+      "description": "<h2><strong><img src=\"https://salt.tikicdn.com/ts/tmp/9e/d2/a1/e467d874403bc907c1ef080d88ce7d9e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></strong></h2>\n<h2><strong>Xịt thơm &amp; làm phẳng quần áo ZILY:</strong></h2>\n<p>- Giúp quần áo giữ nếp tạo cho bạn dáng vẻ sang trọng và thanh lịch</p>\n<p>- Tác nhân Slippering cho bề mặt quần áo trơn láng và mềm mại giúp thao tác ủi ( là ) dễ dàng, chống bám bụi và quần áo khong dính sát vào người </p>\n<p>- Tạo lớp màng bảo vệ màu sắc và sợi vải của quần áo khỏi các tác động có hại của tia cực tím </p>\n<p>- Tạo cảm giác dễ chịu từ hương thơm tưới mát lưu lại suốt ngày dài</p>\n<p><strong>Xuất xứ: Việt Nam</strong></p>\n<p><strong>Nhà sản xuất: Công ty cổ phần ầu tư V&amp;T</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Zily"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "5000ml"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "36 tháng "
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<h2><strong>* Bảo quản:</strong></h2>\n<p>- Để xa tầm tay trẻ em và vật nuôi.</p>\n<p>- Tránh nhiệt độ cao và ánh nắng mặt trời.</p>\n<p>- Tránh xịt vào mắt, nếu sản phẩm dính vào mắt rửa ngay với nước sạch và đến trung tâm y tế gần nhất.</p>\n<h2> </h2>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<h2><strong>* Cách dùng:</strong></h2>\n<p>- Lắc đều trước khi xịt</p>\n<p>- Giữ chai thẳng đứng và xịt cách quần áo  5 -10 cm.</p>\n<p>- Tránh lửa.</p>\n<p>- Đậy nắp kín sau khi sử dung, để chai thẳng đứng.</p>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Bình Chánh, Hồ Chí Minh"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Công ty cổ phần đầu tư V&amp;T"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "4.7Kg"
+            },
+            {
+              "code": "volume",
+              "name": "Thể tích",
+              "value": "5000ml"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Zily VietNam",
+      "stock_status": "available"
+    },
+    {
+      "id": 276176142,
+      "name": "Xịt thơm và làm phẳng quần áo KAO hương thảo mộc 270ml",
+      "price": 149000,
+      "discount_rate": 1,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/96/91/650e4bf6754c776dfd18a045ced554f6.jpg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Đặc điểm sản phẩm:Lưu hương tươi mát, nhẹ dịu: Hương hoa tươi mát và vấn vương trên từng sợi vải với xịt thơm quần áo Kao, tích hợp thêm khả năng kháng khuẩn cho quần áo luôn tươi mới, sạch thơm.Nh...",
+      "description": "<h3>Đặc điểm sản phẩm:</h3>\n<ul>\n<li>Lưu hương tươi mát, nhẹ dịu: Hương hoa tươi mát và vấn vương trên từng sợi vải với xịt thơm quần áo Kao, tích hợp thêm khả năng kháng khuẩn cho quần áo luôn tươi mới, sạch thơm.</li>\n<li>Nhanh chóng và tiện lợi hơn: Là phẳng quần áo nhanh chóng mà không cần khệ nệ mang theo bàn ủi, đặc biệt tiện dụng và dễ dàng mang theo trong những chuyến đi xa</li>\n<li>Thương hiệu Kao - Tập đoàn gia dụng hàng đầu Nhật Bản</li>\n<li>Nhập khẩu trực tiếp từ Nhật. Sản xuất tại Nhật Bản.</li>\n<li>Công nghệ và dây chuyền sản xuất tiên tiến, hiện đại được các nước châu Á ưa chuộng bởi thành phần an toàn và chất lượng cao cấp.</li>\n<li>Dung tích: 270ml</li>\n<li>Công dụng: Tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhăn</li>\n<li>HDSD: xịt khoảng 2-3 xịt lên khu vực quần áo cần làm phẳng, sau đó kéo căng quần áo. Quần áo sẽ phẳng ra rõ rệt, đồng thời có tác dụng tạo mùi thơm và kháng khuẩn.</li>\n</ul>\n<p> </p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "KAO"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "3 năm kể từ ngày sản xuất"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Tiki Trading",
+      "stock_status": "available"
+    },
+    {
+      "id": 271234193,
+      "name": "Nước ủi thơm và phẳng quần áo S.P.Ca 450ml",
+      "price": 28000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 5,
+      "order_count": 48,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/77/b6/87/d1cb6e47947f547af3edd6368ac86031.png",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "+ Tên sản phẩm: Nước ủi quần áo thơm & phẳng S.P.Ca+ Công dụng: Công thức mới nhất theo công nghệ Châu Âu với hoạt chất chống nhăn giúp cho việc là/ủi quần áo được dễ dàng, cùng hương thiên nhiên...",
+      "description": "<p>+ Tên sản phẩm: Nước ủi quần áo thơm &amp; phẳng S.P.Ca</p>\n<p>+ Công dụng: Công thức mới nhất theo công nghệ Châu Âu với hoạt chất chống nhăn giúp cho việc là/ủi quần áo được dễ dàng, cùng hương thiên nhiên thơm mát là sự kết hợp của hương hoa hồng và các tinh dầu như: tinh dầu lavender, tinh dầu trắc bách diệp, tinh dầu vỏ  thấm vào từng sợi vải, lưu hương nhẹ nhàng suốt ngày dài.</p>\n<p>+ Hướng dẫn sử dụng: 1. Vặn mở van xịt</p>\n<p>                                     2. Xịt phun đều nước ủi quần áo thơm &amp; phẳng S.P.Ca lên bề mặt quần áo trước khi ủi</p>\n<p>+ Bảo quản và lưu ý: Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy nắp kĩ sau khi sử dụng. Không được uống. Tránh xa tầm tay trẻ em</p>\n<p>+ Trọng lượng: 450ml</p>\n<p>+ Hạn sử dụng: 2 năm kể từ ngày sản xuất in trên bao bì</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "S.P.CA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "CÔNG TY RẠNG ĐÔNG SPCA",
+      "stock_status": "available"
+    },
+    {
+      "id": 276176136,
+      "name": "Xịt thơm và làm phẳng quần áo KAO hương hoa 270ml",
+      "price": 149000,
+      "discount_rate": 1,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/51/e3/dca42259680d2a2d44a104b97ee48d27.jpeg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Đặc điểm sản phẩm:Lưu hương tươi mát, nhẹ dịu: Hương hoa tươi mát và vấn vương trên từng sợi vải với xịt thơm quần áo Kao, tích hợp thêm khả năng kháng khuẩn cho quần áo luôn tươi mới, sạch thơm.Nh...",
+      "description": "<h3>Đặc điểm sản phẩm:</h3>\n<ul>\n<li>Lưu hương tươi mát, nhẹ dịu: Hương hoa tươi mát và vấn vương trên từng sợi vải với xịt thơm quần áo Kao, tích hợp thêm khả năng kháng khuẩn cho quần áo luôn tươi mới, sạch thơm.</li>\n<li>Nhanh chóng và tiện lợi hơn: Là phẳng quần áo nhanh chóng mà không cần khệ nệ mang theo bàn ủi, đặc biệt tiện dụng và dễ dàng mang theo trong những chuyến đi xa</li>\n<li>Thương hiệu Kao - Tập đoàn gia dụng hàng đầu Nhật Bản</li>\n<li>Nhập khẩu trực tiếp từ Nhật. Sản xuất tại Nhật Bản.</li>\n<li>Công nghệ và dây chuyền sản xuất tiên tiến, hiện đại được các nước châu Á ưa chuộng bởi thành phần an toàn và chất lượng cao cấp.</li>\n<li>Dung tích: 270ml</li>\n<li>Công dụng: Tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhăn</li>\n<li>HDSD: xịt khoảng 2-3 xịt lên khu vực quần áo cần làm phẳng, sau đó kéo căng quần áo. Quần áo sẽ phẳng ra rõ rệt, đồng thời có tác dụng tạo mùi thơm và kháng khuẩn.</li>\n</ul>\n<p> </p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "KAO"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "3 năm kể từ ngày sản xuất"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Tiki Trading",
+      "stock_status": "available"
+    },
+    {
+      "id": 176662279,
+      "name": "Xịt thơm và làm phẳng quần áo Flair KAO 270mL",
+      "price": 140000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 6,
+      "order_count": 20,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/10/bc/c08955ee9d93e0e278ba45c864f133d5.jpg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Bao bì sản phẩm thay đổi theo đợt nhập hàng.Xịt thơm và làm phẳng quần áo Flair KAO 270mL tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quầ...",
+      "description": "<p>Bao bì sản phẩm thay đổi theo đợt nhập hàng.</p>\n<p>Xịt thơm và làm phẳng quần áo Flair KAO 270mL tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhăn.<br /> <br />Ứng dụng công nghệ &#34;Cảm biến mùi hương&#34; phản ứng với mồ hôi và nhiệt độ cơ thể giúp giữ chặt mùi hương trên sợi vải. Cảm nhận mùi hương lưu luyến suốt cả ngày dài, hoàn toàn êm dịu với làn da. <br /><br /></p>\n<p><strong><em>Xịt thơm và làm phẳng quần áo Flair KAO 270mL</em></strong> tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhăn.</p>\n<p>• Dung tích chuẩn: 270mL<br />• Xuất xứ: Nhật Bản</p>\n<p><strong><em>Hiện Phú Sĩ có 3 mùi hương:</em></strong></p>\n<p><em>- White Bouquet </em><em>(màu trắng)</em></p>\n<p><em>- Flower Hamony (màu xanh)</em></p>\n<p><em>- Floral &amp; Sweet (màu hồng)</em></p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "KAO"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p><em><strong>Hướng dẫn sử dụng:</strong></em></p>\n<p>- Trên đầu vòi xịt có nút vặn On/Off, xoay đầu vòi xịt để &#34;BẬT&#34; lên. </p>\n<p>- Xịt khoảng 2-3 lần lên khu vực quần áo cần làm phẳng, sau đó kéo căng quần áo.</p>\n<p>- Quần áo sẽ phẳng ra rõ rệt, đồng thời có tác dụng tạo mùi thơm và kháng khuẩn.</p>\n<p><img src=\"https://www.fujimarket.vn/images_upload/xit-thom-va-lam-phang-quan-ao-flair-kao-270ml-2.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Phú Sĩ Arigatou",
+      "stock_status": "available"
+    },
+    {
+      "id": 110961348,
+      "name": "Dung Dịch LISSA Là(Uỉ)Phẳng-LàmThơmQuần áo 600ml ",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 4.6,
+      "review_count": 5,
+      "order_count": 8,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f6/e7/be/44c193485e4803eef201c5bdff2466ba.jpg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Lissa giúp dễ dàng ùi (là) các loại quần áo, đặt biệt các loại vải khó ủi như cotton,ầm áo sau khi ủi pba82ng dung dịch Lissa trở nên phẳng, giữ nếp và không bị nhăn, tạo dáng vẻ sang trọng, đẹp và lị...",
+      "description": "<p>Lissa giúp dễ dàng ùi (là) các loại quần áo, đặt biệt các loại vải khó ủi như cotton,ầm áo sau khi ủi pba82ng dung dịch Lissa trở nên phẳng, giữ nếp và không bị nhăn, tạo dáng vẻ sang trọng, đẹp và lịch sự hơn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Lana"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "600ml"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quả nơi khô thoáng</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Cách sử dụng: Lắc chai đều trước khi sử dụng, cầm chai nghiêng 45 độ xịt đều Dung dịch LISSA cách mặt vải 20-30cm. Điều chỉnh nhiệt độ thích hợp với mọi loại vải cần ủi. Tùy theo yêu cầuvề độ giữ nếp và mức độ nhăn của từng loại vải mà xịt Lissa nhiều hay ít. Không xịt Lissa vào bàn ủi hay nguồn điện</p>"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Hóa đơn"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "quy_cach_dong_goi",
+              "name": "Quy cách đóng gói",
+              "value": "<p>Chai</p>"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Starch Flex Compound W4FS, Etampony, B7, , Fragrange Compound FLS, Excipient. Không sử dụng nguyên liệu thuộc danh mục cấm sử dụng hiện hành.</p>"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "7 Ngày"
+            }
+          ]
+        }
+      ],
+      "seller_name": "MỸ PHẨM LANA",
+      "stock_status": "available"
+    },
+    {
+      "id": 10136850,
+      "name": "Chai Xịt Làm Phằng Và Kháng Khuẩn Cho Quần Áo (Nhiều Mùi Hương) - Nội Địa Nhật Bản",
+      "price": 139000,
+      "discount_rate": 0,
+      "rating_average": 4.8,
+      "review_count": 5,
+      "order_count": 58,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/a7/f8/f9d0a13d51c1f0abc22f40f9973b2720.jpg",
+      "primary_category_path": "1/2/15078/4387/4404",
+      "availability": 1,
+      "short_description": "Thể tích: 270mlCông dụng: Tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhănH...",
+      "description": "<ul>\n<li>Thể tích: 270ml</li>\n<li>Công dụng: Tạo cho quần áo hương thơm thanh mát và ngọt nhẹ, chất kháng khuẩn giúp ngăn tiết mồ hôi và vi khuẩn trên quần áo, đặc biệt còn có tác dụng giúp làm phẳng quần áo bị nhăn</li>\n<li>Hướng dẫn sử dung: xịt lên khu vực quần áo cần làm phẳng, sau đó kéo căng quần áo. Quần áo sẽ phẳng ra rõ rệt, đồng thời có tác dụng tạo mùi thơm và kháng khuẩn.</li>\n<li>Nhập khẩu trực tiếp từ Nhật. Sản xuất tại Nhật Bản</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "KAO"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "dimensions",
+              "name": "Kích thước",
+              "value": "<p><span style=\"color: #333333; font-family: Arial, sans-serif; font-size: 13px; text-align: justify;\">270ml</span></p>"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu Thị Nhập Khẩu",
+      "stock_status": "available"
+    }
+  ]
+}

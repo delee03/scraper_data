@@ -1,0 +1,1429 @@
+{
+  "total_products": 28,
+  "products": [
+    {
+      "id": 274555498,
+      "name": "Sandal Nữ Biti's BFW001788KEM (Kem)",
+      "price": 377000,
+      "discount_rate": 17,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/71/aa/5c26580c192e71f24e552d8225f7a7c6.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Nữ Biti's BFW001788● Mã sản phẩm: BFW001788● Kích thước: 35 - 39● Màu sắc: Đen - Hồng - KemQuai: da tổng hợpĐế: TPRSử dụng hằng ngày, đi học...",
+      "description": "<p>Sandal Nữ Biti's BFW001788</p>\n<p>● Mã sản phẩm: BFW001788</p>\n<p>● Kích thước: 35 - 39</p>\n<p>● Màu sắc: Đen - Hồng - Kem</p>\n<p>Quai: da tổng hợp</p>\n<p>Đế: TPR</p>\n<p>Sử dụng hằng ngày, đi học</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/60/cd/e9/8e2d65e1068168fdc7952a87ad2cf956.JPG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4f/36/4b/ed119ec5e0733be48402df1719f21151.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 274555403,
+      "name": "Sandal Nữ Biti's BFW001788DEN (Đen)",
+      "price": 377000,
+      "discount_rate": 17,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/c2/c8/9591e07d824b2257c44c1adb7ba9f885.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Nữ Biti's BFW001788● Mã sản phẩm: BFW001788● Kích thước: 35 - 39● Màu sắc: Đen - Hồng - KemQuai: da tổng hợpĐế: TPRSử dụng hằng ngày, đi học...",
+      "description": "<p>Sandal Nữ Biti's BFW001788</p>\n<p>● Mã sản phẩm: BFW001788</p>\n<p>● Kích thước: 35 - 39</p>\n<p>● Màu sắc: Đen - Hồng - Kem</p>\n<p>Quai: da tổng hợp</p>\n<p>Đế: TPR</p>\n<p>Sử dụng hằng ngày, đi học</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/2c/bd/63/8f5658b42be4f2efc6279183037f8750.JPG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4f/36/4b/81a93dfaa760afa8eb48ab24207d9d60.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 275188050,
+      "name": "Xăng đan nữ xỏ ngón đế thấp 4 phân RO635 ROSATA tại BCASHOP đính kim loại ở ngón cái, độc đáo và xinh xắn",
+      "price": 379000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3b/14/e2/11d447cfb65c77cdcd2efef3a9731646.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ------------------Xăng đan nữ xỏ ngón đế thấp 4 phân RO635 ROSATA tại BCASHOP đính kim loại ở ngón cái, độc đáo và x...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/89/4f/1e/b0a17b3459e5050c17d8dcbc4fbb0635.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />------------------<br />Xăng đan nữ xỏ ngón đế thấp 4 phân RO635 ROSATA tại BCASHOP đính kim loại ở ngón cái, độc đáo và xinh xắn<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO635<br />- Cao gót: 4 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />- Tất cả giày của thương hiệu ROSATA đều được làm từ chất liệu cao cấp như da nhân tạo cao cấp, nhựa mềm cao cấp, PU mềm cao cấp, Nguyên liệu được nhập khẩu nên số lượng hàng hóa sản xuất cho 1 mẻ tương đối ít. Thời gian giữa các mẻ sản xuất còn tùy thuộc vào số lượng tiêu thụ và nguồn nguyên liệu của mỗi mã nên đôi khi các chị bỏ qua mẫu xong cứ hỏi em bao giờ sản xuất mẻ mới là em không trả lời được đâu ạ.<br />- Lưu ý hộ em là do mỗi dòng điện thoại sẽ chênh nhau về màu 1 chút nên màu ảnh và thực tế hơi lệch nhau xíu xiu nha các tình yêu.<br />----<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L= 21.2 cm =&gt; size 34/<br />L= 21.9 cm =&gt; size 35/<br />L= 22.5 cm =&gt; size 36/<br />L= 23.2 cm =&gt; size 37/<br />L= 23.9 cm =&gt; size 38/<br />L= 24.5 cm =&gt; size 39/<br />L= 25.2 cm =&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />Chúng tôi luôn mong muốn mang đến cho khách hàng những trải nghiệm tốt nhất nên hãy để lại ý kiến của bạn. Những ý kiến đóng góp của bạn là động lực để chúng tôi hoàn thiện, phát triển và phục vụ bạn được tốt hơn<br />-----<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Rosata"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Điện tử"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Giày ROSATA tại BCASHOP",
+      "stock_status": "available"
+    },
+    {
+      "id": 274555432,
+      "name": "Sandal Nữ Biti's BFW001788HOG (Hồng)",
+      "price": 377000,
+      "discount_rate": 17,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b7/65/3e/25a4ce2c89abebe2ba6c37657deedbab.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Nữ Biti's BFW001788● Mã sản phẩm: BFW001788● Kích thước: 35 - 39● Màu sắc: Đen - Hồng - KemQuai: da tổng hợpĐế: TPRSử dụng hằng ngày, đi học...",
+      "description": "<p>Sandal Nữ Biti's BFW001788</p>\n<p>● Mã sản phẩm: BFW001788</p>\n<p>● Kích thước: 35 - 39</p>\n<p>● Màu sắc: Đen - Hồng - Kem</p>\n<p>Quai: da tổng hợp</p>\n<p>Đế: TPR</p>\n<p>Sử dụng hằng ngày, đi học</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/b4/d2/4c/8908ac0bb67c4dbf72faf4f4c1a37656.JPG\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/4f/36/4b/0f49b062ff835d41b5e496fe927d67f1.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 274539657,
+      "name": "Giày xăng đan xỏ ngón nữ đế thấp màu đen 3p RO569 ROSATA tại BCASHOP kết hợp điểm nhấn tại ngón cái độc đáo, sang trọng",
+      "price": 379000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/4d/53/3661ec48a16be40212dc0a816c3594ff.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": " ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ----Giày xăng đan xỏ ngón nữ đế thấp màu đen 3p RO569 ROSATA tại BCASHOP kết hợp điểm nhấn tại ngón cái độc đáo, sa...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/6f/76/5b/96df6b482d59ad6dde8a6f35b460ab50.jpg\" alt=\"\" width=\"750\" height=\"750\" /> </p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Giày xăng đan xỏ ngón nữ đế thấp màu đen 3p RO569 ROSATA tại BCASHOP kết hợp điểm nhấn tại ngón cái độc đáo, sang trọng<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO569<br />- Cao gót: 3 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L&#61; 21.2 cm &#61;&gt; size 34/<br />L&#61; 21.9 cm &#61;&gt; size 35/<br />L&#61; 22.5 cm &#61;&gt; size 36/<br />L&#61; 23.2 cm &#61;&gt; size 37/<br />L&#61; 23.9 cm &#61;&gt; size 38/<br />L&#61; 24.5 cm &#61;&gt; size 39/<br />L&#61; 25.2 cm &#61;&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />BCASHOP cung cấp tất cả những mẫu giày hot nhất, mới nhất của thương hiệu ROSATA như: Giày bốt nữ cổ thấp, Giày sục nữ, Giày lười nữ, Giày đế xuồng nữ, Giày cao gót nữ, Giày sandal nữ, Giày bé gái, Quần Jean nữ cao cấp, Áo khoác Jean nữ cao cấp.<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Rosata"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Điện tử"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Giày ROSATA tại BCASHOP",
+      "stock_status": "available"
+    },
+    {
+      "id": 274540059,
+      "name": "Giày sandal nữ đế thấp 3p RO569 ROSATA tại BCASHOP kết hợp kiểu xỏ ngón có điểm nhấn tại ngón cái độc đáo và thời trang",
+      "price": 379000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/4d/53/2308ffa50306b836f0a80e8933b23739.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ----Giày sandal nữ đế thấp 3p RO569 ROSATA tại BCASHOP kết hợp kiểu xỏ ngón có điểm nhấn tại ngón cái độc đáo và thờ...",
+      "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/04/cc/b5/02ad7846818554b5837914b57fa4ab4c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>ROSATA - thương hiệu giày thời trang nữ cao cấp THUẦN VIỆT NHƯNG CHẤT LƯỢNG QUỐC TẾ<br />----<br />Giày sandal nữ đế thấp 3p RO569 ROSATA tại BCASHOP kết hợp kiểu xỏ ngón có điểm nhấn tại ngón cái độc đáo và thời trang<br />---<br />*MÔ TẢ CHI TIẾT:<br />- Mẫu giày: RO569<br />- Cao gót: 3 cm<br />- Size: 35, 36, 37, 38, 39, 40<br />---<br />*BCA SHOP cam kết QUYỀN LỢI khách hàng: <br />- Sản phẩm 100% giống hình ảnh (có thể chênh lệch sáng tối do máy ảnh điện thoại)<br />- Sản phẩm 100% chính hãng của thương hiệu ROSATA<br />- Tất cả sản phẩm đều được bảo hành 1 năm<br />- Giao hàng trên toàn quốc<br />- Hỗ trợ đổi SIZE cho khách hàng khi mang không vừa chân<br />- Đổi trả trong 7 ngày<br />----<br />*BẢO QUẢN SỬ DỤNG: <br />- Khi không sử dụng giày trong thời gian dài, bạn nên để giày trong hộp có bịt hút ẩm mà shop gửi kèm theo<br />- Nên bảo quản giày ở nơi thoáng mát<br />- Nên thường xuyên vệ sinh giày để giúp đôi giày luôn mới và tăng tuổi thọ của giày. <br />- Với vết bẩn thông thường như bụi, bùn đất, bạn dùng khăn ẩm lau qua là sạch như mới<br />- Với vết bẩn khó như mực, dầu mỡ, bạn dùng khăn nhúng axeton (nước tẩy móng tay) để lau và xử lý là sẽ sạch như mới<br />- Các vết bẩn do bị keo, băng dính dễ dàng được làm sạch bởi 1 ít dầu gió<br />----<br />*CÁCH CHỌN SIZE GIÀY ĐÚNG CHUẨN:<br />- Để lòng bàn chân của bạn thẳng ngay ngắn lên tờ giấy trắng<br />- Đánh dấu điểm ở gót chân và điểm ở đầu ngón chân dài nhất<br />- Dùng thước kẻ đo khoảng cách 2 điểm bạn vừa đánh dấu (L)<br />- Dựa vào bảng thông số bên dưới và chọn ra size giày vừa nhất<br />L&#61; 21.2 cm &#61;&gt; size 34/<br />L&#61; 21.9 cm &#61;&gt; size 35/<br />L&#61; 22.5 cm &#61;&gt; size 36/<br />L&#61; 23.2 cm &#61;&gt; size 37/<br />L&#61; 23.9 cm &#61;&gt; size 38/<br />L&#61; 24.5 cm &#61;&gt; size 39/<br />L&#61; 25.2 cm &#61;&gt; size 40/<br />----<br />MỘT SỐ LƯU Ý TRONG KHÂU CHỌN SIZE GIÀY:<br />- Thời gian tốt nhất để đo cỡ giày của bạn là vào lúc cuối ngày, khi đôi chân của bạn được thư giãn hoàn toàn<br />- Nếu có sai số giữa hai bàn chân, bạn hãy chọn đôi giày có cỡ bằng với chân lớn hơn của bạn<br />- Việc chọn đúng size giày cực kỳ quan trọng. Một đôi giày phù hợp là giày ôm chân, không kích đầu mũi. Có thể để thừa đầu 0,5 cm<br />-----<br />BCASHOP cung cấp tất cả những mẫu giày hot nhất, mới nhất của thương hiệu ROSATA như: Giày bốt nữ cổ thấp, Giày sục nữ, Giày lười nữ, Giày đế xuồng nữ, Giày cao gót nữ, Giày sandal nữ, Giày bé gái, Quần Jean nữ cao cấp, Áo khoác Jean nữ cao cấp.<br />#rosata #bcashop #giaycaogot #giaycaogotnu #giaythoitrang #giaythoitrangnu #botnucothap #xuhuongthoitrang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Rosata"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Điện tử"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Giày ROSATA tại BCASHOP",
+      "stock_status": "available"
+    },
+    {
+      "id": 274500241,
+      "name": "Sandal xỏ ngón nữ Aldo ADRAYNWAN",
+      "price": 1750000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/65/64/7334202f07b8ad59aae8dc7554fd3bcf.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ p...",
+      "description": "<p>Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ phần Nhà Thái từ năm 2009. <br />Túi và phụ kiện Aldo không có hộp và túi vải. <br />Cần hỗ trợ tư vấn, vui lòng inbox nhân viên CSKH của ALDO.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Aldo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Canada"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Trung Quốc"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Aldo Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 274107933,
+      "name": "Giày sandals quai phồng block heel - SDN 0775",
+      "price": 603000,
+      "discount_rate": 5,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/af/f3/829a5d2614b7748fec99c87cdf88dbef.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "THÔNG TIN SẢN PHẨM: Chất liệu: Da nhân tạo Hoa văn, chi tiết:  Kiểu gót: Gót dạng khối Độ cao gót: 7 cm Loại mũi: Hở mũi (mũi vuông) Phù hợp sử dụng: Đi làm, đi học, đi chơiHƯỚNG DẪN CHỌN SI...",
+      "description": "<strong>THÔNG TIN SẢN PHẨM:</strong>\n<ul>\n <li>Chất liệu: Da nhân tạo</li>\n <li>Hoa văn, chi tiết: </li>\n <li>Kiểu gót: Gót dạng khối</li>\n <li>Độ cao gót: 7 cm</li>\n <li>Loại mũi: Hở mũi (mũi vuông)</li>\n <li>Phù hợp sử dụng: Đi làm, đi học, đi chơi</li>\n</ul>\n<br />\n<p><strong>HƯỚNG DẪN CHỌN SIZE:</strong><br /></p>\n<ul>\n <li>Bước 1: Chuẩn bị giấy A4, bút chì, thước dây</li>\n <li>Bước 2: Đặt bàn chân lên giấy A4 và dùng bút chì đánh dấu khung bàn chân lên giấy </li>\n <li>Bước 3: Dùng thước dây đo chiều dài của khung bàn chân đã đánh dấu từ điểm cao nhất đến gót chân </li>\n <li>Bước 4: Dùng thước dây quấn một vòng quanh bàn chân từ khớp ngón chân cái đến khớp ngón út </li>\n <li>Bước 5: So sánh kích thước vừa đo được với bảng quy đổi kích cỡ để chọn được size giày phù hợp </li>\n</ul>\n<p></p>\n<br />\n<p><strong>QUYỀN LỢI KHI MUA HÀNG CÙNG VASCARA</strong><br /></p>\n<p> - 7 NGÀY MIỄN PHÍ TRẢ HÀNG: Áp dụng Chính Sách Trả Hàng và Hoàn Tiền của Tiki</p>\n<br />- CHÍNH SÁCH ĐỔI HÀNG VASCARA\n<br />\n<ul>\n <li>Khách hàng được đổi sản phẩm 1 lần duy nhất trong 7 ngày kế từ ngày nhận hàng khi sản phẩm chưa qua sử dụng. không bị dơ bẩn và không nằm trong chương trình khuyến mãi. </li>\n <li>Sản phẩm mới được chọn để đổi phải có giá trị bằng hoặc cao hơn giá trị sản phẩm đổi. Trường hợp sản phẩm được chọn để đổi có giá trị thấp hơn sản phẩm cần đổi. khách hàng sẽ không được hoàn lại tiền thừa. </li>\n <li>Các sản phẩm ưu đãi từ 20% trở lên. sản phẩm đồng giá. phụ kiện (mắt kính. dây đeo túi xách. thắt lưng…). quà tặng trong chương trình khuyến mãi không áp dụng chính sách đổi hàng theo nhu cầu của khách hàng trừ trường hợp sản phẩm bị lỗi do nhà sản xuất. </li>\n</ul>\n<p></p>\n<br />\n<p><strong>THÔNG TIN THƯƠNG HIỆU:</strong><br /></p>\n<p>- Vascara là thương hiệu giày, túi xách thời trang dành cho phái đẹp hàng đầu Việt Nam. Với danh mục sản phẩm đa dạng như giày cao gót, giày sandals, giày boots, giày búp bê, giày bít, túi xách tay, túi đeo chéo, túi tote, ví dự tiệc, ví cầm tay, ví mini, phụ kiện, mắt kính, thắt lưng, được thiết kế hiện đại, trẻ trung, tạo nên phong cách tinh tế mà vẫn hòa nhịp cùng xu hướng thời trang quốc tế.</p>\n<p></p>\n<p>- Đây là trang bán hàng chính thức của Vascara tại Tiki, luôn cập nhật chính xác và đầy đủ nhất về sản phẩm, các chương trình ưu đãi đặc biệt cũng như tiếp nhận thông tin chăm sóc khách hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Vascara"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam / Trung Quốc"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "VASCARA OFFICIAL STORE",
+      "stock_status": "available"
+    },
+    {
+      "id": 273931023,
+      "name": "Sandal Thời Trang Nữ Biti's BTW001088KEM (Kem)",
+      "price": 255000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/9d/4a/3903c3131f8b2a5341a51c144478f345.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Thời Trang Nữ Biti's BTW001088 ● Mã sản phẩm: BTW001088KEM● Kích thước: 35 - 39● Màu sắc: Đen - Hồng - KemQuai: Da si tổng hợpĐế: Cao su...",
+      "description": "<p>Sandal Thời Trang Nữ Biti's BTW001088</p>\n<p> </p>\n<p>● Mã sản phẩm: BTW001088KEM</p>\n<p>● Kích thước: 35 - 39</p>\n<p>● Màu sắc: Đen - Hồng - Kem</p>\n<p>Quai: Da si tổng hợp</p>\n<p>Đế: Cao su</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 273888597,
+      "name": "Sandal Cao Su Nữ Biti's BRW000300KEM (Kem)",
+      "price": 279000,
+      "discount_rate": 10,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/a6/4a/e223598d8888d0c86cd4fe84c49fea50.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Bạn muốn tìm một đôi sandal bền bỉ, mang chắc chân? Bạn chưa biết nên mua sản phẩm của thương hiệu nào uy tín? Vậy thì chắc chắn bạn không thể bỏ lỡ Sandal Cao Su Nữ Biti’s BRW000300 đến từ Biti’s. Sả...",
+      "description": "<p><span>Bạn muốn tìm một đôi sandal bền bỉ, mang chắc chân? Bạn chưa biết nên mua sản phẩm của thương hiệu nào uy tín? Vậy thì chắc chắn bạn không thể bỏ lỡ Sandal Cao Su Nữ Biti’s BRW000300 đến từ Biti’s. Sản phẩm mang lại trải nghiệm hoàn hảo trong mỗi bước đi nhờ chỉn chu, kỹ lưỡng ngay từ công đoạn lựa chọn nguyên liệu đến kiểm tra thành phẩm.</span></p>\n<h2>Đế giày</h2>\n<ul>\n<li>\n<div>Đế giày lựa chọn chất liệu cao su nhiệt dẻo TPR. Đây là một chất liệu quen thuộc trong phần lớn các loại giày sandal của Biti’s.</div>\n</li>\n<li>\n<div>Vật liệu sở hữu rất nhiều ưu điểm nổi trội như độ đàn hồi cao, có tính linh hoạt tốt, có khả năng chống nóng, độ bền cao, có khả năng co giãn tốt… Chính những điểm mạnh này giúp đôi giày bền bỉ với thời gian, ôm gọn đôi chân, không mất dáng sau một thời gian sử dụng.</div>\n</li>\n</ul>\n<h2>Quai giày</h2>\n<ul>\n<li>\n<div>Quai giày được sản xuất từ chất liệu Si cao cấp, được xử lý cẩn thận theo đúng quy trình tiêu chuẩn, nhằm giữ lại trọn vẹn tất cả ưu điểm nổi bật. Chẳng hạn như không thấm nước, dễ dàng vệ sinh, ít bám bụi, màu sắc giữ bền lâu, giá thành hợp lý… </div>\n</li>\n<li>\n<div>Thiết kế quai dán dễ dàng tháo - lắp khi cần.</div>\n</li>\n<li>\n<div>Kiểu dáng đan chéo độc đáo, tôn lên vẻ đẹp đôi chân.</div>\n</li>\n</ul>\n<h2>Màu sắc</h2>\n<ul>\n<li>\n<div>Sản phẩm có 3 màu cơ bản là Xanh Ngọc, Kem và Đen. Tùy theo sở thích cá nhân, các bạn lựa chọn màu ưng ý nhất.</div>\n</li>\n<li>\n<div>Màu sắc thực tế có thể chênh lệch so với hình ảnh khoảng 3 - 5 % (tùy theo điều kiện ánh sáng thực tế).</div>\n</li>\n</ul>\n<h2>Size giày</h2>\n<ul>\n<li>\n<div>Sandal Cao Su Nữ Biti’s BRW000300 hiện được bày bán trên website chính thức với 5 size cơ bản là 35, 36, 37, 38 và 39.</div>\n</li>\n</ul>\n<h2>Bảo hành</h2>\n<ul>\n<li>\n<div>Mọi sản phẩm BRW000300 đều được áp dụng chế độ bảo hành trong vòng 03 tháng nếu phát hiện lỗi phát sinh từ nhà sản xuất (kể từ thời điểm mua hàng). Còn riêng lỗi bung chỉ, đứt chỉ, bong keo…, Biti’s cam kết bảo hành trọn đời.</div>\n</li>\n<li>\n<div>Ngoài ra, khách hàng có thể nhận chính sách đổi sang size khác nếu thử không vừa trong vòng 07 ngày, hoặc đổi sản phẩm mới khi phát hiện lỗi ảnh hưởng đến chất lượng trong vòng 07 ngày (tính từ thời điểm mua hàng và phải đáp ứng một số yêu cầu quy định trong chính sách đổi - trả của Biti’s).</div>\n</li>\n</ul>\n<h2>Tính năng và lợi ích nổi bật</h2>\n<ul>\n<li>\n<div>Thiết kế trẻ trung, năng động.</div>\n</li>\n<li>\n<div>Có thể sử dụng cho nhiều mục đích khác nhau như đi học, đi làm… </div>\n</li>\n<li>\n<div>Chất liệu cao cấp, được chọn lọc cẩn thận. </div>\n</li>\n<li>\n<div>Mang lại trải nghiệm thoải mái.</div>\n</li>\n<li>\n<div>Bảo đảm an toàn trong mọi bước đi.</div>\n</li>\n<li>\n<div>Có độ bền cao, ít hư hỏng.</div>\n</li>\n</ul>\n<h2>Sản phẩm bao gồm</h2>\n<ul>\n<li>\n<div>Đôi giày.</div>\n</li>\n<li>\n<div>Giấy gói.</div>\n</li>\n<li>\n<div>Hộp đựng làm từ giấy bìa cứng cáp.</div>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 273930936,
+      "name": "Sandal Thời Trang Nữ Biti's BTW001088DEN (Đen)",
+      "price": 255000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ea/86/10/f927f29b13bb174d7bdad67945578640.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Thời Trang Nữ Biti's BTW001088 ● Mã sản phẩm: BTW001088DEN● Kích thước: 35 - 39● Màu sắc: Đen - Hồng - KemQuai: Da si tổng hợpĐế: Cao su...",
+      "description": "<p>Sandal Thời Trang Nữ Biti's BTW001088</p>\n<p> </p>\n<p>● Mã sản phẩm: BTW001088DEN</p>\n<p>● Kích thước: 35 - 39</p>\n<p>● Màu sắc: Đen - Hồng - Kem</p>\n<p>Quai: Da si tổng hợp</p>\n<p>Đế: Cao su</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 273888574,
+      "name": "Sandal Cao Su Nữ Biti's BRW000300DEN (Đen)",
+      "price": 279000,
+      "discount_rate": 10,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/f9/58/5f2cdfd6688b38d40b8ce4eddce5ef7a.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Bạn muốn tìm một đôi sandal bền bỉ, mang chắc chân? Bạn chưa biết nên mua sản phẩm của thương hiệu nào uy tín? Vậy thì chắc chắn bạn không thể bỏ lỡ Sandal Cao Su Nữ Biti’s BRW000300 đến từ Biti’s. Sả...",
+      "description": "<p><span>Bạn muốn tìm một đôi sandal bền bỉ, mang chắc chân? Bạn chưa biết nên mua sản phẩm của thương hiệu nào uy tín? Vậy thì chắc chắn bạn không thể bỏ lỡ Sandal Cao Su Nữ Biti’s BRW000300 đến từ Biti’s. Sản phẩm mang lại trải nghiệm hoàn hảo trong mỗi bước đi nhờ chỉn chu, kỹ lưỡng ngay từ công đoạn lựa chọn nguyên liệu đến kiểm tra thành phẩm.</span></p>\n<h2>Đế giày</h2>\n<ul>\n<li>\n<div>Đế giày lựa chọn chất liệu cao su nhiệt dẻo TPR. Đây là một chất liệu quen thuộc trong phần lớn các loại giày sandal của Biti’s.</div>\n</li>\n<li>\n<div>Vật liệu sở hữu rất nhiều ưu điểm nổi trội như độ đàn hồi cao, có tính linh hoạt tốt, có khả năng chống nóng, độ bền cao, có khả năng co giãn tốt… Chính những điểm mạnh này giúp đôi giày bền bỉ với thời gian, ôm gọn đôi chân, không mất dáng sau một thời gian sử dụng.</div>\n</li>\n</ul>\n<h2>Quai giày</h2>\n<ul>\n<li>\n<div>Quai giày được sản xuất từ chất liệu Si cao cấp, được xử lý cẩn thận theo đúng quy trình tiêu chuẩn, nhằm giữ lại trọn vẹn tất cả ưu điểm nổi bật. Chẳng hạn như không thấm nước, dễ dàng vệ sinh, ít bám bụi, màu sắc giữ bền lâu, giá thành hợp lý… </div>\n</li>\n<li>\n<div>Thiết kế quai dán dễ dàng tháo - lắp khi cần.</div>\n</li>\n<li>\n<div>Kiểu dáng đan chéo độc đáo, tôn lên vẻ đẹp đôi chân.</div>\n</li>\n</ul>\n<h2>Màu sắc</h2>\n<ul>\n<li>\n<div>Sản phẩm có 3 màu cơ bản là Xanh Ngọc, Kem và Đen. Tùy theo sở thích cá nhân, các bạn lựa chọn màu ưng ý nhất.</div>\n</li>\n<li>\n<div>Màu sắc thực tế có thể chênh lệch so với hình ảnh khoảng 3 - 5 % (tùy theo điều kiện ánh sáng thực tế).</div>\n</li>\n</ul>\n<h2>Size giày</h2>\n<ul>\n<li>\n<div>Sandal Cao Su Nữ Biti’s BRW000300 hiện được bày bán trên website chính thức với 5 size cơ bản là 35, 36, 37, 38 và 39.</div>\n</li>\n</ul>\n<h2>Bảo hành</h2>\n<ul>\n<li>\n<div>Mọi sản phẩm BRW000300 đều được áp dụng chế độ bảo hành trong vòng 03 tháng nếu phát hiện lỗi phát sinh từ nhà sản xuất (kể từ thời điểm mua hàng). Còn riêng lỗi bung chỉ, đứt chỉ, bong keo…, Biti’s cam kết bảo hành trọn đời.</div>\n</li>\n<li>\n<div>Ngoài ra, khách hàng có thể nhận chính sách đổi sang size khác nếu thử không vừa trong vòng 07 ngày, hoặc đổi sản phẩm mới khi phát hiện lỗi ảnh hưởng đến chất lượng trong vòng 07 ngày (tính từ thời điểm mua hàng và phải đáp ứng một số yêu cầu quy định trong chính sách đổi - trả của Biti’s).</div>\n</li>\n</ul>\n<h2>Tính năng và lợi ích nổi bật</h2>\n<ul>\n<li>\n<div>Thiết kế trẻ trung, năng động.</div>\n</li>\n<li>\n<div>Có thể sử dụng cho nhiều mục đích khác nhau như đi học, đi làm… </div>\n</li>\n<li>\n<div>Chất liệu cao cấp, được chọn lọc cẩn thận. </div>\n</li>\n<li>\n<div>Mang lại trải nghiệm thoải mái.</div>\n</li>\n<li>\n<div>Bảo đảm an toàn trong mọi bước đi.</div>\n</li>\n<li>\n<div>Có độ bền cao, ít hư hỏng.</div>\n</li>\n</ul>\n<h2>Sản phẩm bao gồm</h2>\n<ul>\n<li>\n<div>Đôi giày.</div>\n</li>\n<li>\n<div>Giấy gói.</div>\n</li>\n<li>\n<div>Hộp đựng làm từ giấy bìa cứng cáp.</div>\n</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Biti’s Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 271422903,
+      "name": "Giày Sandal Xỏ Ngón BIGGBEN Da Bò Thật Cao 3 Phân SDCG97",
+      "price": 299000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/21/8b/69d78634d7cdfb441cadb8bd0bb4918e.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Thương hiệu: BIGBENGiày sandal xỏ ngón nữChật Liệu: Da bò thật 100%Giày Nữ với chất liệu Da Bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nam luôn thoải mái, tự tin khi đi chơ...",
+      "description": "<ul>\n<li>\n<p>Thương hiệu: BIGBEN</p>\n</li>\n<li>\n<p>Giày sandal xỏ ngón nữ</p>\n</li>\n<li>Chật Liệu: Da bò thật 100%</li>\n<li>\n<p>Giày Nữ với chất liệu Da Bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nam luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</p>\n</li>\n<li>\n<p>Giày được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</p>\n</li>\n<li>\n<p>Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</p>\n</li>\n<li>\n<p>Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</p>\n</li>\n<li>\n<p>Đế Cao 3 Phân</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li><img src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/f9f8c2833a0d609979fd0c8be05a4c80.png\" alt=\"\" width=\"513\" height=\"503\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDCG97"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Hóa đơn"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    },
+    {
+      "id": 270648900,
+      "name": "Dép xỏ ngón nữ Aldo ENOREL",
+      "price": 1550000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d2/a3/cd/76cb6091713e1787ec02cb2a4f5e9f8f.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ p...",
+      "description": "<p>Thương hiệu thời trang ALDO là hãng thời trang Canada chuyên mang đến những thiết kế sang trọng và tinh tế về phụ kiện giầy dép và túi xách. ALDO được phân phối độc quyền tại Việt Nam bởi Công ty cổ phần Nhà Thái từ năm 2009. <br />Túi và phụ kiện Aldo không có hộp và túi vải. <br />Cần hỗ trợ tư vấn, vui lòng inbox nhân viên CSKH của ALDO.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Aldo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Canada"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Trung Quốc"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Aldo Official Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 270549299,
+      "name": "Sandal Cao Su Nữ Biti's BRW000288DEN Siêu Bền",
+      "price": 309000,
+      "discount_rate": 15,
+      "rating_average": 1,
+      "review_count": 1,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/78/ed/7d/6bffd6f417121148a678b6ed558c6440.png",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "- Quai: Da, si- Đế: TPR, PU, cao su- Sử dụng hàng ngày- Sản phẩm chính hãng- Màu: đen, kem- Size: 35- 39- Chất liệu đế: Cao su- Chiều cao đế: 2-3cm- Chất liệu quai: cao su- Công dụng: trẻ tru...",
+      "description": "<p>- Quai: Da, si</p>\n<p>- Đế: TPR, PU, cao su</p>\n<p>- Sử dụng hàng ngày</p>\n<p>- Sản phẩm chính hãng</p>\n<p>- Màu: đen, kem</p>\n<p>- Size: 35- 39</p>\n<p>- Chất liệu đế: Cao su</p>\n<p><span>- Chiều cao đế: 2-3cm</span></p>\n<p>- Chất liệu quai: cao su</p>\n<p>- Công dụng: trẻ trung, tiện lợi có thể kết hợp với trang phục đi làm, đi chơ</p>\n<p> SHOP CAM KẾT:</p>\n<p>- Sản phẩm 100% giống mô tả</p>\n<p>- Đảm bảo chất lượng 100%</p>\n<p>- Sản phẩm được kiểm tra kĩ càng, cẩn thận và tư vấn nhiệt tình trước khi gói hàng giao cho Quý Khách</p>\n<p>- Hàng có sẵn, giao hàng ngay khi nhận được đơn</p>\n<p>- Hoàn tiền nếu sản phẩm không giống với mô tả</p>\n<p>- Chấp nhận đổi hàng khi size không vừa</p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/2e/82/35/e9f2b185ca80b1a98e476860deb00d3c.jpeg\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Biti's"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Phiếu bảo hành"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "6 Tháng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "An Tín Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 203598171,
+      "name": "Giày Sandal Nữ Quai Kẹp Đính Đá BIGGBEN Da Bò Thật Cao Cấp SDN89",
+      "price": 339000,
+      "discount_rate": 25,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/20/3a/bd9f780feb05c9dcff03aad355fa1869.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Chất Liệu :Da bò thật 100%Kích Thước :từ 35 đến 40Đế Cao :1 cmSản phẩm được bảo hành 1 năm HƯỚNG DẪN BẢO QUẢNBảo quản nơi thoáng mátTránh tiếp xúc hóa chất mạnhGiày bị ướt phơi khô nơi...",
+      "description": "<ul><li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :1 cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p> HƯỚNG DẪN BẢO QUẢN</p>\n<p>Bảo quản nơi thoáng mát</p>\n<p>Tránh tiếp xúc hóa chất mạnh</p>\n<p>Giày bị ướt phơi khô nơi bóng râm thoáng mát, tránh phơi trực tiếp dưới ánh nắng mặt trời.</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/1fcd0aa90d203f672425b3f25f780d88.png\" alt=\"\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDN89"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Hóa đơn"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    },
+    {
+      "id": 262581799,
+      "name": "Giày Sandal Nữ Kẹp Da Bò Thật BIGGBEN Cao Cấp SDN91",
+      "price": 349000,
+      "discount_rate": 22,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d2/0b/7c/7d57b92f4fb94f971ebfbdee382d2af7.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Thương hiệu: BIGBENChất Liệu :Da bò thật 100%Kích Thước :từ 35 đến 40Đế Cao :4 cmSản phẩm được bảo hành 1 năm HƯỚNG DẪN BẢO QUẢNBảo quản nơi thoáng mátTránh tiếp xúc hóa chất mạnhGiày...",
+      "description": "<ul><li>Thương hiệu: BIGBEN</li>\n<li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li>\n<li>\n<p>Kích Thước :từ 35 đến 40</p>\n</li>\n<li>\n<p>Đế Cao :4 cm</p>\n</li>\n<li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li>\n<li>\n<p> HƯỚNG DẪN BẢO QUẢN</p>\n<p>Bảo quản nơi thoáng mát</p>\n<p>Tránh tiếp xúc hóa chất mạnh</p>\n<p>Giày bị ướt phơi khô nơi bóng râm thoáng mát, tránh phơi trực tiếp dưới ánh nắng mặt trời.</p>\n</li>\n<li>\n<p>Hướng dẫn chọn size:</p>\n</li>\n<li>\n<p> </p>\n<img class=\"WebpImg__StyledImg-sc-h3ozu8-0 fWjUGo\" title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/87/95/5f/1fcd0aa90d203f672425b3f25f780d88.png\" alt=\"\" /></li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Hóa đơn"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDN91"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    },
+    {
+      "id": 248819037,
+      "name": "Giày sandal b/gót quai mảnh 7F PABNO PN492",
+      "price": 347000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/f3/ce/68c97891796bd98851623843acb7f9b6.png",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Giày sandal cao gót nữ PABNO gót trụ quai mảnh 7cm - PN492----------  1. THÔNG TIN SẢN PHẨM:Đôi sandal cao gót PN492 có phần quai mảnh tinh tế, với chiều cao gót 7cm phù để khoe dáng mà không sợ vấ...",
+      "description": "<article class=\"4ever-article\"><p>Giày sandal cao gót nữ PABNO gót trụ quai mảnh 7cm - PN492</p>\n<p>----------  </p>\n<p>1. THÔNG TIN SẢN PHẨM:</p>\n<p>Đôi sandal cao gót PN492 có phần quai mảnh tinh tế, với chiều cao gót 7cm phù để khoe dáng mà không sợ vấp ngã</p>\n<p>Hai màu Hồng - Đen cơ bản dễ dang Mix &amp; Match với nhiều loại trang phục như quần jeans, quần tây, váy, đầm,...</p>\n<p>Đôi sandal cao gót thích hợp để đi chơi ngoài phố, dự tiệc với bạn bè hay đi làm văn phòng.</p>\n<p> </p>\n<p>2. CHI TIẾT GIÀY SANDAL CAO GÓT NỮ PABNO GÓT TRỤ QUAI MẢNH 7CM PN492</p>\n<p>Chất liệu: Da tổng hợp</p>\n<p>Thiết kế: Cao gót 7cm</p>\n<p>Màu sắc: Đen; Kem.</p>\n<p>Size: 35, 36, 37, 38, 39</p>\n<p>Đế Giày được làm bằng chất liệu cao su.</p>\n<p>Vân đế chống trượt không mài mòn.</p>\n<p> </p>\n<p>3. HƯỚNG DẪN CHỌN SIZE GIÀY SANDAL CAO GÓT NỮ PABNO GÓT TRỤ QUAI MẢNH 7CM PN492</p>\n<p>• Size 35: Bàn chân 21-22cm</p>\n<p>• Size 36: Bàn chân 22-22.9cm</p>\n<p>• Size 37: Bàn chân 23.0-23.5cm</p>\n<p>• Size 38: Bàn chân 23.6-24.4cm</p>\n<p>• Size 39: Bàn chân 24.5-25cm</p>\n<p> </p>\n<p>4. HƯỚNG DẪN BẢO QUẢN GIÀY SANDAL CAO GÓT NỮ PABNO GÓT TRỤ QUAI MẢNH 7CM PN492</p>\n<p>Nên cất giữ sản phẩm ở nơi thoáng mát để giữ gìn chất lượng của sản phẩm ở mức tốt nhất.</p>\n<p>Lau chùi sản phẩm thường xuyên để tránh bụi bẩn.</p>\n<p>Bạn sử dụng một lượng nhẹ các loại xà bông, nước rửa chén, kem cạo râu để giặt.</p>\n<p>Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn nhé.</p>\n<p>Nên phơi đôi giày trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời trực tiếp</p>\n<p>Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n<p> </p>\n<p>5. CHÍNH SÁCH BẢO HÀNH - ĐỔI TRẢ</p>\n<p>• Sản phẩm được bảo hành 12 tháng với da và đế trên toàn quốc bởi PABNO</p>\n<p>• Đổi sản phẩm cùng mã, cùng size, cùng màu (trường hợp hàng bị lỗi kĩ thuật) hoàn toàn miễn phí.</p>\n<p>• Đổi sản phẩm khác mã, khác màu, khác size sẽ tính theo giá tại thời điểm đổi hàng</p>\n<p>• Đối với sản phẩm mua online: đổi trong vòng 7 ngày kể từ ngày nhận hàng (căn cứ trên vận đơn giao hàng).</p>\n<p>• Sản phẩm được đổi 1 lần duy nhất trong vòng 7 ngày kể từ ngày nhận hàng.</p>\n<p> </p>\n<p>PABNO - Leather collection là Thương Hiệu Giày Dép, Túi Xách,Ví ,Thắt Lưng và Phụ Kiện với 6 năm hoạt động trong lĩnh vực thời trang công sở. Tất cả sản phẩm của PABNO Store đều được làm từ Da Bò cao cấp và sản xuất tại Việt Nam.</p>\n<p>Quý khách hàng hãy tin dùng những sản phẩm của PABNO STORE để sở hữu những sản phẩm hàng da thật cao cấp với giá cả phải chăng nhé!</p>\n<p> </p>\n<p>6. THÔNG TIN VÀ CAM KẾT TỪ PABNO</p>\n<p>• Tất cả hình Sản Phẩm đều do Shop tự chụp</p>\n<p>• Cam Kết chất lượng sản phẩm \"Y Hình\" - \"Hoàn Tiền\" nếu nhận hàng không chất lượng.</p>\n<p>• Phân phối Sỉ - Lẻ trên Toàn quốc.</p>\n<p>• Sản phẩm bao gồm: Hộp, giày, tags... - TẤT CẢ ĐỀU CÓ LOGO CHÍNH HÃNG PABNO.</p>\n<p> </p>\n<p>Cảm ơn quý khách đã tin dùng sản phẩm của PABNO!</p>\n<p> </p>\n<p>#giaycaogot #giaysandalcaogot #giaysandalnu #giayxangdan #giaycaogothanghieu #giaycaogot5cm #giaycaogot7cm #giaycaogot8cm #giaycaogot11cm #depdanu #depnuquaingang #depnuquaicheo #depnupabno #pabno #giaypabno #caogothanghieu #caogotdep #giaynudep </p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/a7/3a/56/2bdddf1e28d33d3441ed7badf290463f.jpg\" alt=\"a73a5679409fca061736ba4b9b991d05.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/da/08/83/f7d363f3d0de7fa19791d73967cd3e99.jpg\" alt=\"da0883c12f38edd63fa6e1744faed4f1.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/6c/b3/ae/faa62af7ddb89bd614e6165f754d5f4f.jpg\" alt=\"6cb3ae4ffdc0a8b6b8806b791e29e2c1.jpg\" /></p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/09/0b/40/e4f5e4e6050ba78c1bd85dc5fd8d1681.jpg\" alt=\"090b4063b4a6069a9ce325955dcf226c.jpg\" /></p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "PABNO"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Điện tử"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "12 Tháng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "PABNO VN",
+      "stock_status": "available"
+    },
+    {
+      "id": 171201545,
+      "name": "Giày sandal nữ Giavy quai kẹp",
+      "price": 205000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/00/df/eccba68ce32d793a261113c78641622b.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "       GIÀY SANDAL NỮ   Thương hiệu độc quyền : GIAVY.   Xuất xứ: Việt Nam.   Mã sản phẩm: SH136   Kiểu dáng: hậu thun, quai kẹp , họa tiết tren quai đính hột gỗ, đế bệt.   Chất liệu quai ...",
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>GIÀY SANDAL NỮ</p>\n   <p>Thương hiệu độc quyền : GIAVY.</p>\n   <p>Xuất xứ: Việt Nam.</p>\n   <p>Mã sản phẩm: SH136</p>\n   <p>Kiểu dáng: hậu thun, quai kẹp , họa tiết tren quai đính hột gỗ, đế bệt.</p>\n   <p>Chất liệu quai xi mềm êm chân, đường may tỉ mỉ.</p>\n   <p>Đế cao su, có rãnh chống trơn trượt, keo dán chắc chắn bền bỉ.</p>\n   <p>Màu sắc: Đen .</p>\n   <p>Kích cỡ : 36-37-38-39-40 .</p>\n   <p>Đóng gói bao gốm: số lượng đôi khách đặt + phiếu bảo hành + hộp Giavy.</p>\n   <p>Cam kết hàng chính hãng .</p>\n   <p>Cam kết giao đúng mẫu - màu - size khách đặt .</p>\n   <p>----------------------------------------------</p>\n   <p>GIAVY được thành lập năm 2001, uy chất lượng đạt danh hiệu \"HÀNG VIỆT NAM CHẤT LƯỢNG CAO\" năm 2007.</p>\n   <p> Lưu ý : chỉ nhận bảo hành khi khách mang trực tiếp lại Shop , không giải quyết bảo hành qua online)</p>\n   <p>---------------------------------------------</p>\n   <p>HƯỚNG DẪN BẢO QUẢN SẢN PHẨM :</p>\n   <p>Hạn chế tiếp xúc với nước thường xuyên.</p>\n   <p>Không dùng xà phòng, hoặc chất tẩy để rửa sản phẩm.</p>\n   <p>Nên dùng khăn ẩm sạch để lau chùi sản phẩm.</p>\n   <p>Không phơi dép dưới ánh nắng, nên dựng đứng sản phẩm và để nơi khô thoáng, có gió.</p>\n   <p>------------------------------------------------</p>\n   <p>THỜI GIAN GIAO HÀNG :</p>\n   <p>Giao hàng theo lịch dự kiến của nhà vận chuyển dự kiến giao hàng đã có hiện rõ trên đơn hàng khi quý khách tạo đơn. (Shop không thể can thiệp phần thời gian giao hàng của nhà vận chuyển. Vì vậy quý khách thông cảm đừng đánh giá thấp Shop về thời gian giao hàng ạ).</p>\n   <p> Lưu ý: Shop chỉ giải quyết đổi hàng trường hợp phát hiện sản phẩm bị lỗi hở keo hoặc tróc xi , hoặc giao sai đơn. Quý Khách vui lòng nhắn vào shop sẽ được hỗ trợ ạ!</p>\n   <p>Khi quý khách nhận được hàng, vui lòng xác nhận đã nhận hàng, và nếu hài lòng sản phẩm và chất lượng sản phẩm Giavy thì vui lòng đánh giá tích cực giúp shop 5 sao nhé!</p>\n   <p>Xin cảm ơn Quý Khách đã tin dùng! Xin chào và hẹn gặp lại đơn hàng tiếp theo !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "GIAVY"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "GIÀY GIA VY",
+      "stock_status": "available"
+    },
+    {
+      "id": 171201466,
+      "name": "Giày sandal nữ Giavy quai kẹp SH653",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/69/ff/c7/dc6ae7ef8e3da25d040a20925802169f.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "       GIÀY SANDAL NỮ   Thương hiệu độc quyền : GIAVY.   Xuất xứ: Việt Nam.   Mã sản phẩm: SH653   Kiểu dáng: hậu thun, quai kẹp , họa tiết trên quai đính hột gỗ, đế bệt.   Chất liệu quai ...",
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>GIÀY SANDAL NỮ</p>\n   <p>Thương hiệu độc quyền : GIAVY.</p>\n   <p>Xuất xứ: Việt Nam.</p>\n   <p>Mã sản phẩm: SH653</p>\n   <p>Kiểu dáng: hậu thun, quai kẹp , họa tiết trên quai đính hột gỗ, đế bệt.</p>\n   <p>Chất liệu quai xi mềm êm chân, đường may tỉ mỉ.</p>\n   <p>Đế cao su, có rãnh chống trơn trượt, keo dán chắc chắn bền bỉ.</p>\n   <p>Màu sắc: Trắng .</p>\n   <p>Chiều cao đế: 2cm</p>\n   <p>Kích cỡ : 36-37-38-39-40 .</p>\n   <p>Đóng gói bao gốm: số lượng đôi khách đặt + phiếu bảo hành + hộp Giavy.</p>\n   <p>Cam kết hàng chính hãng .</p>\n   <p>Cam kết giao đúng mẫu - màu - size khách đặt .</p>\n   <p>----------------------------------------------</p>\n   <p>GIAVY được thành lập năm 2001, uy chất lượng đạt danh hiệu \"HÀNG VIỆT NAM CHẤT LƯỢNG CAO\" năm 2007.</p>\n   <p> Lưu ý : chỉ nhận bảo hành khi khách mang trực tiếp lại Shop , không giải quyết bảo hành qua online)</p>\n   <p>---------------------------------------------</p>\n   <p>HƯỚNG DẪN BẢO QUẢN SẢN PHẨM :</p>\n   <p>Hạn chế tiếp xúc với nước thường xuyên.</p>\n   <p>Không dùng xà phòng, hoặc chất tẩy để rửa sản phẩm.</p>\n   <p>Nên dùng khăn ẩm sạch để lau chùi sản phẩm.</p>\n   <p>Không phơi dép dưới ánh nắng, nên dựng đứng sản phẩm và để nơi khô thoáng, có gió.</p>\n   <p>------------------------------------------------</p>\n   <p>THỜI GIAN GIAO HÀNG :</p>\n   <p>Giao hàng theo lịch dự kiến của nhà vận chuyển dự kiến giao hàng đã có hiện rõ trên đơn hàng khi quý khách tạo đơn. (Shop không thể can thiệp phần thời gian giao hàng của nhà vận chuyển. Vì vậy quý khách thông cảm đừng đánh giá thấp Shop về thời gian giao hàng ạ).</p>\n   <p> Lưu ý: Shop chỉ giải quyết đổi hàng trường hợp phát hiện sản phẩm bị lỗi hở keo hoặc tróc xi , hoặc giao sai đơn. Quý Khách vui lòng nhắn vào shop sẽ được hỗ trợ ạ!</p>\n   <p>Khi quý khách nhận được hàng, vui lòng xác nhận đã nhận hàng, và nếu hài lòng sản phẩm và chất lượng sản phẩm Giavy thì vui lòng đánh giá tích cực giúp shop 5 sao nhé!</p>\n   <p>Xin cảm ơn Quý Khách đã tin dùng! Xin chào và hẹn gặp lại đơn hàng tiếp theo !</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "GIAVY"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "GIÀY GIA VY",
+      "stock_status": "available"
+    },
+    {
+      "id": 151778357,
+      "name": "Giày sandal nữ xỏ ngón da bò thật BIGGBEN cao cấp SDN72",
+      "price": 309000,
+      "discount_rate": 23,
+      "rating_average": 4.8,
+      "review_count": 5,
+      "order_count": 15,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4e/b5/0c/1859445455d087a672262afb6173eaff.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Chất Liệu :Da bò thật 100%Kích Thước :từ 35 đến 39Đế Cao : 1 cmSản phẩm được bảo hành 1 năm HƯỚNG DẪN BẢO QUẢNBảo quản nơi thoáng mátTránh tiếp xúc hóa chất mạnhGiày bị ướt phơi khô nơi bó...",
+      "description": "<ul><li>\n<p>Chất Liệu :Da bò thật 100%</p>\n</li><li>\n<p>Kích Thước :từ 35 đến 39</p>\n</li><li>\n<p>Đế Cao : 1 cm</p>\n</li><li>\n<p>Sản phẩm được bảo hành 1 năm</p>\n</li><li>\n<p> HƯỚNG DẪN BẢO QUẢN</p>\n<p>Bảo quản nơi thoáng mát</p>\n<p>Tránh tiếp xúc hóa chất mạnh</p>\n<p>Giày bị ướt phơi khô nơi bóng râm thoáng mát, tránh phơi trực tiếp dưới ánh nắng mặt trời.</p>\n</li><li>\n<p>Hướng dẫn chọn size:</p>\n</li><li>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/5c3a3bbdec6a4c213cb1e16db78d4cd5.jpg\" alt=\"\" width=\"550\" height=\"287\" /></p>\n</li></ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDN72"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Hóa đơn"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "1 Năm"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    },
+    {
+      "id": 112961505,
+      "name": "Sandal xỏ ngón nữ hot trend  trẻ trung năng động 21437",
+      "price": 145000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/1d/22/ccdcfd29fd572d236d08354353f1b6e0.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "       *) THÔNG TIN SẢN PHẨM   • ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.   • ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại   • ✧ Chức năng: giảm sốc, thoáng khí êm chân....",
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơi trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "ĐỒ DA THÀNH LONG TLG"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "ĐỒ DA THÀNH LONG TLG",
+      "stock_status": "available"
+    },
+    {
+      "id": 112960415,
+      "name": "Sandal xỏ ngón nữ hot trend  trẻ trung năng động 21418",
+      "price": 120900,
+      "discount_rate": 4,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/47/2f/944c813fcb83028cf4201bbc69789e46.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "       *) THÔNG TIN SẢN PHẨM   • ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.   • ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại   • ✧ Chức năng: giảm sốc, thoáng khí êm chân....",
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơitrong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "ĐỒ DA THÀNH LONG TLG"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "ĐỒ DA THÀNH LONG TLG",
+      "stock_status": "available"
+    },
+    {
+      "id": 112957780,
+      "name": "Sandal nữ xỏ ngón chữ M hot trend  trẻ trung năng động 21418",
+      "price": 125200,
+      "discount_rate": 4,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/27/07/14c2b1499668aaeeccbf2d4524187117.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "       *) THÔNG TIN SẢN PHẨM   • ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.   • ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại   • ✧ Chức năng: giảm sốc, thoáng khí êm chân....",
+      "description": "<html>\n <head></head>\n <body>\n  <ul>\n   <p>*) THÔNG TIN SẢN PHẨM</p>\n   <p>• ✦ Sandal nữ đẹp phù hợp cho các nàng dịu dàng và cá tính.</p>\n   <p>• ✧ Chất liệu : Da bò cao cấp - chất liệu lót mềm mại</p>\n   <p>• ✧ Chức năng: giảm sốc, thoáng khí êm chân.</p>\n   <p>• ★ Style: Hàn Quốc</p>\n   <p>• ✧ Thời trang:giày Đi làm, Đi chơi, Du lịch, Dự tiệc, Dạo phố....</p>\n   <p>• ★ Gợi ý phối đồ Style Cho các nàng Dịu dàng:</p>\n   <p>• =&gt; Sandal / Chân váy ngắn / áo sơ mi / túi</p>\n   <p>• ✧ Gợi ý phối đồ Style Cho các nàng Cá Tính:</p>\n   <p>• =&gt; Sandal / Quần Jeans ngắn / áo phông form dài / túi / Kính</p>\n   <p>• Đặc điểm sản phẩm</p>\n   <p>✧ Thoáng mát , êm ái thoái mái sử dụng</p>\n   <p>✧ Sandal được thiết kế đẹp mắt , có tính thẩm mỹ cao , nhiều người yêu thích</p>\n   <p>✧ Đế có rãnh chống trơn trượt, đàn hồi tốt.</p>\n   <p>✧ Kiểu dáng hiện đai, trẻ trung, năng động</p>\n   <p>• -----------------------* HIỂU ĐƯỢC TÂM LÍ KHI MUA HÀNG ONLINE SHOP CAM KẾT-----------------------</p>\n   <p>• Cam kết sản phẩm giống ảnh 100%</p>\n   <p>• Tất cả hình ảnh đều là shop tự chụp nên khách hàng có thể hoàn toàn yên tâm chọn lựa</p>\n   <p>• Được kiểm tra hàng trước khi thanh toán</p>\n   <p>• Nhận hàng và thanh toán tại nhà</p>\n   <p>• Hỗ trợ đổi trả hàng nhanh chóng, thuận tiện nhất</p>\n   <p>• *LƯU Ý</p>\n   <p>• - Hướng dẫn đặt mua nhiều màu, mẫu, kích thước trong 1 đơn hàng: Bạn phải chọn màu, mẫu hoặc kích thước bạn muốn rồi cho vào giỏ hàng. Sau khi chọn đủ thì vào giỏ hàng để tiến hành mua hàng. Có thể điều chỉnh số lượng mua trong giỏ hàng nếu muốn.</p>\n   <p>• Hướng dẫn bảo quản</p>\n   <p>★ Tránh mang sản phẩm khi trời mưa hoặc thời tiết xấu để chúng không bị ướt dẫn đến bong tróc.</p>\n   <p>✧ Bạn sử dụng các loại xà bông, nước rửa chén, kem cạo râu để giặt giày.</p>\n   <p>★ Chú ý là nên dùng bàn chải mềm hoặc khăn mềm để chà giặt sẽ tốt hơn.</p>\n   <p>✧ Nên phơi trong mát, không nên phơi trực tiếp dưới ánh nắng mặt trời.</p>\n   <p>★ Sau khi giặt xong để ráo nước sử dụng giấy mềm, thấm nước, cuốn 2-3 vòng phủ toàn đôi giày.</p>\n   <p>✧ Sau đó bạn có thể đem phơi trực tiếp dưới nắng mà không ảnh hưởng</p>\n  </ul>\n </body>\n</html><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "ĐỒ DA THÀNH LONG TLG"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "ĐỒ DA THÀNH LONG TLG",
+      "stock_status": "available"
+    },
+    {
+      "id": 54647040,
+      "name": "Dép cao su nữ 7 quai nhỏ xỏ ngón",
+      "price": 290000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 5,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/10/32/9998b7f33ea135927a88796a368d5ff2.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Tiền thân là đôi dép cao su Hồ Chí Minh, được gìn giữ qua đôi bàn tay nghệ nhân Phạm Quang XuânDép cao su thương hiệu Vua Dép Lốp là sản phẩm dép cao su chất lượng cao của người ViệtDép được làm hoàn ...",
+      "description": "<p>Tiền thân là đôi dép cao su Hồ Chí Minh, được gìn giữ qua đôi bàn tay nghệ nhân Phạm Quang Xuân<br />Dép cao su thương hiệu Vua Dép Lốp là sản phẩm dép cao su chất lượng cao của người Việt<br />Dép được làm hoàn toàn thủ công với thiết kế cách tân hợp thời trang<br />Dép được làm từ lốp ôtô, máy bay. Cao su nguyên bản, nguyên khối, độ bền cao<br />Đế cao su mềm. Quai cao su dày và ôm chân<br />Thuận tiện trong rất nhiều điều kiện thời tiết khắc nghiệt như mưa gió hay nắng nóng<br />Phong cách thời trang vừa bụi bặm vừa rất trẻ trung<br />Thiết kế mẫu mã đẹp, hợp thời trang, tinh xảo từ bàn tay người nghệ nhân - Vua dép lốp Ông Phạm Quang Xuân.<br />Dép được làm thủ công, có đường viền khắc chìm xung quanh, dưới đế được khoét chống trơn trượt, có rãnh thoát nước.<br />Đầu dép được làm cong, quai dép to và dầy, ôm chân và vừa form.<br />Chất liệu lốp cao su đi mềm mại và rất bền, đế cao su chắc chắn.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Vua Dép Lốp"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "xỏ ngón"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Vua Dép Lốp",
+      "stock_status": "available"
+    },
+    {
+      "id": 54930241,
+      "name": "Dép cao su Nữ 5 quai xỏ ngón",
+      "price": 290000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/00/77/06a41361170ab0b4192da7b897c16620.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Tiền thân là đôi dép cao su Hồ Chí Minh, được gìn giữ qua đôi bàn tay nghệ nhân Phạm Quang XuânDép cao su thương hiệu Vua Dép Lốp là sản phẩm dép cao su chất lượng cao của người ViệtDép được làm ho...",
+      "description": "<ul class=\"list\">\n<li>Tiền thân là đôi dép cao su Hồ Chí Minh, được gìn giữ qua đôi bàn tay nghệ nhân Phạm Quang Xuân</li>\n<li>Dép cao su thương hiệu Vua Dép Lốp là sản phẩm dép cao su chất lượng cao của người Việt</li>\n<li>Dép được làm hoàn toàn thủ công với thiết kế cách tân hợp thời trang</li>\n<li>Dép được làm từ lốp ôtô, máy bay. Cao su nguyên bản, nguyên khối, độ bền cao</li>\n<li>Đế cao su mềm. Quai cao su dày và ôm chân</li>\n<li>Thuận tiện trong rất nhiều điều kiện thời tiết khắc nghiệt như mưa gió hay nắng nóng</li>\n<li>Phong cách thời trang vừa bụi bặm vừa rất trẻ trung</li>\n<li>Thiết kế mẫu mã đẹp, hợp thời trang, tinh xảo từ bàn tay người nghệ nhân - Vua dép lốp Ông Phạm Quang Xuân.</li>\n<li>Dép được làm thủ công, có đường viền khắc chìm xung quanh, dưới đế được khoét chống trơn trượt, có rãnh thoát nước.</li>\n<li>Đầu dép được làm cong, quai dép to và dầy, ôm chân và vừa form.</li>\n<li>Chất liệu lốp cao su đi mềm mại và rất bền, đế cao su chắc chắn.</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Vua Dép Lốp"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "xỏ ngón"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Không"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Vua Dép Lốp",
+      "stock_status": "available"
+    },
+    {
+      "id": 15333738,
+      "name": "Giày Sandal Kẹp Nữ BIGGBEN Da Bò Thật SDN31",
+      "price": 329000,
+      "discount_rate": 18,
+      "rating_average": 4.5,
+      "review_count": 19,
+      "order_count": 77,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/5f/c6/22ad6915bd37719f0afa945252d9fde3.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.Sandal Nữ được xử lý đặc biệ...",
+      "description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ, </span><span style=\"font-family: Roboto-Regular, 'Helvetica Neue', Helvetica, Tahoma, Arial, sans-serif;\">Phong cách trẻ trung và Nữ tính.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/16f51ccf57eb417f405a80aa75b51a53.jpg\" alt=\"\" width=\"550\" height=\"285\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDN31"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    },
+    {
+      "id": 7993533,
+      "name": "Sandal Nữ Xỏ Ngón BIGGBEN Da Bò Thật SDXN01",
+      "price": 339000,
+      "discount_rate": 11,
+      "rating_average": 4.6,
+      "review_count": 22,
+      "order_count": 94,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/72/97/014b37baf52b2a3a053fdc02181e07ad.jpg",
+      "primary_category_path": "1/2/1703/4550/49562",
+      "availability": 1,
+      "short_description": "Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.Sandal Nữ được xử lý đặc biệ...",
+      "description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ với chất liệu da bò bền đẹp kết hợp đế cao su êm nhẹ chống trơn trượt giúp bạn Nữ luôn thoải mái, tự tin khi đi chơi, dạo phố, đi làm nơi công sở hay đi dự tiệc.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Sandal Nữ được xử lý đặc biệt để tạo độ bóng mờ Nữ tính thích hợp cho mọi lứa tuổi.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Đế cao Su cao cấp chẳng những êm ái mang lại sự thoải mái tối đa cho người dùng, mà mặt đế còn có độ bám tốt để bạn có thể sải bước thật vững vàng và tự tin.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Bạn có thể kết hợp với các loại trang phục hằng ngày tùy theo sở thích và phong cách của mình</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: black;\">Hướng dẫn chọn size:</span></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/86/60/c0/fd737e6534c577d0b067bb8490e69cfc.jpg\" alt=\"\" width=\"750\" height=\"391\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "BIGGBEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "item_model_number",
+              "name": "Model",
+              "value": "SDXN01"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Shoes BIGBEN",
+      "stock_status": "available"
+    }
+  ]
+}
