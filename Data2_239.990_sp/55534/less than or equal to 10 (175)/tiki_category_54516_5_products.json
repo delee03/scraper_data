@@ -1,0 +1,65 @@
+{
+  "total_products": 5,
+  "products": [
+    {
+      "id": 251378621,
+      "name": "Túi thực phẩm tự hủy Shinsen 25x35cm (3L)",
+      "price": 51000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/53/e3/f1e596002bebdb9be73b35cb1b43e7ec.png",
+      "primary_category_path": "1/2/44792/54514/54516",
+      "availability": 1
+    },
+    {
+      "id": 251335654,
+      "name": "Túi thực phẩm tự hủy Shinsen 18x28cm (1.4L)",
+      "price": 38000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/d4/80/3fee63c922b13569a2d0bd84c4bdf048.png",
+      "primary_category_path": "1/2/44792/54514/54516",
+      "availability": 1
+    },
+    {
+      "id": 251301574,
+      "name": "Túi zipper đa năng bấm vàng xanh Shinsen 18 x 19.2cm (1l)",
+      "price": 46000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/aa/32/1646d940f9943754bdb46ae41e434094.png",
+      "primary_category_path": "1/2/44792/54514/54516",
+      "availability": 1
+    },
+    {
+      "id": 204877115,
+      "name": "Phin Cà Phê Ông Bầu",
+      "price": 79000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/d7/78/bad5c173200bf94152f3ca9c78614381.png",
+      "primary_category_path": "1/2/44792/54514/54516",
+      "availability": 1
+    },
+    {
+      "id": 196534554,
+      "name": "THỐ SỨ CHƯNG YẾN CAO CẤP KÈM NẮP - MÀU TRẮNG SANG TRỌNG - BẢO SƠN TRUE NEST",
+      "price": 239000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/a1/bf/97e88c1e8caed79d86f08c1477641b92.jpg",
+      "primary_category_path": "1/2/44792/54514/54516",
+      "availability": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "total_products": 5,
+  "products": [
+    {
+      "id": 270490904,
+      "name": "[CHỈ GIAO HCM] Lá dứa - 300gr",
+      "price": 6500,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 12,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/80/43/5b9b924cbf09b0705a06e004ae9b12c7.jpg",
+      "primary_category_path": "1/2/44792/54302/54314",
+      "availability": 1
+    },
+    {
+      "id": 273645569,
+      "name": "[CHỈ GIAO HCM] Me vắt - 500gr",
+      "price": 19500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/3e/3e/385a08a2eb9a2ef2c5306d58ad0a9f4a.jpg",
+      "primary_category_path": "1/2/44792/54302/54314",
+      "availability": 1
+    },
+    {
+      "id": 271382473,
+      "name": "[CHỈ GIAO HCM] Khoai môn - 500gr",
+      "price": 29000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 5,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/6e/f7/bd87532e9e39aacaffc481b2884f6c22.jpg",
+      "primary_category_path": "1/2/44792/54302/54314",
+      "availability": 1
+    },
+    {
+      "id": 274538953,
+      "name": "[Chỉ Giao HCM] Bí Ngòi Xanh - 300g",
+      "price": 14500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/58/11/98/56dc51211bb550a19f63b039351e44a6.png",
+      "primary_category_path": "1/2/44792/54302/54314",
+      "availability": 1
+    },
+    {
+      "id": 263753521,
+      "name": "[CHỈ GIAO HCM] Khoai lang trắng - 500gr",
+      "price": 9000,
+      "discount_rate": 0,
+      "rating_average": 4.3,
+      "review_count": 3,
+      "order_count": 16,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/2d/dc/808d674f7c2b1b06f542ccd1ffea04e0.jpg",
+      "primary_category_path": "1/2/44792/54302/54314",
+      "availability": 1
+    }
+  ]
+}

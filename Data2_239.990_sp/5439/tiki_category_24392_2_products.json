@@ -1,0 +1,29 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 206205812,
+      "name": "Combo Hải sản Cajun",
+      "price": 463000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/00/f9/0695e33fbb4a38332d98288cdf699d87.jpg",
+      "primary_category_path": "1/2/11312/11313/24392",
+      "availability": 1
+    },
+    {
+      "id": 56028250,
+      "name": "BUSAN  - Voucher 99k Cơm súp Áp dụng Busan Chi nhánh Đinh Tiên Hoàng",
+      "price": 100000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 6,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/33/b3/a5d304c685524118290a593890d6e63e.jpg",
+      "primary_category_path": "1/2/11312/11313/24392",
+      "availability": 1
+    }
+  ]
+}

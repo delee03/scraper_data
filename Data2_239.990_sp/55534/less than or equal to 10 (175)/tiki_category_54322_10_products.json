@@ -1,0 +1,187 @@
+{
+  "total_products": 10,
+  "products": [
+    {
+      "id": 198746730,
+      "name": "Khô Gà Lá Chanh Thượng Hạng DTfood (500g)",
+      "price": 89000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/30/b9/647d46582600db159ba64f8aba8525e4.png",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1,
+      "short_description": "Thịt gà được sấy dai thơm lừng, kết hợp cùng lá chanh sấy giòn thơm nhẹ tí mùi the the tạo nên cảm giác ngon miệng đặc biệt. Khô gà lá chanh giòn cay có hương vị thơm ngon, dai dai, ngọt ngọt, cay cay...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Thịt gà được sấy dai thơm lừng, kết hợp cùng lá chanh sấy giòn thơm nhẹ tí mùi the the tạo nên cảm giác ngon miệng đặc biệt. Khô gà lá chanh giòn cay có hương vị thơm ngon, dai dai, ngọt ngọt, cay cay và giàu dinh dưỡng, ăn một lần là nhớ mãi; món ăn vặt chiếm được sự yêu thích của nhiều người sành ăn.\n<p>Là lựa chọn ưu tiên hàng đầu trong các món ăn tiện lợi được ưa chuộng hiện nay<br />Thơm ngon, giàu dinh dưỡng, đa dạng hương vị<br />Thành phần thịt gà trong món ăn có khả năng cung cấp vitamin và các khoáng chất tốt cho sức khỏe<br />Được chế biến hoàn toàn theo phương pháp tự nhiên.<br />Không chất bảo quản, chất tạo màu, chống mốc.<br />Đảm bảo sạch sẽ, không bụi bẩn, an toàn VSATTP<br />Có giấy chứng nhận ATTP<br />Khô gà lá chanh được xé sợi vừa ăn, nêm nếm đậm vị vừa ăn không quá ngọt. Độ cay nhẹ nhàng không làm mất mùi thơm của thịt gà.<br />Hạn sử dụng: 06 tháng từ ngày sản xuất (xem trên bao bì sản phẩm).</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "DTfood"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bách Hóa Anh Thư",
+      "stock_status": "available"
+    },
+    {
+      "id": 198746710,
+      "name": "Khô Gà Lá Chanh Thượng Hạng DTFood 1kg",
+      "price": 165000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/e4/8f/359e03e322a9c6a3291fa6ce9b5e6c1e.png",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1
+    },
+    {
+      "id": 198746758,
+      "name": "Khô Bò Miếng Hảo Hạng DTFood 250g",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/1d/bd/6d5b538ecaab768202d868f956faca04.jpg",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1
+    },
+    {
+      "id": 198746681,
+      "name": "Khô Heo Cháy Tỏi DTFood Đặc Biệt Thơm Ngon - 500g",
+      "price": 95000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/0f/a5/3e7d2853538d91143dd8669291068d7c.png",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1,
+      "short_description": "Thơm ngon, hợp vệ sinhKhô heo được làm từ thịt Heo sạch,tươi, miếng thịt hồng hào chế biến nóng hổi ngay nên luôn giữ được độ chắc dai bên ngoài nhưng lại mềm và ngọt thịt bên trong .Đảm bảo VSATTP ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Thơm ngon, hợp vệ sinh\n<br />Khô heo được làm từ thịt Heo sạch,tươi, miếng thịt hồng hào chế biến nóng hổi ngay nên luôn giữ được độ chắc dai bên ngoài nhưng lại mềm và ngọt thịt bên trong .\n<br />Đảm bảo VSATTP , thịt có kiểm định nguồn gốc rõ ràng\n<br />Tẩm ướp công thức riêng ko giống bất cứ loại heo khô nào trên thị trường . Ở mức độ nửa khô nửa ướt đặc biệt . Ăn đậm đà thơm ngon vị đặc trưng của thịt hoà quyện với tỏi giòn .\n<br />Trọng lượng: 500g\n<br /><p>Các sản phẩm như khô bò, khô mực, khô gà đã quá quen thuộc với người Việt từ lâu, thì nay DTFood mang đến cho các bạn một món ăn mới lạ mà vị không hề lạ đó chính là món Khô Heo Cháy Tỏi.</p>\n<p>Khô heo cháy tỏi DTFood là sự kết hợp của từng miếng thịt heo được chọn lọc kỹ càng với vị thơm của tỏi, nghiên cứu và chế biến theo công thức gia truyền tạo từ đó nên sự khác biệt của những món ngon không lẫn đi đâu được. Thịt heo sấy khô DTFood được sản xuất trên dây chuyền tiên tiến đảm bảo vệ sinh an toàn thực phẩm cho từng sản phẩm mà DTFood mang đến cho bạn. Còn đợi gì mà bạn chưa nhấc máy lên để đặt ngay một phần Khô heo cháy tỏi DTFood về nhâm nhi thưởng thức đây?</p>\n<p>Bao bì sản phẩm có thể thay đổi tuỳ theo Nhà sản xuất</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "DTfood"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bách Hóa Anh Thư",
+      "stock_status": "available"
+    },
+    {
+      "id": 198746670,
+      "name": "Khô Bò Cây Thượng Hạng DTfood 250g",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/16/d7/7e/776cd4755fc10937fa5bb73b4e324610.jpg",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1
+    },
+    {
+      "id": 113449305,
+      "name": "[Chỉ Giao HCM]  TÔM KHÔ SIZE XXXL - 300G",
+      "price": 612000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a2/0a/3b/d5b91ea06dd62ba247479a6a9664c354.jpg",
+      "primary_category_path": "1/2/44792/54316/54322/68712",
+      "availability": 1
+    },
+    {
+      "id": 130364483,
+      "name": "Phô Mai Scamorza Xông Khói ± 200g",
+      "price": 117000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1c/7a/ed/a7ac109527fc5bc7fb083e5c9a753842.png",
+      "primary_category_path": "1/2/44792/54316/54322",
+      "availability": 1
+    },
+    {
+      "id": 113449302,
+      "name": "[Chỉ Giao HCM]  TÔM KHÔ SIZE L - 100G",
+      "price": 154000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 7,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b9/3a/da/218ed035d5ea56ea6629c32214d97a0a.jpg",
+      "primary_category_path": "1/2/44792/54316/54322/68712",
+      "availability": 1
+    },
+    {
+      "id": 113449295,
+      "name": "[Chỉ Giao HCM]  TÔM KHÔ SIZE XL - 100G",
+      "price": 176000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/91/c2/eca675ed5c3ec68bae30156c540f91ea.jpg",
+      "primary_category_path": "1/2/44792/54316/54322/68712",
+      "availability": 1
+    },
+    {
+      "id": 113449270,
+      "name": "[Chỉ Giao HCM]  TÔM KHÔ SIZE S - 100G",
+      "price": 135000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/42/d4/aa/fccdff3d2c71548f84e87633af797691.jpg",
+      "primary_category_path": "1/2/44792/54316/54322/68712",
+      "availability": 1
+    }
+  ]
+}

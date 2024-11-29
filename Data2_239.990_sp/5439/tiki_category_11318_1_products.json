@@ -1,0 +1,53 @@
+{
+  "total_products": 1,
+  "products": [
+    {
+      "id": 56861068,
+      "name": "Buffet Beer Uống Thoả Thích tại Moonlight Sky Bar",
+      "price": 290000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/46/9f/2dc6402ce64cd83d8ddecb203902625c.png",
+      "primary_category_path": "1/2/11312/11313/11318",
+      "availability": 1,
+      "short_description": "Cực chất - Menu lên tới 08 loại beer đỉnh cao trong đó có 02 loại bia thủ công được đặt riêng đậm đà hương vị và màu sắc Moonlight Sky Bar- Bia thủ công Red Smoky Barrett- Bia thủ công Long Bien IPA F...",
+      "description": "<p><strong>Cực chất - Menu lên tới 08 loại beer đỉnh cao trong đó có 02 loại bia thủ công được đặt riêng đậm đà hương vị và màu sắc Moonlight Sky Bar</strong><br />- Bia thủ công Red Smoky Barrett<br />- Bia thủ công Long Bien IPA Furbrew<br />- Trúc Bạch Premium<br />- Tiger Blue<br />- Tiger Crystal<br />- Sapporo<br />- Hoegaarden Rosée<br />- Budweiser</p>\n<p>Cực phong cách - không bị gò bó trong không gian kín chật chội, hay hơi nóng hầm hập phả lên từ vỉa hè, lên Moonlight Sky Bar, bạn được thả mình vào không gian thoáng đãng, lộng gió thổi tới từ sông Hồng, hít thở không khí trong lành và thăng hoa trong bữa tiệc âm nhạc đầy cảm xúc của chúng tôi.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/dc/4a/e6/8c76b01fdcd7f41edde08ea90eb3c195.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/69/25/83/df80a6d02584d04c2e007702ff596837.png\" alt=\"\" width=\"750\" height=\"750\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "dac_diem_noi_bat",
+              "name": "Đặc điểm nổi bật",
+              "value": "<p>Buffet beer của Moonlight Sky Bar là lời hồi đáp cho các tín đồ \"trà xanh kem cheese\" đập tan nắng nóng mùa hè.</p>\n<p>Cực ngầu - Muốn “chill” nhưng sợ thiếu “thần thái” vì lo lắng về giá? Nỗi lo nay chẳng còn nữa vì chỉ với 290k/người tại Moonlight Sky Bar bạn được uống bia thoả thích không giới hạn.</p>"
+            },
+            {
+              "code": "dieu_kien_su_dung",
+              "name": "Điều kiện sử dụng",
+              "value": "<p>Voucher có giá trị sử dụng 01 lần duy nhất.  <br />Số lượng voucher có hạn.<br />Mở cửa từ 17:00 - 23:00 tất cả các ngày trong tuần<br />Thời hạn sử dụng voucher: 30 ngày kể từ ngày nhận mã e-voucher<br /><strong>Chưa bao gồm VAT. Nhà hàng sẽ phụ thu 10% VAT nếu khách cần viết hoá đơn đỏ. </strong><br />Không áp dụng đồng thời với các chương trình khuyến mãi khác.<br />Phiếu không có giá trị quy đổi thành tiền mặt, không trả lại tiền thừa.</p>"
+            },
+            {
+              "code": "dia_chi_su_dung",
+              "name": "Địa chỉ sử dụng",
+              "value": "<p><strong>Áp dụng tại nhà hàng Moonlight Sky Bar - tầng thượng 94 Mã Mây, Hoàn Kiếm, Hà Nội</strong></p>"
+            }
+          ]
+        },
+        {
+          "name": "Thời hạn sử dụng",
+          "attributes": [
+            {
+              "code": "expiry_date",
+              "name": "Thời hạn sử dụng",
+              "value": "30 ngày kể từ ngày nhận mã voucher"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Elegance Hospitality",
+      "stock_status": "available"
+    }
+  ]
+}

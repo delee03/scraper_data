@@ -1,0 +1,41 @@
+{
+  "total_products": 3,
+  "products": [
+    {
+      "id": 276113123,
+      "name": "Giày cao gót sức khỏe nữ Aetrex Sara Black - Giày lười gót cao 6p, đế đệm giảm đau chân",
+      "price": 3995000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/5d/16/20dbc2e190f7f122c79b68844d1fbaa6.jpg",
+      "primary_category_path": "1/2/1703/4551/49582",
+      "availability": 1
+    },
+    {
+      "id": 274212072,
+      "name": "[ẢNH THẬT-FREESHIP] Giày nữ da lì form thể thao, đế xuồng ROSATA RO623 - 4p - HÀNG VIỆT NAM - BKSTORE",
+      "price": 490000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/c9/b2/190532ff77a5a623172881272374817c.jpg",
+      "primary_category_path": "1/2/1703/4551/49582",
+      "availability": 1
+    },
+    {
+      "id": 274212312,
+      "name": "[ẢNH THẬT-FREESHIP] Giày nữ da lì form thể thao, mũi nhọn, đế xuồng ROSATA RO624 - 4p - HÀNG VIỆT NAM - BKSTORE",
+      "price": 490000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/7d/9c/a89591286d45794016f4b43ca8bde9d9.jpg",
+      "primary_category_path": "1/2/1703/4551/49582",
+      "availability": 1
+    }
+  ]
+}

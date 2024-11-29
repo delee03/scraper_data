@@ -1,0 +1,137 @@
+{
+  "total_products": 11,
+  "products": [
+    {
+      "id": 274875845,
+      "name": "Máy Sấy Panasonic 10,5kg NH-EH05JD1BV - Sấy diệt khuẩn 99,99% - Sấy thông minh - Sấy tiết kiệm - Hàng chính hãng",
+      "price": 21990000,
+      "discount_rate": 37,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/e7/65/85c7e6e602d28542a0635387416af921.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 263685700,
+      "name": "MÁY SẤY NGƯNG TỤ TOSHIBA TD-K90MEV(SK) - Hàng chính hãng - Chỉ giao HCM",
+      "price": 8649000,
+      "discount_rate": 32,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/61/5a/1ad1bef92688996f5ef3977b95b6dae6.png",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 275661772,
+      "name": "TD-K90MEV(SK) - Máy Sấy Ngưng Tụ Toshiba 8 Kg TD-K90MEV (SK) - Hàng Chính Hãng",
+      "price": 8290000,
+      "discount_rate": 31,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/92/e4/aee46ba70c9a49d72f2c0e7c7e9c37bc.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 225907581,
+      "name": "Máy sấy ngưng tụ Casper 8kg TD-80CGB - Hàng Chính Hãng (Chỉ Giao HCM)",
+      "price": 6559000,
+      "discount_rate": 28,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/1a/e8/a81ac922cd6ad7456a3a7d541f060762.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 204625991,
+      "name": "Máy sấy ngưng tụ Beko 8 Kg DU8133GA0W - Hàng chính hãng - Giao HCM và 1 số tỉnh thành",
+      "price": 7639000,
+      "discount_rate": 23,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/fd/bb/b73388f8a7dbed4195b5d036a124cbbe.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 198467522,
+      "name": "Máy sấy ngưng tụ Whirlpool 8 kg FFTCM118XB EE -  Chỉ giao HCM",
+      "price": 13600000,
+      "discount_rate": 1,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/ff/69/67911a374e25a681c8133bad3d6dfc79.png",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 190558414,
+      "name": "Máy sấy Electrolux 8kg EDC804P5WB - Chỉ giao Hà Nội",
+      "price": 16490000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/07/b8/ea/29415e5fff6508044a2e0482b6ae8760.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 188270733,
+      "name": "Máy sấy ngưng tụ Electrolux 8kg UltimateCare 500 EDC804P5WB - Hàng chính hãng( Chỉ giao HCM)",
+      "price": 13050000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ac/3c/b3/e9b03aa4c33a0b87730d770ee41204a1.png",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 141111326,
+      "name": "Máy giặt sấy Electrolux Inverter 11 kg EWW1142Q7WB - chỉ giao Hà Nội",
+      "price": 18790000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b9/67/8d/fb93bc822e88deeefbef0891c1c4316b.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 132785958,
+      "name": "Máy sấy ngưng tụ Beko 8 Kg DU8133GA0W - Hàng chính hãng - Giao toàn quốc",
+      "price": 6890000,
+      "discount_rate": 18,
+      "rating_average": 5,
+      "review_count": 2,
+      "order_count": 8,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/aa/0a/e557518a6e6f2ff4bc3b21a6c9366c2d.png",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    },
+    {
+      "id": 12219773,
+      "name": "Máy sấy Candy 9 Kg GVS C9DE-S",
+      "price": 9990000,
+      "discount_rate": 31,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ce/d4/56/e69c24e2ad126a3b75cfdf170ea213ee.jpg",
+      "primary_category_path": "1/2/4221/3863/67212",
+      "availability": 1
+    }
+  ]
+}

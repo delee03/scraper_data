@@ -1,0 +1,29 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 183333313,
+      "name": "GIÒ LỤA 500G",
+      "price": 148000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/33/89/90/befcb47b43375d8a3e9ac554743fe766.jpg",
+      "primary_category_path": "1/2/44792/54466/68779/68783",
+      "availability": 1
+    },
+    {
+      "id": 177187397,
+      "name": "[ Chỉ giao HCM] - Khay đi vệ sinh (không kèm xẻng)",
+      "price": 204000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/95/ca/40bdccafe3097cc50417a91eb9896c05.jpg",
+      "primary_category_path": "1/2/44792/54466/68779/68785",
+      "availability": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "total_products": 4,
+  "products": [
+    {
+      "id": 171945039,
+      "name": "Bánh Bông Lan Cuộn Phô Mai Rong Biển 18cm ",
+      "price": 95000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/f5/bd/c88f03f1eecb5ee7464fca166cb3dd00.jpg",
+      "primary_category_path": "1/2/44792/54316/54324",
+      "availability": 1
+    },
+    {
+      "id": 171631340,
+      "name": "Bánh Bông Lan Cuộn Kem BẮp 18cm ",
+      "price": 77000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/86/a1/218f625827a3db1678f9ed72f0c47a60.jpg",
+      "primary_category_path": "1/2/44792/54316/54324",
+      "availability": 1
+    },
+    {
+      "id": 198746625,
+      "name": "Bánh Tráng Trộn Tôm Khô Cháy Tỏi DTFood - Hộp 370g",
+      "price": 89000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/f0/a7/2fe395eaa4745c919a0125eb83db5e28.png",
+      "primary_category_path": "1/2/44792/54316/54324",
+      "availability": 1
+    },
+    {
+      "id": 142900889,
+      "name": "Bánh Mì Baguette 10ổ Gói",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 3,
+      "review_count": 2,
+      "order_count": 24,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/b0/05/86ed59c9928ee7f3d7c69442411db411.jpg",
+      "primary_category_path": "1/2/44792/54316/54324",
+      "availability": 1
+    }
+  ]
+}

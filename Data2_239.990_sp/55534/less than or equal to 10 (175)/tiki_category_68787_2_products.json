@@ -1,0 +1,29 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 252021109,
+      "name": "Súp Udon Bell Foods 400ML | Nấu mì Udon & Soba, làm sốt chấm Soba",
+      "price": 130000,
+      "discount_rate": 0,
+      "rating_average": 4,
+      "review_count": 1,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/a6/6f/785456168273a62c4bdb504a8ea0048e.jpg",
+      "primary_category_path": "1/2/44792/54466/68787/68792",
+      "availability": 1
+    },
+    {
+      "id": 177187543,
+      "name": "[ Chỉ giao HCM] -  Lược ENZO 20x3cm",
+      "price": 56000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/f3/c5/29743f6d6596cd990d09d07c3b8d1c85.jpg",
+      "primary_category_path": "1/2/44792/54466/68787/68791",
+      "availability": 1
+    }
+  ]
+}

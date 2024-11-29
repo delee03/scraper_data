@@ -1,0 +1,29 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 276462749,
+      "name": " RUỐC MUỐI (mắm tép) THÀNH VIỆT LOẠI 1KG - 5KG - 20KG DÙNG LÀM KIM CHI HQ - 새우젓",
+      "price": 60000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/37/be/55/2cd45e49585a5a44449d7c963c19935a.png",
+      "primary_category_path": "1/2/44792/54362/54382",
+      "availability": 1
+    },
+    {
+      "id": 274471212,
+      "name": "Gia Vị Hỗn Hợp Nấm Truffle Plantin - Summer Truffle Seasonning - 50G",
+      "price": 358000,
+      "discount_rate": 1,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/15/13/2a6d1886d6f174caed03056029aaea46.jpg",
+      "primary_category_path": "1/2/44792/54362/54382",
+      "availability": 1
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "total_products": 18,
+  "products": [
+    {
+      "id": 182130258,
+      "name": "Trà lúa mạch 380g",
+      "price": 61000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/80/05/7c205bb5a2df70abe5cc7827365c9c8a.png",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68838",
+      "availability": 1,
+      "short_description": "Trà lúa mạch 380g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Trà lúa mạch 380g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Itoen"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 275500916,
+      "name": "[CHỈ GIAO HCM] Khoai lang Nhật - 500g",
+      "price": 14500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/63/53/e26e85c62982dc38094a55c8ca56e1eb.png",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "[CHỈ GIAO HCM] Khoai lang Nhật - 1kgKhoai lang Nhật là món ăn được rất nhiều người yêu thích, được trồng và có củ quanh năm, ngon nhất là khi được nướng lên trên một bếp than đỏ hồng. Khoai lang Nhậ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>[CHỈ GIAO HCM] Khoai lang Nhật - 1kg</p>\n<article class=\"4ever-article\">\n<p>Khoai lang Nhật là món ăn được rất nhiều người yêu thích, được trồng và có củ quanh năm, ngon nhất là khi được nướng lên trên một bếp than đỏ hồng. Khoai lang Nhật có vị ngọt ngào như mật, tan tan trên đầu lưỡi, chứa nhiều vitamin A, B, C và nhiều khoáng chất cần thiết.</p>\n<p> </p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/e6/e9/62/d2def81bb5116d5d0260616244860fe9.jpg\" alt=\"d2def81bb5116d5d0260616244860fe9.jpg\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f9/6e/26/952bda4f8fff00c8d2c5e6a095e1493f.png\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FS Trái Cây Tươi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "FS TRÁI CÂY TƯƠI",
+      "stock_status": "available"
+    },
+    {
+      "id": 180320061,
+      "name": "Muối ớt đỏ chanh tắc cao cấp Làng Chài Xưa, nguyên liệu tươi, thơm ngon đặc biệt, chai thủy tinh 300gr",
+      "price": 90000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/44/2d/23ba7d44da88a7ec099f14bc84bc4693.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Muối ớt đỏ chanh tắc Làng Chài Xưa rất thơm ngon và khác biệt, được làm công phu bằng nguyên liệu tươi. Chanh tươi, tắc tươi, ớt xiêm tươi và muối sạch tinh khiết hòa quyện nồng nàn giúp món ăn ngon h...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Muối ớt đỏ chanh tắc Làng Chài Xưa rất thơm ngon và khác biệt, được làm công phu bằng nguyên liệu tươi. Chanh tươi, tắc tươi, ớt xiêm tươi và muối sạch tinh khiết hòa quyện nồng nàn giúp món ăn ngon hơn rất nhiều, đặc biệt là các loại thịt luộc, thịt nướng. Hãy cảm nhận hương vị thơm ngon tự nhiên!\n\n\n\n\n\nNguyên liệu chính để làm ra được \"\"MUỐI ỚT ĐỎ CHANH TẮC CAO CẤP\"\" trứ danh ngon khó cưỡng: Chanh tươi, tắc tươi, ớt xiêm tươi và muối sạch tinh khiết hòa quyện nồng nàn giúp món ăn ngon hơn rất nhiều. Tất cả được pha theo công thức chỉ có tại Bảo tàng nước mắm Làng Chài Xưa - Bảo tàng nước mắm đầu tiên tại Việt Nam.\nTất cả nguyên liệu đều có quy trình chọn lọc kỹ càng, lựa chọn sản phẩm tươi ngon đặc biệt , sạch và đạt chuẩn an toàn vệ sinh thực phẩm đáp ứng các tiêu chuẩn khắc khe nhất cho những khách hàng khó tính nhất mang đến sự an tâm tuyệt đối cho người dùng\n\n\n\n\n\n- Xuất xứ: Phan Thiết, Việt Nam\n \nTHÔNG TIN CHI TIẾT:\n- Muối ớt đỏ chanh tắc pha sẵn cao cấp thơm ngon đặc biệt\n- Nguyên liệu chính từ chanh tươi, ớt xiêm tươi, tắc tươi và muối sạch tinh khiết\n- Quy cách đóng gói: chai thủy tinh cao cấp 300g tiện dụng\n- Hạn sử dụng: 12 tháng kể từ ngày sản xuất ( Cam kết giao hàng date mới nhất đến tay khách hàng)\n\n\n\n\n\n- Hướng dẫn sử dụng: Lắc đều trước khi dùng, khi mở nắp dùng thì bảo quản trong tủ mát. dùng trực tiếp ngon nhất khi chấm với gà nướng, thịt nướng, hải sản hấp nướng.\n- Hướng dẫn bảo quản: bảo quản nơi thoáng mát, không dùng sau hạn sử dụng 12 tháng kể từ ngày sản xuất. Bảo quản trong ngăn mát tủ lạnh sau khi đã vặn nắp sử dụng.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Làng Chài Xưa"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "Nguyên liệu tươi, thơm ngon đặc biệt"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "Ăn sống hoặc nêm nếm món ăn, đậy nắp kín sau khi sử dụng"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Nước Mắm Tĩn HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 181926355,
+      "name": "Nước chấm Rong Biển Làng Chài Xưa Sea Sauce chai thủy tinh 500ml/chai Làng Chài Xưa - Chay mặn đều dùng được",
+      "price": 190000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/22/6d/6fd3f72e9c6f2428b6414d4cca1d16e2.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Nước chấm Rong Biển Sea Sauce chai thủy tinh 500ml vị ngon tự nhiên thay thế nước mắm làm từ rong biển đậu nành thơm dứa đường tảo muối tinh khiết [ CHAY MẶN đều dùng được MÔ TẢ SẢN PHẨM- Nước chấm ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p class=\"hrQhmh\">Nước chấm Rong Biển Sea Sauce chai thủy tinh 500ml vị ngon tự nhiên thay thế nước mắm làm từ rong biển đậu nành thơm dứa đường tảo muối tinh khiết [ CHAY MẶN đều dùng được</p>\n<p class=\"hrQhmh\"> MÔ TẢ SẢN PHẨM</p>\n<p class=\"hrQhmh\">- Nước chấm rong biển Sea Sauce có vị ngon tự nhiên dùng thay thế nước mắm, phù hợp cho nhu cầu ăn ít mặn của giới trẻ thành thị.</p>\n<p class=\"hrQhmh\">- Sea Sauce dùng để ăn sống chấm thịt, cá, rau hoặc nêm nếm món ăn như nước mắm</p>\n<p class=\"hrQhmh\">- Với thành phần tự nhiên từ rong biển, đường tảo, đậu nành và cốt thơm dứa, Sea Sauce là sản phẩm gốc thực vật tốt cho sức khỏe</p>\n<div class=\"hrQhmh\">\n<div>\n<div class=\"Mzs0kz\"><img class=\"WA1zgt _8akja2\" src=\"https://cf.shopee.vn/file/64b7f440ef92e056aa6ea3cee1df6dd5\" alt=\"64b7f440ef92e056aa6ea3cee1df6dd5\" /></div>\n</div>\n</div>\n<p class=\"hrQhmh\"> THÔNG TIN SẢN PHẨM</p>\n<p class=\"hrQhmh\">- Rong biển từ lâu đã được các nước như Nhật, Hàn Quốc chuộng dùng làm thực phẩm vì các tác dụng giải độc, lọc máu và chống lão hóa. Nước chấm rong biển Sea Sauce được xem là nước chấm của thế hệ mới khi có vị ngon ngọt hiện đại mà lại tự nhiên, tốt cho sức khỏe.</p>\n<div class=\"hrQhmh\">\n<div>\n<div class=\"Mzs0kz\"><img class=\"WA1zgt _8akja2\" src=\"https://cf.shopee.vn/file/6f62b28736153f56c597219e10ce9171\" alt=\"6f62b28736153f56c597219e10ce9171\" /></div>\n</div>\n</div>\n<p class=\"hrQhmh\">- Nước chấm rong biển Sea Sauce được ủ chượp từ rong biển, đường tảo, đậu nành và thơm dứa nên rất ngon miệng với hậu vị sâu lắng mà không quá mặn. Sea Sauce dùng thay thế nước mắm, chấm ăn sống, ướp hay nêm nếm đều ngon. Sea Sauce có thể dùng để ăn chay ăn mặn đều được.</p>\n<p class=\"hrQhmh\">- Là sản phẩm của bảo tàng nước mắm Làng Chài Xưa tại Phan Thiết.</p>\n<p class=\"hrQhmh\">- Chai thủy tinh 500ml - Đã đạt kiểm định chuẩn chất lượng [ AN TOÀN VỆ SINH THỰC PHẨM ]</p>\n<div class=\"hrQhmh\">\n<div>\n<div class=\"Mzs0kz\"><img class=\"WA1zgt _8akja2\" src=\"https://cf.shopee.vn/file/36ee151ae25e4e78f1e445b5440229a4\" alt=\"36ee151ae25e4e78f1e445b5440229a4\" /></div>\n</div>\n</div>\n<p class=\"hrQhmh\"> QUY TẮC BẢO QUẢN</p>\n<p class=\"hrQhmh\">- Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p>\n<p class=\"hrQhmh\">- Ăn sống hoặc nêm nếm món ăn, đậy nắp kín sau khi sử dụng.</p>\n<p class=\"hrQhmh\"> HẠN SỬ DỤNG: 2 năm kể từ ngày sản xuất, sau khi đã mở nắp thì nên sử dụng trong vòng 3 tháng để đảm bảo nguyên vẹn hương vị.</p>\n<div class=\"hrQhmh\">\n<div>\n<div class=\"Mzs0kz\"><img class=\"WA1zgt _8akja2\" src=\"https://cf.shopee.vn/file/46b4d06dda6c00e6bc48307c662907fc\" alt=\"46b4d06dda6c00e6bc48307c662907fc\" /></div>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Làng Chài Xưa"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "Chai thủy tinh 500ml"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Rong biển &amp; đậu nành non GMO</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p class=\"hrQhmh\">Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p>\n<p class=\"hrQhmh\"> </p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Ăn sống hoặc nêm nếm món ăn, đậy nắp kín sau khi sử dụng.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Nước Mắm Tĩn HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187531,
+      "name": "[ Chỉ giao HCM] - Nệm pikachu ABC số 3",
+      "price": 355000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/5d/94/0a4d869907fc8c0a2540ce912dfad4c2.png",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Chất liệu cotton thông thoáng, dễ vệ sinh, rất phù hợp với khí hậu nóng ẩm ở Việt Nam. - Bề mặt nằm có 2 lớp nệm tạo sự êm ái, thú cưng nhà bạn sẽ luôn có cảm giác được nâng niu và yêu chiều. - Thiế...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Chất liệu cotton thông thoáng, dễ vệ sinh, rất phù hợp với khí hậu nóng ẩm ở Việt Nam. \n<br>- Bề mặt nằm có 2 lớp nệm tạo sự êm ái, thú cưng nhà bạn sẽ luôn có cảm giác được nâng niu và yêu chiều. \n<br>- Thiết kế sinh động với gam màu nổi bật và hình ngộ nghĩnh họa tiết mang đến sự quen thuộc và gần gũi cho thú cưng đáng yêu trong nhà.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "ABC Pet"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187509,
+      "name": "[ Chỉ giao HCM] - đồ chơi hình cầu gai có dây",
+      "price": 75000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/db/23/d7499da610097ab62557a53d72434806.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68829",
+      "availability": 1,
+      "short_description": "Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên gia trong lĩnh vực chăm sóc thú cưng. Với đội ngũ bán hàng trẻ và đầy nhiệt huyết, khách hàng khi đến Petcity chắc chắn sẽ vô cùng hài lòng về chất lượng mặt hàng cũng như chất lượng dịch vụ tại đây.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "RubberT"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187515,
+      "name": "[ Chỉ giao HCM] - Khăn siêu thấm nhỏ",
+      "price": 50000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/93/cd/09/662d53682ead85527d14992842efe6fa.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Khăn tắm siêu thấm nước là sản phẩm không thể thiếu dành cho các chú chó mèo lông dài, bởi nhờ vào công dụng của nó mà các pé cưng sẽ được khô nhanh hơn sau mỗi khi tắm. Điều đó sẽ giúp chúng tránh bị...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Khăn tắm siêu thấm nước là sản phẩm không thể thiếu dành cho các chú chó mèo lông dài, bởi nhờ vào công dụng của nó mà các pé cưng sẽ được khô nhanh hơn sau mỗi khi tắm. Điều đó sẽ giúp chúng tránh bị cảm hoặc ốm khi ở trong nước quá lâu.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "MYPET"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187380,
+      "name": "[ Chỉ giao HCM] - -  Dây dắt tự động dây tròn M 5m",
+      "price": 570000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/52/84/c1ecec6c820138536a764c06dbac9804.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên gia trong lĩnh vực chăm sóc thú cưng. Với đội ngũ bán hàng trẻ và đầy nhiệt huyết, khách hàng khi đến Petcity chắc chắn sẽ vô cùng hài lòng về chất lượng mặt hàng cũng như chất lượng dịch vụ tại đây.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Flexi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187503,
+      "name": "[ Chỉ giao HCM] -  Túi vải sọc đen nhỏ",
+      "price": 155000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a8/a6/43/23d4817c448576e3d8d6d655afe607f5.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68843/68847",
+      "availability": 1,
+      "short_description": "Túi còn được phối lưới nhựa PP thông thoáng, không tạo cảm giác gò bó, khó thở khi thú cưng của bạn ở bên trong. Lớp lưới còn giúp bạn theo dõi được tình trạng của thú cưng một cách dễ dàng....",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Túi còn được phối lưới nhựa PP thông thoáng, không tạo cảm giác gò bó, khó thở khi thú cưng của bạn ở bên trong. Lớp lưới còn giúp bạn theo dõi được tình trạng của thú cưng một cách dễ dàng.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "PetCity"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187344,
+      "name": "[ Chỉ giao HCM] - Vòng cổ đệm 2 lớp ABC 2.5cm",
+      "price": 50000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/a4/b7/57b4c5679552a82b0d8a17cbf843b56d.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68841",
+      "availability": 1
+    },
+    {
+      "id": 177187354,
+      "name": "[ Chỉ giao HCM] - Dây dắt tự động dây tròn New Comfort 3m (xanh)",
+      "price": 382000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/80/cd/8c8a02eafa6b764d56dece117abd991f.png",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1,
+      "short_description": "Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Nhiều năm có mặt trên thị trường, Petcity được biết đến là địa chỉ uy tín và chuyên nghiệp hàng đầu dành cho thú cưng. Mỗi nhân viên của Petcity đều là một người nuôi thú cưng sành sỏi, là một chuyên gia trong lĩnh vực chăm sóc thú cưng. Với đội ngũ bán hàng trẻ và đầy nhiệt huyết, khách hàng khi đến Petcity chắc chắn sẽ vô cùng hài lòng về chất lượng mặt hàng cũng như chất lượng dịch vụ tại đây.<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Flexi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Petcity Cộng Hòa",
+      "stock_status": "available"
+    },
+    {
+      "id": 177187308,
+      "name": "[ Chỉ giao HCM] - Vòng cổ Police ABC 2.0cm",
+      "price": 50000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2c/20/40/4b8b012981478c88513efee759f4f905.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68841",
+      "availability": 1
+    },
+    {
+      "id": 177187286,
+      "name": "[ Chỉ giao HCM] -Yếm nylon 2 lớp đệm 2.5cm",
+      "price": 116000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/1b/92/3d4f63d1b3b64e00455c95772413f26d.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1
+    },
+    {
+      "id": 177187274,
+      "name": "[ Chỉ giao HCM] -  Dây dắt mèo kèm nơ 06x130cm",
+      "price": 78000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e5/72/a4/d8f6998efeff6f5454f306c07086aa20.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68843/68847",
+      "availability": 1
+    },
+    {
+      "id": 177187270,
+      "name": "[ Chỉ giao HCM] - đồ chơi hình xương có gai cỡ nhỏ",
+      "price": 75000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f6/9f/46/f2d3e9501557fee607f41c841c179291.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68829",
+      "availability": 1
+    },
+    {
+      "id": 177187206,
+      "name": "[ Chỉ giao HCM] - đồ chơi hình cầu mây",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5b/a3/56/b9bcfd8641a1760ad18f3d3f6f840aa1.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68829",
+      "availability": 1
+    },
+    {
+      "id": 177187164,
+      "name": "[ Chỉ giao HCM] -  Áo mưa size M",
+      "price": 145000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/97/3a/f600e288455bf70f685cc1e282ac60f3.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1
+    },
+    {
+      "id": 177187141,
+      "name": "[ Chỉ giao HCM] -  Áo mưa size S",
+      "price": 145000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/97/3a/53ab105a3d9b9bd92b1ba01a88bf80c6.jpg",
+      "primary_category_path": "1/2/44792/54466/54472/68817/68839",
+      "availability": 1
+    }
+  ]
+}
