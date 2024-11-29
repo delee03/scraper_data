@@ -1,0 +1,68 @@
+{
+  "total_products": 1,
+  "products": [
+    {
+      "id": 56939825,
+      "name": "Máy Ảnh Sony ZV-1 - Chính Hãng",
+      "price": 16940000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/29/33/29ff32d0ad34ad9cb94fb447bf03bc86.jpg",
+      "primary_category_path": "1/2/1801/28806/1808",
+      "availability": 1,
+      "short_description": "Máy Ảnh Sony ZV-1Sony mới đây vừa trình làng một mẫu máy ảnh mới có tên là Sony ZV-1 với thiết kế nhỏ gọn, hướng đến đối tượng người dùng chính là vlogger.Về thông số kỹ thuật, Sony ZV-1 sử dụng cảm...",
+      "description": "<p><strong>Máy Ảnh Sony ZV-1</strong></p>\n<p>Sony mới đây vừa trình làng một mẫu máy ảnh mới có tên là Sony ZV-1 với thiết kế nhỏ gọn, hướng đến đối tượng người dùng chính là vlogger.</p>\n<p>Về thông số kỹ thuật, Sony ZV-1 sử dụng cảm biến CMOS 1-inch độ phân giải 20 MP với thiết kế dạng xếp lớp, có ống kính 24-70 mm và khẩu độ f/1.8-2.8 tương tự như các mẫu máy ảnh RX100 series.</p>\n<p style=\"text-align: center;\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/61/1d/43/c06779e688acff008100a2c005d75944.jpg\" alt=\"\" width=\"750\" height=\"485\" /></p>\n<p>Đặc biệt, vì hướng đến người dùng là vlogger nên mẫu camera này còn hỗ trợ màn hình cảm ứng có khả năng lật ngang giúp việc tự quay video hay chụp ảnh selfie đơn giản hơn.</p>\n<p>Chưa hết, máy ảnh cũng đi kèm nhiều tính năng và chế độ phục vụ cho việc quay vlog như khả năng lấy nét cực nhanh, theo dõi chuyển động khuôn mặt khi quay và hỗ trợ 3 micro định hướng giúp giảm thiểu tối đa các tạp âm.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://salt.tikicdn.com/cache/w750/ts/product/8a/b6/ea/1f56ad97d29a4556e64cc3349350a435.jpg\" alt=\"\" width=\"750\" height=\"1020\" /></p>\n<p>Ngoài ra, một vài thông số nổi bật khác của ZV-1 có thể kể đến là thiết bị có khả năng quay video 4K 30fps, Full HD 120fps, quay video siêu chậm 960fps và hỗ trợ hotshoes cho phép kết hợp thiết bị với nhiều phụ kiện khác nhau.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Sony"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "is_warranty_applied",
+              "name": "Sản phẩm có được bảo hành không?",
+              "value": "Có"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Trung Quốc"
+            },
+            {
+              "code": "warranty_time_period",
+              "name": "Thời gian bảo hành",
+              "value": "24 Tháng"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "included_accessories",
+              "name": "Phụ kiện đi kèm",
+              "value": "<p>Máy, Pin, Cáp sạc</p>"
+            },
+            {
+              "code": "warranty_form",
+              "name": "Hình thức bảo hành",
+              "value": "Điện tử"
+            }
+          ]
+        }
+      ],
+      "seller_name": "DZ store",
+      "stock_status": "available"
+    }
+  ]
+}

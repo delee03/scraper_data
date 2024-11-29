@@ -1,0 +1,101 @@
+{
+  "total_products": 8,
+  "products": [
+    {
+      "id": 184317885,
+      "name": "NƯỚC SÚC MIỆNG MONDAMIN PEPPERMINT 380ML",
+      "price": 188000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/33/18/a9/303df808cd3d76542ba5a0a9000d53a4.png",
+      "primary_category_path": "1/2/44792/68840/54474/68909",
+      "availability": 1
+    },
+    {
+      "id": 184317611,
+      "name": "NƯỚC SÚC MIỆNG MONDAMIN STRONG MINT 380ML(24C/T)",
+      "price": 188000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2e/b4/20/af4c3945a7cb9e11a91e46dce6f9f83b.png",
+      "primary_category_path": "1/2/44792/68840/54474/68909",
+      "availability": 1
+    },
+    {
+      "id": 184317610,
+      "name": "NƯỚC XÚC MIỆNG  HƯƠNG BẠC HÀ EARTH HMP MONDAMIN PAPPER MINT 80ML (48C/T)",
+      "price": 66000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/22/12/80a40dc90d287e1c41097df7fae3e852.png",
+      "primary_category_path": "1/2/44792/68840/54474/68909",
+      "availability": 1
+    },
+    {
+      "id": 184317709,
+      "name": "NƯỚC XÚC MIỆNG  EARTH HMP MONDAMIN STRONG MINT 700ML (12C/T)",
+      "price": 329000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4b/7f/46/be1fa3b3a82746af914e3915e803ced8.png",
+      "primary_category_path": "1/2/44792/68840/54474/68909",
+      "availability": 1
+    },
+    {
+      "id": 177221459,
+      "name": "Khăn ướt Hensley gói 100 tờ - Thương hiệu Indonesia",
+      "price": 56000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/2d/f8/ac2fa5cc0deccbcc43fec93cc1c5c87e.jpg",
+      "primary_category_path": "1/2/44792/68840/54474/68899",
+      "availability": 1
+    },
+    {
+      "id": 184317493,
+      "name": "NƯỚC XÚC MIỆNG  EARTH HMP MONDAMIN STRONG MINT 380ML (24C/T)",
+      "price": 188000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/5d/2d/fd69dfd6ce6b33c3bf51981b92910427.png",
+      "primary_category_path": "1/2/44792/68840/54474/68909",
+      "availability": 1
+    },
+    {
+      "id": 177221795,
+      "name": "Lăn Khử Mùi Gillette Dạng Gel Arctic Ice Clear Gel 107g - Hàng USA - Actic Ice",
+      "price": 99500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/02/9c/5bf57d1f3637798bdba63700948ee791.jpg",
+      "primary_category_path": "1/2/44792/68840/54474/68900/68902",
+      "availability": 1
+    },
+    {
+      "id": 177242764,
+      "name": "Lăn Khử Mùi Gillette Dạng Gel Cool Wave Clear Gel 107g - Hàng USA",
+      "price": 99500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/0d/97/14986f19da997caacf9b058b0e519bb4.jpg",
+      "primary_category_path": "1/2/44792/68840/54474/68900/68902",
+      "availability": 1
+    }
+  ]
+}

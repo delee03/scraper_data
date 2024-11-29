@@ -1,0 +1,134 @@
+{
+  "total_products": 3,
+  "products": [
+    {
+      "id": 182130482,
+      "name": "Nước Giải Khát Có Cồn Zeitaku Zero 6% 350ml",
+      "price": 63000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/ec/48/d3d7b3738b82d7da977354636f6c9ec5.png",
+      "primary_category_path": "1/2/44792/54412/69131",
+      "availability": 1,
+      "short_description": "Nước Giải Khát Có Cồn Zeitaku Zero 6% 350ml...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Nước Giải Khát Có Cồn Zeitaku Zero 6% 350ml<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Asahi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317436,
+      "name": "NƯỚC COCTAIL ĐÀO 350ML ASAHI ZEITAKU SHIBORI MOMO 350ML ALC.4% (24L/T)",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/8d/be/1882fcec61fe472d08e96906520189ee.png",
+      "primary_category_path": "1/2/44792/54412/69131",
+      "availability": 1,
+      "short_description": "NƯỚC ĐÀO CÓ CỒN...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>NƯỚC ĐÀO CÓ CỒN<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Asahi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317831,
+      "name": "NƯỚC KIWI CÓ CỒN 350ML ASAHI ZEITAKU SHIBORI KIWI 350ML ALC.4% (24L/T)",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/bd/6e/0869ea50a62123ad4aa28d29c98515ba.png",
+      "primary_category_path": "1/2/44792/54412/69131",
+      "availability": 1,
+      "short_description": "NƯỚC KIWI CÓ CỒN...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>NƯỚC KIWI CÓ CỒN<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Asahi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    }
+  ]
+}

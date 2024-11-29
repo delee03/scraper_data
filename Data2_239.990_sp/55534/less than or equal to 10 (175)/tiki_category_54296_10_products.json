@@ -1,0 +1,125 @@
+{
+  "total_products": 10,
+  "products": [
+    {
+      "id": 273502776,
+      "name": "MỰC SẤY 5O G",
+      "price": 82000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/b3/e7/610d6c84574f902b5ff0371cee1d2971.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68698",
+      "availability": 1
+    },
+    {
+      "id": 273502578,
+      "name": "CÁ THIỀU TẨM GIA VỊ 200 G",
+      "price": 135000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/33/d5/e0a64da31b2ad8e3be6918cd25c7ea7e.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68695",
+      "availability": 1
+    },
+    {
+      "id": 273502812,
+      "name": "MỰC SẤY 100 G",
+      "price": 130000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/dc/78/5ddeed76693463ec90eaa68acc2f8da9.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68698",
+      "availability": 1
+    },
+    {
+      "id": 273502841,
+      "name": "MỰC SẤY 150 G",
+      "price": 189000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/c9/ce/bf31d22d7ad2d3c4dfb649730b8c2385.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68698",
+      "availability": 1
+    },
+    {
+      "id": 205727223,
+      "name": "Cá chét 1 nắng nhà làm đặc biệt 0.5kg",
+      "price": 140000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/84/7b/972c053b7107050e410eee02ffacc024.png",
+      "primary_category_path": "1/2/44792/54290/54296/68695",
+      "availability": 1
+    },
+    {
+      "id": 205966533,
+      "name": "Cá thu 1 nắng muối sả đặc biệt 1kg",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/67/7c/2527c93ca6089f10d9a659ea10f5e535.png",
+      "primary_category_path": "1/2/44792/54290/54296/68695",
+      "availability": 1
+    },
+    {
+      "id": 205727601,
+      "name": "Cá lạt 1 nắng muối sả ớt đặc biệt 1kg",
+      "price": 280000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/74/3b/4e/2a07345c1bb8df57bd8fe2f844868056.png",
+      "primary_category_path": "1/2/44792/54290/54296/68695",
+      "availability": 1
+    },
+    {
+      "id": 180028677,
+      "name": "Đặc Sản Cà Mau - Tôm Khô Đất Sống Phơi Thượng Hạng, Tôm Khô Cà Mau Chính Hiệu - Hộp",
+      "price": 690000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5a/44/d8/641b5a62d9f08076f57cea0acbcc984b.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68699",
+      "availability": 1
+    },
+    {
+      "id": 179980197,
+      "name": "Đặc Sản Cà Mau - Tôm Khô Đất Sống Phơi Thượng Hạng, Tôm Khô Cà Mau Chính Hiệu - Hộp",
+      "price": 430000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/6e/f5/d470216311452ad3fcb7da1e0897e9a8.jpg",
+      "primary_category_path": "1/2/44792/54290/54296/68699",
+      "availability": 1
+    },
+    {
+      "id": 152862051,
+      "name": "[HCM] Cá Nục Sốt Cà (400g/hộp) - SaiThanhFoods",
+      "price": 61000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 11,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/f1/e0/b915fbb25bc2cdcc4fd68b862754795c.jpg",
+      "primary_category_path": "1/2/44792/54290/54296",
+      "availability": 1
+    }
+  ]
+}

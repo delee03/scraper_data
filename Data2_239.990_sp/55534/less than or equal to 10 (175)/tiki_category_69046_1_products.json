@@ -1,0 +1,48 @@
+{
+  "total_products": 1,
+  "products": [
+    {
+      "id": 207782321,
+      "name": "BỘT CHOCOLATE ÔNG BẦU - Túi 600g",
+      "price": 179000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/99/c1/bb9ad6bd7f4c394f65bbbc23e35ce120.jpg",
+      "primary_category_path": "1/2/44792/69032/69046",
+      "availability": 1,
+      "short_description": "Thành PhầnBột Cacao, Cacao Mass Hướng dẫn sử dụng: Dùng pha chế các loại thức uống Sản Xuất Tại Việt Nam: Công Ty Cổ Phần Thực Phẩm Dinh Dưỡng Nutifood Bình Dương Khối lượng: 600g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p class=\"N5VAH-\">Thành Phần</p>\n<p class=\"N5VAH-\">Bột Cacao, Cacao Mass</p>\n<p class=\"N5VAH-\"> </p>\n<p class=\"N5VAH-\">Hướng dẫn sử dụng: Dùng pha chế các loại thức uống</p>\n<p class=\"N5VAH-\"> </p>\n<p class=\"N5VAH-\">Sản Xuất Tại Việt Nam: Công Ty Cổ Phần Thực Phẩm Dinh Dưỡng Nutifood Bình Dương</p>\n<p class=\"N5VAH-\"> </p>\n<p class=\"N5VAH-\">Khối lượng: 600g</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Content",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ông Bầu"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            }
+          ]
+        },
+        {
+          "name": "Operation",
+          "attributes": [
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "CÀ PHÊ ÔNG BẦU",
+      "stock_status": "available"
+    }
+  ]
+}

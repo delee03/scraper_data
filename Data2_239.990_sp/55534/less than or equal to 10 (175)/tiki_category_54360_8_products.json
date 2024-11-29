@@ -1,0 +1,101 @@
+{
+  "total_products": 8,
+  "products": [
+    {
+      "id": 275435395,
+      "name": "[Chỉ Giao HCM] Ngó sen chua - túi 500gr",
+      "price": 35000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/a2/21/e31c328974102e2c49db2d883cda3f13.png",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 271733283,
+      "name": "COMBO LẨU 5 TRONG 1 KÈM SÚP NẤM 600G EB MALAYSIA  ",
+      "price": 160000,
+      "discount_rate": 24,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ff/c8/d9/2d9d3120eb76ebb07553a80e7ca40397.jpg",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 271725955,
+      "name": "COMBO LẨU 5 TRONG 1 KÈM SÚP TỨ XUYÊN 600G EB MALAYSIA",
+      "price": 160000,
+      "discount_rate": 24,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/ea/44/7a05eed88cd1ef7b0ab078e6c940d374.jpg",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 275267641,
+      "name": "Ringroll 168g - Hũ trúc cuộn",
+      "price": 85000,
+      "discount_rate": 19,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/85/68/2c/eb518ab373bbb9ff18eb8eb41ccc88c6.jpg",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 184317843,
+      "name": "SÚP GÀ AJINOMOTO KNORR CUP SOUP CHICKEN CONSOMMÉ 3P (60C/T)",
+      "price": 75000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/a3/13/0bd9df6710d15449df1abb4f40f3667d.png",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 184317451,
+      "name": "SÚP NẤM AJINOMOTO KNORR CUP SOUP KINOKO NO POTAGE 3P 42.9G (60C/T)",
+      "price": 85000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a1/69/b9/8cd94f6fba47e4c3cbbd16e714e555b3.png",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 184317482,
+      "name": "SÚP BẮP AJINOMOTO KNORR CUP TSUBU TAPPURI CORN CREAM 3P 53.1G (60C/T)",
+      "price": 73500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/18/f1/b7782139fa0fa572acd1c1f9fc64fd70.png",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    },
+    {
+      "id": 184317422,
+      "name": "SÚP KHOAI TÂY AJINOMOTO KNORR CUP SOUP POTAGE 3P (60C/T)",
+      "price": 73500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/14/d2/bac776b90b64853833763a12d3a50c27.png",
+      "primary_category_path": "1/2/44792/54344/54360",
+      "availability": 1
+    }
+  ]
+}

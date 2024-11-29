@@ -1,0 +1,29 @@
+{
+  "total_products": 2,
+  "products": [
+    {
+      "id": 275268707,
+      "name": "Hệ Thống Tưới, Trộn & Châm Phân Tự Động HiDosing - HiFarm",
+      "price": 51205000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/22/d9/a845b3b01c6f7b4824713b571322006e.png",
+      "primary_category_path": "1/2/44792/54514/54522",
+      "availability": 1
+    },
+    {
+      "id": 275302700,
+      "name": "Van Điện Phi - Van Bi Điện - Van Bi Đồng Nối Ren Điều Khiển Điện HiFarm",
+      "price": 1080000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/5e/7d/2b2c49baf7c369b9bb434de592741aeb.jpg",
+      "primary_category_path": "1/2/44792/54514/54522",
+      "availability": 1
+    }
+  ]
+}

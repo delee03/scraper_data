@@ -1,0 +1,3674 @@
+{
+  "total_products": 105,
+  "products": [
+    {
+      "id": 274018775,
+      "name": "MUỐI BẠC LIÊU - SEA SALT FLAKES IN TUBE 1Kg",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/07/77/a6cfb00f5609a529aabc519fcb113758.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 252167911,
+      "name": "Nước sốt Tsuyu chấm / nấu mì udon, mì soba Nhật Bản Yamamori 1L",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/db/4f/25fe484101e0f664dfc015497730dccb.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 276232352,
+      "name": "GIẤM Ý BALSAMICO CASA RINALDI 1 LÍT (Chai thủy tinh)",
+      "price": 303000,
+      "discount_rate": 2,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/27/82/5f62ed18813c0c6ebfe295a4c3c7dd51.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/54376",
+      "availability": 1
+    },
+    {
+      "id": 276246622,
+      "name": "SỐT THỊT BARILLA BOLOGNESE 400g",
+      "price": 154500,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2f/a6/78/4811bef5ae5b9535f0d19779a517ca54.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 252165874,
+      "name": "Bột ớt 7 vị Nhật Bản Nanami Togarashi (S&B) gói 300G | Ướp, rắc lên mì soba, udon, tempura",
+      "price": 152000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/8f/23/e05e28aadbd04aeef8ef36ec5b4f216e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69145",
+      "availability": 1
+    },
+    {
+      "id": 252136240,
+      "name": "Nước dùng tiện lợi Shiro Dashi {Ninben} Nhật Bản 500ML | Dùng để nấu súp [Hương vị chuẩn Nhật Bản] ",
+      "price": 150000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/3b/6b/f3651c8e1107a4fc568e23f7a90637a0.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 252133744,
+      "name": "Sốt ướp thịt cá Teriyaki Thick Sauce Kikkoman (Đậm Đặc) chai thủy tinh 290G",
+      "price": 155000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/60/0f/3dbcbc846259cd910244f3d8b7a76c28.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 251546296,
+      "name": "Gia vị rắc cơm cho bé Nhật Bản Ochazuke Nori Nagatanien (4 gói x 6g)",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/73/0a/681dbae07ecc6f21149f9a33e3436e78.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 251536534,
+      "name": "Sốt Mè Rang Yamamori Thơm Ngon Chai 1 Lít | Trộn Salad và Chấm ",
+      "price": 236000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/2f/0c/b9ba18ba05a4f891a09e87df9a0f1572.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 251536348,
+      "name": "Nước Sốt Mè Rang Yamamori 500ML | Dùng Trộn Salad và Chấm",
+      "price": 138000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/9d/6e/e63bbd9f26b2e706ca9e2780ed7cc1dc.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 251534878,
+      "name": "Nước Sốt Mè Rang Yamamori 220ML | Dùng để chấm, trộn salad",
+      "price": 70000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/cf/93/9ace4fa16afcfd96fc0793db7d8da12b.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 193564804,
+      "name": "xốt tiêu đen 285g",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/06/7f/da4f40551ee313fad293f1bb720940aa.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 184317693,
+      "name": "SỐT THỊT NƯỚNG YAKINIKU NO TARE AMAKUCHI-MILD 300G (12C/T)",
+      "price": 126000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/d0/97/aba1893b80911f94de495742908ab7cf.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 184317608,
+      "name": "SỐT THỊT NƯỚNG (NGỌT ) EBARA OUGON NO AJI MILD 360G (12C/T)",
+      "price": 165000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/16/8e/979de80d4a93612300ed1a3d287bb63a.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 184317664,
+      "name": "NƯỚC SỐT DƯA CHUA ASAZUKE NO MOTO 500ML(12C/T)-",
+      "price": 106000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/4a/d4/c3c168bf24e344416037ba440966ccb3.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 184317666,
+      "name": "NƯỚC SỐT CHO MÓN XÀO BUTADON 245G BELL SHOKUHIN (12pcs/ctn)",
+      "price": 104000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/61/be/b536eef0d5a137753e8ec8b7d5e1dea3.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 184317478,
+      "name": "HẠT NÊM GÀ AJINOMOTO GARA SOUP 55G (60C/T)",
+      "price": 106000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 5,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/48/b3/ce/5fca66af3f2cda96e787c26955e41c40.png",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1
+    },
+    {
+      "id": 184317464,
+      "name": "MUỐI AJINOMOTO SETONO HONZIO YAKIZIO 200G (40C/T)",
+      "price": 85000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 11,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/d9/1f/2745305e6136175b4cdaf945032a0c63.png",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    },
+    {
+      "id": 182130420,
+      "name": "Gia Vị Cơm chiên Vị Cá Hồi Nagatanien 24g",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/cb/01/eafd7ee5832610001f11ccd74d374337.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 182130502,
+      "name": "Bột Rắc Cá Hồi Rong Biển 24g",
+      "price": 52000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/be/7f/f8690d73da8d2b64469a99a5250e7304.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 182130133,
+      "name": "Sốt Teriyaki 180g",
+      "price": 68000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f9/94/3f/f1f3af0baa593d9a9c66056ee6756624.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 182130109,
+      "name": "Sốt Takoyaki 300g",
+      "price": 85000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/3c/cb/46197a1afc78bf46f626bdf41f18596e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 181503276,
+      "name": "Xốt muối kim chi Hàn Quốc 180g",
+      "price": 25000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/23/de/5a665831cc056ba48d33ff0fe4f771a2.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 181503215,
+      "name": "Combo mua 3 gói Gia Vị Hoàn Chỉnh Barona được mua gói thứ 4 với giá 0đ",
+      "price": 35700,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/cb/99/808ccdb684d649b5fe087b3b3c20ae72.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 181503187,
+      "name": "Combo 1 Gói Lẩu Thái BARONA và 1 Gói Xốt Muối Kim Chi Hàn Quốc BARONA",
+      "price": 70000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/f3/44/3e8621251b085a96137df864adef952a.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 181503179,
+      "name": "Gia Vị Thịt Kho Tàu Barona 80g ướp ngon chuẩn vị không cần nêm nếm",
+      "price": 12800,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/48/0f/37/32425d4e09f0cf4cb3bdb4241ae8eca5.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 174598879,
+      "name": "[Chỉ giao HCM] Sốt Hương Nấm Armonia Robo 500g",
+      "price": 352000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/6d/f5/8d816cf93475508100f067128f333e2a.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 173147615,
+      "name": "BÁNH TAKOYAKI - CHIÊN/NƯỚNG - HÀNG PHÂN PHỐI",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/68/15/e8/e9d64f07afaa0dd019caaa648635eb56.png",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1
+    },
+    {
+      "id": 181503177,
+      "name": "Xốt Muối Kim Chi Hàn Quốc Barona 2 gói x 180g (tặng hũ thủy tinh cao cấp)",
+      "price": 73000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/4a/06/5c5c3fdd5858906d072c388e7806faa7.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 163028094,
+      "name": "Sốt gà chiên O'Food (120g)",
+      "price": 25000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/0f/7c/00eecd81ae8dff2f2dad207c6bb880f0.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 142869449,
+      "name": "Muối Xay SaHu 750Gr",
+      "price": 21000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/53/ef/e8a4dd645d14c4831f502d9ad991d2bc.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    },
+    {
+      "id": 163027718,
+      "name": "Sốt ướp thịt Hàn Quốc O'Food (80g)",
+      "price": 15000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/df/0a/49bef6a7c34249f83c44f3bf6f6568db.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 142869393,
+      "name": "Muối Hầm SaHu 750Gr",
+      "price": 42000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 7,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/e3/17/e20e05ae72385f3d030f44b7358698f8.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    },
+    {
+      "id": 142866760,
+      "name": "Muối Bọt SaHu 1KG",
+      "price": 34000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/79/f4/6bce8cc63031d171cf3024a1fcca132b.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    },
+    {
+      "id": 142827333,
+      "name": "Gia Vị Rắc Cơm Tâm Minh - 100g",
+      "price": 60500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6c/13/45/6e4cbf611c76f7741bfc0019c2ae1f72.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 142832465,
+      "name": "Hạt Nêm Nấm Rau Củ Vegan Loving 450Gr",
+      "price": 100000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/38/27/25b56ce2d2756e0b46e74f782ec5a72d.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1
+    },
+    {
+      "id": 131029595,
+      "name": "HCM- READY TO COOK - Mắm kho Nam Bộ 500g Mega Việt Phát (MVP) Megadeli",
+      "price": 119000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/89/fd/1118beac6562fde7f1773bf70ec46fd0.jpg",
+      "primary_category_path": "1/2/44792/54362/54370",
+      "availability": 1
+    },
+    {
+      "id": 130521378,
+      "name": "HCM - READY TO COOK - Mắm cá thu chưng thịt 220g Mega Việt Phát (MVP) Megadeli",
+      "price": 89000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/43/77/86efebd1a153529583461c562b608225.jpg",
+      "primary_category_path": "1/2/44792/54362/54370",
+      "availability": 1
+    },
+    {
+      "id": 130489660,
+      "name": "HCM- READY TO COOK - Mắm cá lóc chưng thịt 220g Mega Việt Phát (MVP) Megadeli",
+      "price": 119000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/a9/bd/7042c727083714879f398d45771f305e.jpg",
+      "primary_category_path": "1/2/44792/54362/54370",
+      "availability": 1
+    },
+    {
+      "id": 57447012,
+      "name": "[Chỉ Giao HCM] - Muối hồng Himalaya dạng hột NaturGreen (500G)",
+      "price": 135000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/cd/79/ef138b71cfbfb82af2fa3b4bfdb477e1.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    },
+    {
+      "id": 252169871,
+      "name": "Hạt nêm từ rong biển Konbu Dashi No Moto {Shimaya} hộp 1KG [HÀNG NHẬT BẢN] ",
+      "price": 549000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/12/7b/5bf6b1a52b8a9536569d50bf0cd9a54f.png",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1
+    },
+    {
+      "id": 252167220,
+      "name": "Sốt Tsuyu Yamamori Nhật Bản 500ML |  Chấm mì soba, mì udon",
+      "price": 110000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e1/29/06/52fa180b5a79731c3a939b8818fb5f1e.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 252024053,
+      "name": "Sốt Ướp Thịt Kalbee 2KG Bell Foods | Sản phẩm chuyên dùng nhà hàng, ướp nướng Nhật Bản",
+      "price": 358000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/77/92/c6/9cc591039fd33667eb82784e08ab6aa3.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Nước Sốt Ướp Thịt Kalbee chai 2kgNước Sốt Ướp Thịt Kalbee là gia vị thích hợp dùng để ướp các loại thịt bò, heo, cừu, gà trước khi nướng, có hương vị dịu nhẹ giúp món ăn đậm đà hơn.Đặc điểm sản ph...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Nước Sốt Ướp Thịt Kalbee chai 2kg</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/77/92/c6/bf394bb4b6943c29f5e7230561c71bf1.jpg\" alt=\"sốt ướp thịt kalbee\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/ac/1c/69/e02b926bd1b7b642622c5bc62a445f85.png\" alt=\"sốt kalbee\" width=\"750\" height=\"750\" /></strong></p>\n<p>Nước Sốt Ướp Thịt Kalbee là gia vị thích hợp dùng để ướp các loại thịt bò, heo, cừu, gà trước khi nướng, có hương vị dịu nhẹ giúp món ăn đậm đà hơn.</p>\n<p>Đặc điểm sản phẩm:</p>\n<p>– Đây là loại gia vị thích hợp dùng để ướp các món thịt gà, heo, bò, cừu trước khi nướng.</p>\n<p>– Sản phẩm có hương vị dịu nhẹ.</p>\n<p>– Ngoài ra nước sốt còn có thể dùng để chấm với thịt khi dùng, giúp món ăn thêm phần hấp dẫn hơn.</p>\n<p>– Sản phẩm được sản xuất theo công nghệ Nhật Bản hiện đại nhất, không sử dụng chất bảo quản, tuyệt đối an toàn cho sức khỏe của bạn.</p>\n<p>Thông tin sản phẩm</p>\n<ul><li>Xuất xứ: Nhật Bản</li>\n<li>Hướng dẫn sử dụng: Dùng để ướp thịt, tỷ lệ 7 phần thịt, 3 phần sốt. Ướp 30 phút trở lên trước khi nướng.</li>\n<li>Hướng dẫn bảo quản: Bảo quản ở nhiệt độ thường, tránh ánh sáng mặt trời chiếu trực tiếp.</li>\n<li>Thành phần:  Xi-rô fructose glucose, củ cải đường lỏng, nước sốt đậu nành, gạo lên men, đường, glucose, protein, mè, caramel, lúa mì, đậu nành…</li>\n<li>Hạn sử dụng: 12 tháng kể từ ngày sản xuất, ngày sản xuất và hạn sử dụng in trên bao bì sản phẩm.</li>\n</ul><p>==========================<br />#sốtướpthịt #sốt_ướp_thịt #sotuopthit #sot_uop_thit #sốtướpthịtnướng #sốt_ướp_thịt_nướng #sotuopthitnuong #sot_uop_thit_nuong #sốtướpthịtnướngnhật #sốt_ướp_thịt_nướng_nhật #sotuopthitnuongnhat #sot_uop_thit_nuong_nhat</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Bell Foods"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "2kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Xi-rô fructose glucose, củ cải đường lỏng, nước sốt đậu nành, gạo lên men, đường, glucose, protein, mè, caramel, lúa mì, đậu nành…</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản ở nhiệt độ thường, tránh ánh sáng mặt trời chiếu trực tiếp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng để ướp thịt, tỷ lệ 7 phần thịt, 3 phần sốt. Ướp 30 phút trở lên trước khi nướng.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 252162108,
+      "name": "Nước Dùng Tiện Lợi Shiro Dashi {Ninben} 1.8L [Hương vị chuẩn Nhật Bản]",
+      "price": 335000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/ae/12/735ac4907784d504b2a8207971dea5b9.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Nước Dùng Tiện Lợi Shiro Dashi {Ninben} 1.8LNước dùng tiện lợi Shiro Dashi sử dụng cho nhiều món ăn Nhật Bản. Nước dùng đóng chai Shiro Dashi (nhập khẩu hoàn toàn từ Nhật Bản), đây là một trong nhữ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Nước Dùng Tiện Lợi Shiro Dashi {Ninben} 1.8</strong>L</p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/7e/ae/12/346ea2430300464a1d1f459389804be1.jpg\" alt=\"nước dùng shiro dashi\" width=\"750\" height=\"750\" /></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/4f/e0/15/dec0ae450ade78a7c6e2eef189ce39db.png\" alt=\"nước dùng shiro\" width=\"750\" height=\"750\" /></p>\n<p>Nước dùng tiện lợi Shiro Dashi sử dụng cho nhiều món ăn Nhật Bản. Nước dùng đóng chai Shiro Dashi (nhập khẩu hoàn toàn từ Nhật Bản), đây là một trong những sản phẩm gia vị Nhật được ưa chuộng nhất trên toàn thế giới bởi hương vị đặc trưng và linh hoạt trong việc kết hợp với các món ăn từ phương Đông đến phương Tây.</p>\n<ul><li>Hướng dẫn sử dụng: Dùng để chế biến món ăn như nấu nước dùng lẩu Oden, Nabe, súp, trứng chưng, trứng cuộn, mì và các món ăn khác.</li>\n<li>Xuất xứ: nhập khẩu hoàn toàn từ Nhật Bản</li>\n<li>Quy cách đóng gói: chai 1.8L</li>\n<li>Hạn sử dụng: 12 tháng</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm</li>\n<li>Thành phần: Muối, đường, protein thủy phân từ đậu nành, nước tương (nước, đậu tương, lúa mì và muối), cá ngừ vằn khô, cá thu khô, giấm, tảo bẹ,</li>\n<li>Mô tả sản phẩm: Dashi là một loại nước dùng có từ rất lâu đời và là một thành phần cơ bản trong</li>\n</ul><p>=========================<br /><br />#gia_vi_nhat_ban #gia_vi_nhap_khau #nuoc_sot_nhat_ban #dashi #shiro_dashi #ninben #nuoc_dung_nhat_ban #dashi #nuoc_dung_dashi</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ninben"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "2105g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Muối, đường, protein thủy phân từ đậu nành, cồn, nước tương (nước, đậu tương, lúa mì và muối), cá ngừ vằn khô, cá thu khô, giấm, tảo bẹ,...</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng để chế biến món ăn như nấu nước dùng lẩu Oden, Nabe, súp, trứng chưng, trứng cuộn, mì... và các món ăn khác.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 252016335,
+      "name": "Sốt lẩu Sukiyaki Nhật Bản 400ML Bell Foods | Sốt chấm, nấu lẩu",
+      "price": 75000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/cf/47/c63e276b970b37ef42bac407f515c585.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt lẩu Sukiyaki Nhật Bản 400MLLẩu sukiyaki là một món ăn truyền thống của ẩm thực Nhật Bản. Nó được chế biến bằng cách nấu các loại thực phẩm như thịt bò, rau củ, nấm và tofu trong một nồi lẩu đặc...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Sốt lẩu Sukiyaki Nhật Bản 400ML</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/9d/cf/47/742d817b5fdbeded308237a1a4e06cf7.jpg\" alt=\"sốt lẩu sukiyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/51/12/e7/600990882c0a1f1c2c3fa6fb3b1a0bd8.png\" alt=\"sốt lẩu sukiyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p>Lẩu sukiyaki là một món ăn truyền thống của ẩm thực Nhật Bản. Nó được chế biến bằng cách nấu các loại thực phẩm như thịt bò, rau củ, nấm và tofu trong một nồi lẩu đặc biệt, với sốt lẩu sukiyaki truyền thống. Khi nấu, các thành phần sẽ chuyển sang màu nâu đỏ sáng và thấm đượm vị ngọt của sốt lẩu. Món ăn này thường được ăn kèm với bát cơm và trứng gà đánh tan, tạo thành một bữa ăn đầy đủ dinh dưỡng và hương vị độc đáo.</p>\n<p>Sốt Lẩu Sukiyaki của Bell Foods là loại sốt lẩu có hương vị thơm ngon hấp dẫn, sẽ đem đến cho gia đình bạn một món ăn tuyệt vời nhất.</p>\n<p>Đặc điểm sản phẩm:</p>\n<p>– Sản phẩm là sự hòa quyện của những nguyên liệu như nước tương, mirin, sake đã hương vị thơm ngon, hấp dẫn</p>\n<p>– Sản phẩm được sản xuất theo công nghệ Nhật Bản hiện đại nhất, không sử dụng chất bảo quản, tuyệt đối an toàn cho sức khỏe của bạn.</p>\n<p>– Sản phẩm được đựng trong chai thủy tinh. Bao bì sử dụng đảm bảo vệ sinh an toàn thực phẩm theo quy định của Bộ y tế.</p>\n<p>– Đặc biệt, ngoài dùng để chế biến nước lẩu bạn còn có thể sử dụng như một loại nước chấm để tăng thêm hương vị cho món ăn.</p>\n<p>HDSD: Dùng để nấu lẩu và chấm.</p>\n<p>HDBQ: Nơi khô thoáng, tránh ánh nắng mặt trời trực tiếp.</p>\n<p>Thành phần: Nước tương, xi-rô glucose fructose, đường, xi-rô, mirin, rượu sake, rượu, lúa mì, đậu tương.</p>\n<p>HSD: 18 tháng kể từ ngày sản xuất. Hạn sử dụng in trên bao bì sản phẩm.<br />==========================<br />#sốtlẫu #sốt_lẫu #sotlau #sot_lau #sốt #sot #nướcsốt #nước_sốt #nuocsot #nuoc_sot #nướclẩu #nước_lẩu #nuoclau #nuoc_lau #sot_lau_sukiyaki #sukiyaki</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Bell Foods"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "680g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Nước tương, xi-rô glucose fructose, đường, xi-rô, mirin, rượu sake, rượu, lúa mì, đậu tương.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Nơi khô thoáng, tránh ánh nắng mặt trời trực tiếp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng để nấu lẩu sukiyaki và chấm.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 251575786,
+      "name": "Sốt Teriyaki Ướp Thịt Cá {Yamamori} Thái Lan [Chai Lớn Tiết Kiệm] 1L/chai",
+      "price": 189000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/c2/07/2821b0489ab40f28b010d28965fff4df.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt Teriyaki Ướp Thịt Cá {Yamamori} Thái Lan [Chai Lớn Tiết Kiệm] 1L/chaiSốt Teriyaki vị ngọt, thanh được dùng cho các món thịt chiên và cá chiên . Sau khi chiên thịt / cá xong cho 1 ít nước xốt Ya...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Sốt Teriyaki Ướp Thịt Cá {Yamamori} Thái Lan [Chai Lớn Tiết Kiệm] 1L/chai</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/63/c2/07/5a2f13d622061cf7ab5ed6610b78613b.jpg\" alt=\"teriyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/8a/8e/03/b9a250370e7878a44aa51b6121ae3d7d.png\" alt=\"teriyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p>Sốt Teriyaki vị ngọt, thanh được dùng cho các món thịt chiên và cá chiên . Sau khi chiên thịt / cá xong cho 1 ít nước xốt Yamamori Teriyaki vào nấu cho đến khi nước xốt sánh lại.</p>\n<p>Sốt Teriyaki là một phương pháp chế biến được sử dụng trong ẩm thực Nhật Bản, theo đó thức ăn được hun hoặc nướng trong khi được phết nước sốt với thành phần chủ yếu là xì dầu, mirin và đường.</p>\n<p>Với phương pháp này, tại Nhật Bản người ta chủ yếu dùng cá: cá thu, cá hồi, cá ngừ , trong khi ở phương Tây người ta dùng thịt - thịt gà, lợn, bò, cừu. Các nguyên liệu khác như thịt bò băm, thịt viên, mực ống đôi khi cũng được sử dụng ở Nhật.</p>\n<ul><li>Xuất xứ: Thái Lan</li>\n<li>Quy cách đóng gói: chai 1L</li>\n<li>Hạn sử dụng: 18 tháng</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</li>\n<li>Thành phần: Nước tương 35%, Xi- rô fructose 18%, đường 18%, r.ư.ợ ngọt nấu từ gạo 5%, giấm chưng cất 2%, Monosodium L- glutamate (E621), Disodium 5'-ribonucleotide (E635), màu caramel (15a)</li>\n<li>Hương vị: Vị ngọt, thanh được dùng cho các món thịt chiên và cá chiên.</li>\n</ul><p>Chú ý: Sản phẩm có chứa đậu nành và lúa mỳ<br />Hướng dẫn sử dụng: Sau khi chiên thịt / cá xong cho 1 ít nước sốt Yamamori Teriyaki vào nấu cho đến khi nước sốt sánh lại.<br />=========================<br />#teriyaki <br />#sot_uop_thit<br />#Yamamori</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Yamamori"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1285g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Nước tương 35%, Xi- rô fructose 18%, đường 18%, r.ư.ợ.u ngọt nấu từ gạo 5%, giấm chưng cất 2%, Monosodium L- glutamate (E621), Disodium 5'-ribonucleotide (E635), màu caramel (15a)</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Sau khi chiên thịt / cá xong cho 1 ít nước sốt Yamamori Teriyaki vào nấu cho đến khi nước sốt sánh lại.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 251575485,
+      "name": "Sốt Takoyaki Yamamori 200ML | Sốt bánh bạch tuộc, chuyên dùng làm bánh takoyaki Nhật",
+      "price": 62000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/b5/01/c4746b6a2b42e1e9c6a1bad2e6e69fae.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt Takoyaki [Yamamori] 200MLMô tả sản phẩm: Có vị chua ngọt, được dùng để phủ lên trái cây và rau củ, ngoài ra còn dùng cho Hamburger, mì Yakisoba, Bánh bạch tuộc Takoyaki và Bánh xèo Okonomiyaki....",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Sốt Takoyaki [Yamamori] 200ML</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/dd/b5/01/3ee9997b27edf15c565b51b165195991.jpg\" alt=\"sốt takoyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/30/53/88/c06abf2c5daa5a85a330c59c773084d8.png\" alt=\"sốt takoyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p>Mô tả sản phẩm: Có vị chua ngọt, được dùng để phủ lên trái cây và rau củ, ngoài ra còn dùng cho Hamburger, mì Yakisoba, Bánh bạch tuộc Takoyaki và Bánh xèo Okonomiyaki.</p>\n<ul><li>Sốt Takoyaki mang hương vị truyền thống Nhật Bản.</li>\n<li>Thích hợp dùng rưới lên món bạch tuộc viên nướng Takoyaki, Croquette, Hamburger, Mì xào Yakisoba, bánh xèo Nhật Okonomiyaki. </li>\n<li>Không sử dụng chất bảo quản, an toàn hơn cho sức khỏe.</li>\n</ul><p>Thương hiệu Yamamori</p>\n<ul><li>Ra đời từ năm 1889, Yamamori đã có hơn 120 năm cống hiến sự nỗ lực cho ngành thực phẩm Nhật Bản. Dựa trên kỹ thuật ủ men truyền thống và dự báo sự thay đổi của thị trường, Yamamori đã luôn cải tiến kỹ thuật để đem đến những sản phẩm chất lượng, an toàn và sự hài lòng của khách hàng.</li>\n</ul><p>Hướng dẫn sử dụng:</p>\n<ul><li>Dùng để làm nước sốt cho các loại bánh takoyaki,bánh xèo Nhật Bản Okonomiyaki, Hamburger hoặc làm gia vị để chế biến món mì Yakisoba (Yakisoba xào)</li>\n</ul><p>Thông tin sản phẩm</p>\n<ul><li>Xuất xứ: Thái Lan</li>\n<li>Quy cách đóng gói: chai 200ML</li>\n<li>Hạn sử dụng: 24 tháng</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</li>\n<li>Thành phần: Xi-rô Fructose 23,4%, hành tây 15%, đường 12%, xốt cà chua 9,7%,giấm chưng cất 8,7%, muối 4,1%, xoài xay 4%, nước tương 3%, nước mắm 2%, nước ép gừng 1%, gia vị 0.3%, Monosodium glutamate (E621).</li>\n</ul><p>#takoyaki_sauce #takoyaki_sot #takoyaki_xot #takoyaki #okonomiyaki</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Yamamori"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "280g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Xi-rô Fructose 23,4%, hành tây 15%, đường 12%, xốt cà chua 9,7%,giấm chưng cất 8,7%, muối 4,1%, xoài xay 4%, nước tương 3%, nước mắm 2%, nước ép gừng 1%, gia vị 0.3%, Monosodium glutamate (E621).</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng để làm nước sốt cho các loại bánh takoyaki,bánh xèo Nhật Bản Okonomiyaki, Hamburger hoặc làm gia vị để chế biến món mì Yakisoba (Yakisoba xào)</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 251548640,
+      "name": "Sốt Bánh Xèo Nhật Okonomi Sauce Otafuku 2.1KG",
+      "price": 325000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/46/b9/194454283afa8bbc5ee3daeab9529efc.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT BÁNH XÈO NHẬT BẢN - OKONOMI SAUCENước sốt OKONOMI được chiết xuất từ 20 loại gia vị khác nhau, chủ yếu là trái cây và rau củ. Đây là loại nước sốt mang hương vị đậm đà, chuyên sử dụng cho món b...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>SỐT BÁNH XÈO NHẬT BẢN - OKONOMI SAUCE</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/28/46/b9/480edf05478d3272899795f996a45ab5.png\" alt=\"okonomi sauce\" width=\"500\" height=\"500\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/c2/ca/fb/9948af46a82f85bb2c35db390f1f30fe.png\" alt=\"okonomiyaki\" width=\"500\" height=\"500\" /></strong></p>\n<p>Nước sốt OKONOMI được chiết xuất từ 20 loại gia vị khác nhau, chủ yếu là trái cây và rau củ. Đây là loại nước sốt mang hương vị đậm đà, chuyên sử dụng cho món bánh xèo Nhật Bản và Takoyaki thơm lừng và có màu sắc bắt mắt. Được sử dụng vô cùng rộng rãi cho những món ăn và nhà hàng Nhật.</p>\n<p>Sử dụng nhiều với các món: Bánh xèo Nhật Bản, Hamburger, Takoyaki, Thịt heo chiên xù Nhật</p>\n<ul><li>Hướng dẫn sử dụng: Dùng làm nước chấm, nước sốt và chế biến các món ăn như món bánh xèo Nhật Bản Okonomiyaki, bánh bạch tuộc Takoyaki,</li>\n<li>Thành phần: Trái cây và rau củ (cà chua, chà là, hành tây, táo, cà rốt, đào, cam và tỏi) (26.07%), xi-ro đường ngô fructose, đường, giấ</li>\n<li>Xuất xứ: Nhật Bản</li>\n<li>Quy cách đóng gói: chai 2.1KG</li>\n<li>Hạn sử dụng: 24 tháng</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>\n</ul><p>#sốt #sot #xot #takoyaki #okonomi</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Otafuku"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "2195g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Trái cây và rau củ (cà chua, chà là, hành tây, táo, cà rốt, đào, cam và tỏi) (26.07%), xi-ro đường ngô fructose, đường, giấm,</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng làm nước chấm, nước sốt và chế biến các món ăn như món bánh xèo Nhật Bản Okonomiyaki, bánh bạch tuộc Takoyaki,...</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 251544762,
+      "name": "Sốt Ponzu Nhật Bản Yamamori 1L | Ăn Kèm Hàu, Sashimi, Món Nhật",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/57/36/4d073192790d351baccc70935fc8bfd1.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt Ponzu Nhật Bản [Yamamori] chai 1 LítSốt Ponzu hay nước tương Ponzu là một loại gia vị đặc trưng của người Nhật, ngoài việc được dùng phổ biến dưới dạng nước chấm mà Ponzu còn chính là một phần ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Sốt Ponzu Nhật Bản [Yamamori] chai 1 Lít</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/e0/57/36/18b189d0e17b477cc8c85e4e6eb1a392.jpg\" alt=\"sốt ponzu\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/c1/16/e3/1bc14e9d79235163d56a67cc0e9fdf1c.png\" alt=\"hàu chấm ponzu\" width=\"750\" height=\"750\" /></strong></p>\n<p>Sốt Ponzu hay nước tương Ponzu là một loại gia vị đặc trưng của người Nhật, ngoài việc được dùng phổ biến dưới dạng nước chấm mà Ponzu còn chính là một phần không thể thiếu trong nhiều món ăn Nhật Bản. Ponzu là một trong những gia vị ra đời khá sớm tại Nhật, khoản thế kỷ thứ 17 loại sốt này đã khá phổ biến. Vì được chiết xuất chủ yếu từ Cam, quýt Nhật, nên nước sốt Ponzu mang đến hương vị cực kỳ nổi bậc. Dễ dàng đánh thức mọi giác quan. Với nhiều người Việt sốt Ponzu là cái tên khá xa lạ, nhưng tại Nhật Bản đây lại là một trong những loại nước chấm không thể thiếu. Hương vị nổi bật của sốt Ponzu đã tạo nên sự khác biệt cho nhiều món ăn từ truyền thống cho đến hiện đại.</p>\n<ul><li>Xuất xứ: Thái Lan</li>\n<li>Thành phần: Nước tương 44%, giấm chưng cất 10%, xiro Fructose 6%, nước cốt chanh 5%, muối, không chất bảo quản, Monosodium L-glutamate, Disodium 5'-Ribonucleotides</li>\n<li>Quy cách đóng gói: 1 lít/chai</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</li>\n</ul><p>Hướng dẫn sử dụng</p>\n<ul><li>Nước chấm cho món lẩu Shabu-shabu</li>\n<li>Nước chấm cho thịt bò tái hay cá tái Tataki Nhật Bản</li>\n<li>Nước chấm cho các món sashimi</li>\n<li>Nước chấm cho há cảo gyoza</li>\n<li>Sốt salad thay thế dầu giấm.</li>\n<li>Gia vị cho đậu phụ ướp lạnh của Nhật.</li>\n<li>Gia vị cho hàu, đặc biệt là hàu sống.</li>\n<li>Nước sốt cho bánh takoyaki</li>\n</ul><p>#thuc_pham_nhat_ban  #nuoc_xot_uop_thit #ponzu #xot_ponzu #sot_ponzu #nuocsotponzu #nuoc_sot_ponzu #gia_vi_nhat_ban</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Yamamori"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1160g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Nước tương 44%, giấm chưng cất 10%, xiro Fructose 6%, nước cốt chanh 5%, muối, không chất bảo quản, Monosodium L-glutamate, Disodium 5'-Ribonucleotides</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<ul><li>Nước chấm cho món lẩu Shabu-shabu</li>\n<li>Nước chấm cho thịt bò tái hay cá tái Tataki Nhật Bản</li>\n<li>Nước chấm cho các món sashimi</li>\n<li>Nước chấm cho há cảo gyoza</li>\n<li>Sốt salad thay thế dầu giấm.</li>\n<li>Gia vị cho đậu phụ ướp lạnh của Nhật.</li>\n<li>Gia vị cho hàu, đặc biệt là hàu sống.</li>\n<li>Nước sốt cho bánh takoyaki</li>\n</ul>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 251465279,
+      "name": "Gia Vị Nấu Ăn Mirin Đậm Đặc Hinode 1.8L",
+      "price": 298000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/3a/09/f2d00ec8ee87976366e0e0d49098568e.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69152",
+      "availability": 1,
+      "short_description": "Gia Vị Nấu Ăn Mirin Đậm Đặc {Hinode} Nhật Bản Chai 1.8LMirin là một loại gia vị đặc biệt trong ẩm thực của Nhật Bản, nó là loại r.ư.ợ gạo tương tự như sake nhưng có vị ngọt hơn. Mirin truyền thống đ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Gia Vị Nấu Ăn Mirin Đậm Đặc {Hinode} Nhật Bản Chai 1.8L</strong></p>\n<p style=\"text-align:center;\"><img src=\"https://salt.tikicdn.com/ts/tmp/b5/96/ba/e449ebdfa6705ede354b0d4c1a147163.jpg\" alt=\"mirin\" width=\"750\" height=\"750\" /></p>\n<p>Mirin là một loại gia vị đặc biệt trong ẩm thực của Nhật Bản, nó là loại r.ư.ợ gạo tương tự như sake nhưng có vị ngọt hơn. Mirin truyền thống được nấu từ nếp, gạo và dùng koji để ủ, c.ồ và đường sẽ hình thành tự nhiên trong quá trình ủ tạo độ ngọt cho mirin.</p>\n<p>Người Nhật thường dùng mirin để chế biến trong các món ăn thường ngày nhằm tạo vị ngọt tự nhiên thay thế cho các gia vị có vị ngọt tổng hợp. Ngoài ra, mirin còn có công dụng rất quan trọng, đó là giúp khử mùi tanh của một số thực phẩm như thịt, cá,, làm mềm thịt và là chất xúc tác giúp gia vị thấm sâu và đều hơn.</p>\n<p>Mirin có màu vàng trong, có vị ngọt dịu và mùi thơm đặc trưng, được làm từ các thành phần như gạo nếp, gạo trắng, hạt men, enzyme, nước, đến một sản phẩm chất lượng, tiện lợi và dễ dùng. Với chai mirin này thì từ giờ bạn không cần phải e ngại các loại thực phẩm nặng mùi, có thể chế biến được nhiều món ăn ngon cho gia đình.</p>\n<ul><li>Xuất xứ: Singapore, sản xuất theo công nghệ Nhật Bản</li>\n<li>Hạn sử dụng: 1 năm</li>\n<li>Dung tích: 1.8 lít/chai</li>\n<li>HDSD: Dùng làm gia vị chế biến món ăn, khử mùi tanh của thịt cá tôm cua, giúp vị ngọt món ăn đậm đà hơn</li>\n<li>HDBQ: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Sau khi mở bảo quản trong tủ lạnh</li>\n<li>Thành phần: Xi-rô đường, gạo nếp, rượu, men</li>\n</ul><p>#mirin #gia_vi_nau_an_mirin #mirin_nhat_ban #mirin_nau_an</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HINODE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "2185g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Xi-rô đường, gạo nếp, rượu, men koji...</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Sau khi mở bảo quản trong tủ lạnh</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "12 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng làm gia vị chế biến món ăn, khử mùi tanh của thịt cá tôm cua, giúp vị ngọt món ăn đậm đà hơn</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 210124732,
+      "name": "Sốt me Thái hữu cơ Lumlum 200ml",
+      "price": 100000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/83/02/c693073901f7098b47a5329be91264aa.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt me Thái Lumlum được làm từ nước cốt me hữu cơ, đường hữu cơ, hành tím, muối, ớt khô, bột chanh hữu cơ. Chất điều chỉnh độ axit.Sốt me dùng để chấm trực tiếp, pha chế nước sốt hoặc chế biến món ăn ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sốt me Thái Lumlum được làm từ nước cốt me hữu cơ, đường hữu cơ, hành tím, muối, ớt khô, bột chanh hữu cơ. Chất điều chỉnh độ axit.<br />Sốt me dùng để chấm trực tiếp, pha chế nước sốt hoặc chế biến món ăn có vị chua ngọ</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Lumlum"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200ml"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo,khui ra dùng không hết nên cho vào ngăn mát tủ lạnh</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Go Green Organic Shop",
+      "stock_status": "available"
+    },
+    {
+      "id": 193564656,
+      "name": "xốt ớt đỏ 285g",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/8a/3d/3c530713a405ea2b54dd08be191b48e1.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến một bữa ăn đậm đà.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NG NGO GIA JUST IN TIME JOYAL SAUCE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "285"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thành phần: nước cốt tắc (30%), đường tinh luyện, creamer đặc có đường (25%), ớt (15%), muối (10%), INS 415, INS 331, INS 223.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Hướng dẫn bảo quản: bảo quản nơi kho ráo, thoáng mát, tránh ánh nắng trực tiếp, bảo quản lạnh sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "10 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Hướng dẫn sử dụng: dùng để chấm các loại BBQ, hải sản, rau củ và ướp thực phẩm.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "NG NGO GIA JUST IN TIME JOYAL SAUCE",
+      "stock_status": "available"
+    },
+    {
+      "id": 195121820,
+      "name": "Xốt Nấm cục (Truffle Sauce) La Sicilia - 500 gram/hũ",
+      "price": 485000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/86/98/91a8c2cd836daa42952341ade0299aea.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "THÔNG TIN SẢN PHẨMXuất xứ: ÝSản xuất tại: Ponte Asia Srl Địa chỉ: Via Paolo Soprani, 28 - 60022 Castelfidardo (AN), Italy (Ý)Khối lượng tịnh: 350 g/hũNgày sản xuất: Xem trên bao bì (năm/tháng/ngày)T...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>THÔNG TIN SẢN PHẨM</strong></p>\n<p>Xuất xứ: Ý</p>\n<p>Sản xuất tại: Ponte Asia Srl Địa chỉ: Via Paolo Soprani, 28 - 60022 Castelfidardo (AN), Italy (Ý)<br />Khối lượng tịnh: 350 g/hũ<br />Ngày sản xuất: Xem trên bao bì (năm/tháng/ngày)<br />Thời hạn sử dụng: 36 tháng kể từ ngày sản xuất.<br />Hạn sử dụng xem trên bao bì (năm/tháng/ngày)<br />Hướng dẫn sử dụng: Dùng trực tiếp hoặc chế biến các món ăn nui mì, pizza.<br />Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Sau khi mở nắp phải bảo quản lạnh</p>\n<p><strong>Thông tin sản phẩm:</strong><br />Món sốt này có nguồn gốc từ Italia. Trong bảng thành phần của món sốt này bao gồm:<br />+ Nấm mỡ,<br />+ Dầu hướng dương,<br />+ Nấm cục 2% (nấm cục đen),<br />+ Nấm cục trắng<br />+ Muối và một số thành phần khác</p>\n<p><strong>Công dụng:</strong><br />Sốt nấm cục là loại gia vị đắt giá, được sử dụng chủ yếu trong các lĩnh vực:<br />– Chế biến các món Pizza,<br />– Chế biến món nui mì Ý,<br />– Chế biến món khoai tây rán<br />– Chế biến nước sốt chấm và các món ăn Âu và Á.<br />Thành phần:<br />Nấm Cục Truffle có rất nhiều vitamin và khoáng chất giúp cải thiện sức khỏe. Trong đó, phổ biến là các loại vitamin nhóm B: B1, B2, B9 (Acid Folic), B5 (Acid Pantothenic)…<br />Ngoài ra, trong nấm cục cũng rất giàu các khoáng chất như Selanium, Kali, Sắt hay vitamin D cách tự nhiên .</p>\n<p><strong>Thương hiệu</strong> : La Sicilia<br /><strong>Thông tin thương hiệu :</strong> Nằm ở tỉnh Napoli, vùng Campania của Ý, Spicy Sicilian được thành lập vào năm 1883. Trong tất cả những năm này, công ty luôn chú ý đặc biệt đến nhu cầu của người tiêu dùng và về chất lượng sản phẩm. Nhờ sự chú ý của mình, qua hơn 100 năm đổi mới và nghiên cứu công nghệ, danh tiếng của công ty đã đạt đến mức rất cao không chỉ ở Ý mà còn trên toàn châu Âu.<br />Cho đến nay, nhà máy có sản lượng hàng năm hơn 100 triệu tấn mì ống, được xuất khẩu trên toàn cầu</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "LA SICILIA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Italia"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Italia"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "180gr"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "15/3/2025"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "FoodandFine",
+      "stock_status": "available"
+    },
+    {
+      "id": 193564538,
+      "name": "Xốt ớt xanh 285g",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/84/db/e8f9a2e429af1d03509c06aec0b94327.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến một bữa ăn đậm đà.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NG NGO GIA JUST IN TIME JOYAL SAUCE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "285"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thành phần: nước cốt tắc (30%), đường tinh luyện, creamer đặc có đường (25%), ớt (15%), muối (10%), INS 415, INS 331, INS 223.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Hướng dẫn bảo quản: bảo quản nơi kho ráo, thoáng mát, tránh ánh nắng trực tiếp, bảo quản lạnh sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "10 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Hướng dẫn sử dụng: dùng để chấm các loại BBQ, hải sản, rau củ và ướp thực phẩm.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "NG NGO GIA JUST IN TIME JOYAL SAUCE",
+      "stock_status": "available"
+    },
+    {
+      "id": 193597583,
+      "name": "joyal sauce - xốt ớt đỏ 145g",
+      "price": 25000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/e7/3c/5e8d73dab6625878267e3aae9b53493b.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến một bữa ăn đậm đà.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NG NGO GIA JUST IN TIME JOYAL SAUCE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "145g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thành phần: nước cốt tắc (30%), đường tinh luyện, creamer đặc có đường (25%), ớt (15%), muối (10%), INS 415, INS 331, INS 223.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Hướng dẫn bảo quản: bảo quản nơi kho ráo, thoáng mát, tránh ánh nắng trực tiếp, bảo quản lạnh sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "10 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Hướng dẫn sử dụng: dùng để chấm các loại BBQ, hải sản, rau củ và ướp thực phẩm..</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "NG NGO GIA JUST IN TIME JOYAL SAUCE",
+      "stock_status": "available"
+    },
+    {
+      "id": 189936967,
+      "name": "Joyal sauce - xốt ớt đỏ - 145g",
+      "price": 25000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/42/55/5e/41e879830d6cd64ad128f220028e1626.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến ...",
+      "description": "<p>Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến một bữa ăn đậm đà.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NG NGO GIA JUST IN TIME JOYAL SAUCE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "285g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Xốt Tiêu Đen – xốt ớt xanh – xốt ớt đỏ.</p>\n<p>Thành phần: nước cốt tắc (30%), đường tinh luyện, creamer đặc có đường (25%), Tiêu hoặc ớt (15%), muối (10%), INS 415, INS 331, INS 223.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Hướng dẫn bảo quản: bảo quản nơi kho ráo, thoáng mát, tránh ánh nắng trực tiếp, bảo quản lạnh sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "10 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Hướng dẫn sử dụng: dùng để chấm các loại BBQ, hải sản, rau củ và ướp thực phẩm...</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "NG NGO GIA JUST IN TIME JOYAL SAUCE",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317859,
+      "name": "MUỐI SẤY ARANAMI 350G (10B/T)",
+      "price": 86000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/03/43/63/943597e24445f59f3ecc96609704b055.png",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "MUỐI SẤY...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>MUỐI SẤY<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "ARANAMI"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317707,
+      "name": "HẠT NIÊM CÁ VÀ RONG BIỂN HONDASHI KATSUO TO KONBU NO AWASE DASHI 192G (24C/T)",
+      "price": 147000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c4/7f/49/ef680b80a94d3f5362675d1b02cf0d4e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1,
+      "short_description": "CHIẾT XUẤT CÁ VÀ RONG BIỂN...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>CHIẾT XUẤT CÁ VÀ RONG BIỂN<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317615,
+      "name": "SỐT THỊT NƯỚNG EBARA YAKINIKU NO TARE KARAKUCHI- HOT 300G(12C/T)",
+      "price": 126000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/31/bf/f5363a1cb1e13157dd24d9ebcf0d96ef.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT THỊT NƯỚNG...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT THỊT NƯỚNG<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "EBARA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317598,
+      "name": "MUỐI ỚT XANH FUNDOKIN AO YUZU KOSHO 50G (10L/T)",
+      "price": 122000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/35/6b/3136dbab9755d39a5b3b59c442d050b0.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "MUỐI ỚT XANH...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>MUỐI ỚT XANH<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FUNDOKIN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317588,
+      "name": "SỐT THỊT NƯỚNG (CAY) EBARA OUGON NO AJI HOT 360G (12C/T)",
+      "price": 165000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/48/cd/1abec276f7a3a3c01dd38da4d51ecff5.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT THỊT NƯỚNG ( NGỌT)...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT THỊT NƯỚNG ( NGỌT)<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "EBARA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317488,
+      "name": "MUỐI ĂN AJISHIO 100G BAG (180/T)",
+      "price": 36000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/15/a4/07/656d9d6a99d04dd5832da84d6c691da9.png",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "MUỐI ĂN...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>MUỐI ĂN<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317498,
+      "name": "BỘT NGỌT AJINOMOTO GYOMUYO S 1KG (12B/T)",
+      "price": 350000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/08/82/3e312b4fc616a6555c932b42fb069bc6.png",
+      "primary_category_path": "1/2/44792/54362/54370/69146",
+      "availability": 1,
+      "short_description": "BỘT NGỌT AJINOMOTO...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>BỘT NGỌT AJINOMOTO<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317434,
+      "name": "BỘT NGỌT AJINOMOTO 400G (30G/T)",
+      "price": 278000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/41/d9/73/f84c46bf78031af19a0562b3a00061e5.png",
+      "primary_category_path": "1/2/44792/54362/54370/69146",
+      "availability": 1,
+      "short_description": "BỘT NGỌT AJINOMOTO...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>BỘT NGỌT AJINOMOTO<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130568,
+      "name": "Đường khối lập phương 1000g",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/c0/7f/5dd9a2e5e346144cc4d59a9b5bbff95f.png",
+      "primary_category_path": "1/2/44792/54362/54370/54372",
+      "availability": 1,
+      "short_description": "Đường khối lập phương 1000g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Đường khối lập phương 1000g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Mitsui"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130454,
+      "name": "Sốt Yamasa Teriyaki Yamasa Exp 300ml",
+      "price": 84500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/4a/86/3b177a7f46cd20836e26941c56b7640e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt Yamasa Teriyaki Yamasa Exp 300ml...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Sốt Yamasa Teriyaki Yamasa Exp 300ml<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "YAMASA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130340,
+      "name": "Đường Hạt ( 3g x 24 gói)",
+      "price": 42000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/67/b8/fb59fccb00b377adecc3a3237b635b68.png",
+      "primary_category_path": "1/2/44792/54362/54370/54372",
+      "availability": 1,
+      "short_description": "Đường Hạt ( 3g x 24 gói)...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Đường Hạt ( 3g x 24 gói)<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Nitton"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130218,
+      "name": "Tôm Rang Chiên Cơm 21g",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/07/7c/84/39927366736728ad26dfccb230ade778.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Tôm Rang Chiên Cơm 21g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Tôm Rang Chiên Cơm 21g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130191,
+      "name": "Bột Rắc Wasabi Tanaka 30g",
+      "price": 46000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/77/a9/0a1c0c23fac6d34f71fbd0447bcd108c.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Bột Rắc Wasabi Tanaka 30g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Bột Rắc Wasabi Tanaka 30g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130186,
+      "name": "Ngũ Vị Chiên Cơm Tỏi 24g",
+      "price": 89500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/60/0e/c1acc46b72f083666349022cec21ebea.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Ngũ Vị Chiên Cơm Tỏi 24g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Ngũ Vị Chiên Cơm Tỏi 24g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130170,
+      "name": "Đường Đen KPKN Kuro Sato 450g",
+      "price": 153000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/b2/37/3fde90f999a90f6bca42e3044d1fefce.png",
+      "primary_category_path": "1/2/44792/54362/54370/54372",
+      "availability": 1,
+      "short_description": "Đường Đen KPKN Kuro Sato 450g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Đường Đen KPKN Kuro Sato 450g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Kanpy"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503278,
+      "name": "Xốt Muối Kim Chi Hàn Quốc Barona 180g, combo 5 gói Tặng 1 gói cùng loại tươi ngon chuẩn vị không cần nêm nếm",
+      "price": 179400,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/36/64/8350f142ed538e8198ba420b0b5b2f17.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "  0.0 ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  0.0\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "Chiết xuất rau củ quả tự nhiên"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130166,
+      "name": "Bột Rắc Cá Bào 12g",
+      "price": 48000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/25/ce/723d3e176f2d73b611cfa7d3f1e86f66.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Bột Rắc Cá Bào 12g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Bột Rắc Cá Bào 12g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503270,
+      "name": "Nước Dùng Lẩu Gà Barona 140g tươi ngon chuẩn vị không cần nêm nếm",
+      "price": 33900,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/eb/a1/919e3b77c8bed6bb09f38f3f86f2a034.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "  0.0 ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  0.0\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "chiết xuất rau củ quả tươi"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503219,
+      "name": "Xốt Muối Kim Chi Hàn Quốc Barona 180g, combo 20 gói",
+      "price": 690000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/23/de/9072435cffefdd159c8b985952b26c9b.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "  0.0 ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  0.0\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503184,
+      "name": "Xốt Gia Vị Hoàn Chỉnh BARONA - Kho Gừng 80g",
+      "price": 12800,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ac/89/a6/69a2d381766e01352f5c00e1baa9b5f0.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "  XỐT GIA VỊ HOÀN CHỈNH BARONA KHO GỪNG 80G   - Trọng lượng: 80gr/ gói   - Hạn sử dụng: 15 tháng kể từ ngày sản xuất   Xốt Gia Vị Hoàn Chỉnh Barona Kho Gừng 80g là công thức phối trộn độc đáo giữa...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  <p>XỐT GIA VỊ HOÀN CHỈNH BARONA KHO GỪNG 80G</p>\n   <p>- Trọng lượng: 80gr/ gói</p>\n   <p>- Hạn sử dụng: 15 tháng kể từ ngày sản xuất</p>\n   <p>Xốt Gia Vị Hoàn Chỉnh Barona Kho Gừng 80g là công thức phối trộn độc đáo giữa CHIẾT XUẤT RAU CỦ QUẢ TƯƠI như hành, tỏi, me, cà chua…cùng các loại gia vị truyền thống được chọn lọc, đem đến món ngon chuẩn vị chỉ trong tích tắc mà KHÔNG CẦN NÊM NẾM thêm bất kỳ gia vị nào khác.</p>\n   <p>*ĐIỂM MẠNH:</p>\n   <p>Chiết xuất Rau củ quả TƯƠI</p>\n   <p>Sản phẩm Không thêm chất bảo quản</p>\n   <p>Ướp ngon, vị chuẩn, không cần nêm nếm</p>\n   <p>Đạt Hàng Việt Nam Chất Lượng Cao</p>\n   <p>*QUY CÁCH: 80g/gói x 20 gói/hộp x 4 hộp/thùng</p>\n   <p>*HƯỚNG DẪN THỰC HIỆN: Khẩu phần 4-5 người</p>\n   <p>Chuẩn bị:</p>\n   <p>500g thịt gà/vịt/bò.</p>\n   <p>1 gói xốt GVHC Barona Kho Gừng 80g.</p>\n   <p>HƯỚNG DẪN THỰC HIỆN:</p>\n   <p>Bước 1: Ướp thịt với 1 gói xốt GVHC Barona – Kho gừng 80g trong khoảng 30'.</p>\n   <p>Bước 2: Cho thịt đã ướp lên bếp xào với lửa lớn cho đến khi thịt săn lại.</p>\n   <p>Bước 3: Đổ nước xâm xấp mặt thịt, đun sôi, cho thêm gừng (tuỳ thích). Sau đó giảm nhỏ lửa cho đến khi thịt chín mềm, nước sốt sệt lại vừa ăn.</p>\n   <p>Bước 4: Cho thịt ra đĩa. dùng với cơm nóng.</p>\n   <p>Xốt Gia Vị Hoàn Chỉnh Barona Kho Gừng có thể nấu với các nguyên liệu: Thịt gà, thịt vịt, thịt bò, …đều ngon.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503208,
+      "name": "Nước Dùng Lẩu Riêu Cua Barona 230g tươi ngon chuẩn vị không cần nêm nếm và 1 hũ Sa tế Tôm XO Thượng hạng Barona 100g",
+      "price": 69000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/64/ab/e9/07e588c4c9c3108f5b296373b2bba334.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "  Nước Dùng Hoàn Chỉnh Barona – Lẩu Riêu Cua 200g được dùng để chế biến món Lẩu Riêu Cua mà không cần nêm nếm thêm các gia vị khác. Rất ngon và tiện lợi để thực hiện bữa sáng nhà làm hay thiết đãi ti...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  <p>Nước Dùng Hoàn Chỉnh Barona – Lẩu Riêu Cua 200g được dùng để chế biến món Lẩu Riêu Cua mà không cần nêm nếm thêm các gia vị khác. Rất ngon và tiện lợi để thực hiện bữa sáng nhà làm hay thiết đãi tiệc nhà.</p>\n   <p>*ĐIỂM MẠNH:</p>\n   <p>- Tươi ngon TỰ NHIÊN</p>\n   <p>- Làm từ Nước hầm xương và Chiết xuất Rau củ quả tươi</p>\n   <p>- Không chất bảo quản</p>\n   <p>- Nấu nhanh siêu tốc – Chuẩn vị nhà hàng</p>\n   <p>- Sản xuất và đóng gói theo quy trình quản lý quốc tế ISO, đảm bảo an toàn</p>\n   <p>NGUYÊN LIỆU:</p>\n   <p>- 1 gói Nước Dùng Hoàn Chỉnh Barona – Lẩu Riêu Cua 200g.</p>\n   <p>- 300g sườn/sụn heo, 300g thịt bò, giò tai/ chả, đậu hủ chiên, cà chua, hành tím.</p>\n   <p>- Rau muống, rau mồng tơi, bắp chuối bào, nấm kim châm. Ăn kèm với bún/ bánh đa.</p>\n   <p>Sa tế tôm XO thượng hạng Barona làm từ ớt tươi được chọn lọc kỹ lưỡng hoà quyện cùng vị tôm chấy &amp; sả tươi phi thơm tạo nên hương vị thơm ngon khó cưỡng, thổi bùng vị giác muốn ăn mãi không ngừng.</p>\n   <p>Sản phẩm không thêm chất bảo quản &amp; được bảo quản trong hũ thuỷ tinh cao cấp, đảm bảo an toàn cho cả gia đình.</p>\n   <p>- THƠM VỊ ỚT, BÙNG VỊ TÔM</p>\n   <p>- Có TÔM thật &amp; Ớt, Sả tươi</p>\n   <p>- Không thêm Chất bảo quản</p>\n   <p>- Thơm ngon khó cưỡng</p>\n   <p>hƯỚNG DẪN SỬ DỤNG: Dùng với các món lẩu hay các món nước như Bún bò, hủ tiếu, lẩu, ướp nướng sa tế, làm bánh tráng trộn…</p>\n   <p>HSD: 12 tháng kể từ ngày sản xuất</p>\n   <p>QUY CÁCH: 100g/ hũ, 6 hũ/ block, 6 block/ thùng</p>\n   <p>BẢO QUẢN: Bảo quản nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp.</p>\n   <p>CẢNH BÁO: Không sử dụng khi đã hết hạn sử dụng.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503204,
+      "name": "Xốt Gia Vị Hoàn Chỉnh Barona Hủ Tiếu Nam Vang 80g, combo 3 gói tặng 1 Hũ Sa tế Tôm XO Thượng hạng Barona 100g",
+      "price": 47600,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/7b/53/2a16f8d4d0efcfc6331a4bffcc8fe1d0.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "  MUA 3 GÓI GIA VỊ HOÀN CHỈNH BARONA HỦ TIẾU NAM VANG 80g   TẶNG NGAY   1 HŨ SA TẾ TÔM XO THƯỢNG HẠNG BARONA 100G   Gói Gia Vị Nấu Hủ Tiếu Nam Vang, Xốt Gia Vị Hoàn Chỉnh Barona Hủ Tiếu Nam Vang 8...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  <p>MUA 3 GÓI GIA VỊ HOÀN CHỈNH BARONA HỦ TIẾU NAM VANG 80g</p>\n   <p>TẶNG NGAY</p>\n   <p>1 HŨ SA TẾ TÔM XO THƯỢNG HẠNG BARONA 100G</p>\n   <p>Gói Gia Vị Nấu Hủ Tiếu Nam Vang, Xốt Gia Vị Hoàn Chỉnh Barona Hủ Tiếu Nam Vang 80g là công thức phối trộn độc đáo giữa chiết xuất Rau củ quả tươi và Nước hầm xương cùng các gia vị đặc trưng chọn lọc, tạo nên món ngon chuẩn vị nhà hàng mà không cần nêm nếm thêm bất kỳ gia vị nào khác. Rất ngon và tiện lợi, thích hợp cho bữa sáng nhà làm hay thiết đãi tiệc nhà!</p>\n   <p>HƯỚNG DẪN SỬ DỤNG GÓI GIA VỊ NẤU HỦ TIẾU NAM VANG, XỐT GIA VỊ HOÀN CHỈNH BARONA HỦ TIẾU NAM VANG:</p>\n   <p>- Đun sôi 1.3 lít nước với Tôm và vớt bọt. Sau đó, vớt tôm ra và lột vỏ.</p>\n   <p>- Cho 1 gói Xốt Gia Vị Hoàn Chỉnh Barona Hủ Tiếu Nam Vang vào và tiếp tục đun sôi.</p>\n   <p>- Cho hủ tiếu, tôm, thịt vào tô, chan nước dùng, thêm tỏi phi và thưởng thức cùng rau ăn kèm</p>\n   <p>QUY CÁCH: 80g/gói x 20 gói/hộp x 4 hộp/thùng</p>\n   <p>THỜI HẠN SỬ DỤNG: 12 tháng kể từ ngày sản xuất</p>\n   <p>Sa tế tôm XO thượng hạng Barona làm từ ớt tươi được chọn lọc kỹ lưỡng hoà quyện cùng vị tôm chấy &amp; sả tươi phi thơm tạo nên hương vị thơm ngon khó cưỡng, thổi bùng vị giác muốn ăn mãi không ngừng.</p>\n   <p>Sản phẩm không thêm chất bảo quản &amp; được bảo quản trong hũ thuỷ tinh cao cấp, đảm bảo an toàn cho cả gia đình.</p>\n   <p>- THƠM VỊ ỚT, BÙNG VỊ TÔM</p>\n   <p>- Có TÔM thật &amp; Ớt, Sả tươi</p>\n   <p>- Không thêm Chất bảo quản</p>\n   <p>- Thơm ngon khó cưỡng</p>\n   <p>hƯỚNG DẪN SỬ DỤNG: Dùng với các món lẩu hay các món nước như Bún bò, hủ tiếu, lẩu, ướp nướng sa tế, làm bánh tráng trộn…</p>\n   <p>HSD: 12 tháng kể từ ngày sản xuất</p>\n   <p>QUY CÁCH: 100g/ hũ, 6 hũ/ block, 6 block/ thùng</p>\n   <p>BẢO QUẢN: Bảo quản nơi khô ráo thoáng mát, tránh ánh nắng trực tiếp.</p>\n   <p>CẢNH BÁO: Không sử dụng khi đã hết hạn sử dụng.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 276435056,
+      "name": "Kem giấm Balsamic Cream Vinegar - Metro Chef (250ml)",
+      "price": 93500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/e4/bf/0d45b18ab414b982b3140a282fa18ee5.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/54376",
+      "availability": 1,
+      "short_description": "Kem giấm Balsamic Cream Vinegar - Metro Chef (250ml)Brand: Metro ChefMã sản phẩm: MET0701-001Xuất xứ: ÝQuy cách đóng gói: 250mlThành phần: Hỗn hợp nho nghiền cô đặc, Giấm rượu vang trắng, Chất ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Kem giấm Balsamic Cream Vinegar - Metro Chef (250ml)</strong></p>\n<div>\n<p><strong>Brand:</strong> Metro Chef</p>\n<div>\n<p><strong>Mã sản phẩm:</strong> MET0701-001</p>\n<p><strong>Xuất xứ:</strong> Ý</p>\n<p><strong>Quy cách đóng gói:</strong> 250ml<br /><img src=\"https://salt.tikicdn.com/ts/tmp/2b/e4/bf/17a20fb578105d4a2f54eda42996da90.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Thành phần:</strong> Hỗn hợp nho nghiền cô đặc, Giấm rượu vang trắng, Chất tạo màu tự nhiên: Caramel</p>\n<p>Hương vị đặc trưng của Ý với dầu ô liu chất lượng cao, húng quế và vị chua ngọn tinh tế của giấm balsamic chính gốc Ý. Là lựa chọn hoàn hảo cho tất cả các loại salad. Sản phẩm được làm từ nguyên liệu tươi, không chứa chất bảo quản, không chứa gluten &amp; lactose và chất điều vị.</p>\n<p><strong>Cách dùng:</strong> Sản phẩm dùng trộn với mỳ Ý, salad, phết trên bề mặt bánh pizza, có thể ăn nguội hoặc ăn nóng tùy thích.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/37/c8/f3/9508c60b67577c1c404782b31aed3110.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Metro Chef"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Italia"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Italia"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "350 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Hỗn hợp nho nghiền cô đặc, Giấm rượu vang trắng, Chất tạo màu tự nhiên: Caramel</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát. Tránh ánh sáng mặt trời trực tiếp và nơi có nhiệt độ cao</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "36 tháng kể từ ngày sản xuất"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Sản phẩm dùng trộn với mỳ Ý, salad, phết trên bề mặt bánh pizza, có thể ăn nguội hoặc ăn nóng tùy thích.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 181503103,
+      "name": "Gia Vị Nướng Muối Ớt Barona 80g ướp ngon chuẩn vị không cần nêm nếm",
+      "price": 12800,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/25/ba/1e3fc9a86f2ece3d9f8eb3d565caeb57.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "  0.0 ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>\n  0.0\n <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barona"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Barona Shop HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 174598779,
+      "name": "[Chỉ giao HCM] Xốt Oliu Đen Calabria Robo 530g",
+      "price": 205000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/06/a2/4291587b2ced810948cd39466c7f11ce.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Nhiệt độ bảo quản : Bảo quản nơi khô ráo, thoáng mátKhối lượng : 530g/ 1 HũHướng dẫn sử dụng : Sử dụng trực tiếp hoặc dùng cho nấu nướngXuất xứ : Ý...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Nhiệt độ bảo quản : Bảo quản nơi khô ráo, thoáng mát\n<p>Khối lượng : 530g/ 1 Hũ</p>\n<p>Hướng dẫn sử dụng : Sử dụng trực tiếp hoặc dùng cho nấu nướng</p>\n<p>Xuất xứ : Ý</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Robo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Ý"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Ý"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Maxzi HCM",
+      "stock_status": "available"
+    },
+    {
+      "id": 276239094,
+      "name": "Sốt Pesto Genovese Barilla - 190g",
+      "price": 170000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a1/b6/7d/74116855eb12701e94562d5a5a30f3af.jpeg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt Pesto Genovese Barilla - 190gBrand: BarillaMã sản phẩm: F100412Xuất xứ: ÝQuy cách đóng gói: 190gNăng lượng:  437 kcal; Protein 3.9 g; Carbohydrate 10.2 g; Chất béo 42.5 g; sodium 1240 mg.Th...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Sốt Pesto Genovese Barilla - 190g</strong></p>\n<div>\n<div>\n<p><strong>Brand</strong>: Barilla</p>\n<p><strong>Mã sản phẩm:</strong> F100412</p>\n<p><strong>Xuất xứ:</strong> Ý</p>\n<p><strong>Quy cách đóng gói:</strong> 190g<br /><br /><strong>Năng lượng: </strong> 437 kcal; Protein 3.9 g; Carbohydrate 10.2 g; Chất béo 42.5 g; sodium 1240 mg.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/a1/b6/7d/7978571319c08794387f30e1c52f5283.jpeg\" alt=\"\" width=\"525\" height=\"525\" /></p>\n<p>Thành phần: Dầu hạt hướng dương 38.5%, húng quế tươi 20.7%, rau mùi tây 11.8%, siro glucose, phô mai Pecorino Romano PDO (sữa), hạt điều, bột whey (sữa), phô mai ricotta (whey, sữa), muối, xà lách rocket 1.5%, kinh giới tây, đường, bột bơ sữa (sữa), húng tây, chất điều chỉnh độ axit: axit citric (E330), hương tự nhiên (sữa), tỏi.</p>\n<p>Nước sốt Barilla Pesto, sinh ra từ khu vực ẩm thực truyền thống Ý bậc nhất, được tạo ra để nâng cao cho tất cả các loại hình dạng mì ống. Chuẩn bị tốt nhất chỉ với thành phần được chọn, Pesto alla Genovese là một đối tác quý giá trong nhà bếp, luôn luôn sẵn sàng để làm phong phú các món ăn của bạn. Pesto alla Genovese Barilla chuẩn bị sẵn sàng với húng quế tươi để cung cấp cho một hương thơm độc đáo. Lá húng quế được trộn với hạt điều, phô mai Pecorino, Grana Padano pho mát, tỏi và muối.<br /><br /></p>\n<p><strong>Cách dùng:</strong> Dùng làm gia vị cho spaghetti và các loại pizza. Hoặc ướp, phết các món thịt, hải sản và rau củ nướng (BBQ)<br /><img src=\"https://salt.tikicdn.com/ts/tmp/b0/f1/99/38ed43b8a16c2b6c2f3131c484b53796.jpg\" alt=\"\" width=\"750\" height=\"678\" /></p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Barilla"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Italia"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Italia"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "400 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Dầu hạt hướng dương 38.5%, húng quế tươi 20.7%, rau mùi tây 11.8%, siro glucose, phô mai Pecorino Romano PDO (sữa), hạt điều, bột whey (sữa), phô mai ricotta (whey, sữa), muối, xà lách rocket 1.5%, kinh giới tây, đường, bột bơ sữa (sữa), húng tây, chất điều chỉnh độ axit: axit citric (E330), hương tự nhiên (sữa), tỏi.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát. Bảo quản lạnh và sử dụng trong vòng 5 ngày sau khi mở nắp</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng làm gia vị cho spaghetti và các loại pizza. Hoặc ướp, phết các món thịt, hải sản và rau củ nướng (BBQ)</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 252170125,
+      "name": "Hạt nêm tảo bẹ Kombu Dashi {Shimaya} 140G | Nêm vị ngọt tự nhiên",
+      "price": 110000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/68/a4/82/6d1b4890054f3143006a05a07a036317.png",
+      "primary_category_path": "1/2/44792/54362/54370/69150",
+      "availability": 1,
+      "short_description": "Hạt nêm Tảo bẹ Kombu Dashi {Shimaya} 140GThành phần chiết xuất rong biển Kombu đặc sản Hokkaido. Nhanh chóng, tiện dùng nấu nước dùng Dashi, nêm các món đồ chua, canh hầm, súp miso, các món ăn dặm ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Hạt nêm Tảo bẹ Kombu Dashi {Shimaya} 140G</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/68/a4/82/05500e4288d2d02b30e756797bee0705.png\" alt=\"hạt nêm tảo bẹ\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/e0/fd/c7/fe5ca671d89514e512224e29f427fe80.png\" alt=\"hạt nêm tảo bẹ\" width=\"750\" height=\"750\" /></strong></p>\n<p>Thành phần chiết xuất rong biển Kombu đặc sản Hokkaido. Nhanh chóng, tiện dùng nấu nước dùng Dashi, nêm các món đồ chua, canh hầm, súp miso, các món ăn dặm cho trẻ nhỏ… Có thể dùng cho người ăn chay.</p>\n<p>Bảo quản nơi thoáng mát. Tránh ánh nắng trực tiếp. Sau khi sử dụng, đóng chặt miệng túi, bảo quản trong ngăn mát tủ lạnh và nhanh chóng dùng hết.</p>\n<p>Lưu ý: Do SP chứa nguyên liệu tự nhiên, dưới tác động của nhiệt độ, ánh sáng và độ ẩm, SP có thể bị xỉn màu, ngã màu hoặc vón cục, nhưng không ảnh hưởng đến chất lượng SP.</p>\n<ul><li>Xuất xứ: Nhật Bản</li>\n<li>Hạn sử dụng: 18 tháng</li>\n<li>Trọng lượng: 140G</li>\n<li>Hướng dẫn sử dụng: Dùng nêm thức ăn. Lượng dùng: 450ml súp Sumashi: 1.5g. 750ml nước nấu mì: 6g, 1L nước nấu mì: 8g. 450ml nước nấu món ninh kho: 3g, 600ml nước nấu món ninh kho: 4g. Đồ chua (phần 3~4 người ăn): 1.5 ~ 4g. Cơm chan nước trà 3 bát: 9g, 4 bát: 12g. 75ml giấm.</li>\n<li>Bảo quản nơi thoáng mát. Tránh ánh nắng trực tiếp. Sau khi sử dụng, đóng chặt miệng túi, bảo quản trong ngăn mát tủ lạnh và nhanh chóng dùng hết.</li>\n</ul><p>#bộtnêmchobéăndặm #bột_nêm_cho_bé_ăn_dặm #botnemchobeandam #bot_nem_cho_be_an_dam #bộtnêmchay #bột_nêm_chay #botnemchay #bot_nem_chay #dashitảobẹ #dashi_tảo_bẹ #dashitaobe #dashi_tao_be #hạt_nem</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Shimaya"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "140g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Chiết xuất rong biển Kombu đặc sản Hokkaido</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi thoáng mát. Tránh ánh nắng trực tiếp. Sau khi sử dụng, đóng chặt miệng túi, bảo quản trong ngăn mát tủ lạnh và nhanh chóng dùng hết.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng nêm thức ăn. Lượng dùng: 450ml súp Sumashi: 1.5g. 750ml nước nấu mì: 6g, 1L nước nấu mì: 8g. 450ml nước nấu món ninh kho: 3g, 600ml nước nấu món ninh kho: 4g. Đồ chua (phần 3~4 người ăn): 1.5 ~ 4g. Cơm chan nước trà 3 bát: 9g, 4 bát: 12g. 75ml giấm.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 276176412,
+      "name": "DẤM Ý BALSAMICO CASA RINALDI 250ml (Chai thủy tinh)",
+      "price": 110000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/5d/23/a1b99c783d926ee36418f820da2e104c.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/54376",
+      "availability": 1,
+      "short_description": "DẤM Ý BALSAMICO CASA RINALDI 250ml (Chai thủy tinh)Brand: Aceto Balsamico di Modena Mã sản phẩm: 2790AIFOXuất xứ: ItalyQuy cách đóng gói: 250mlDấm Ý Aceto Balsamico di Modena được sản xuất tại ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><div>\n<p><strong>DẤM Ý BALSAMICO CASA RINALDI 250ml (Chai thủy tinh)</strong></p>\n<p><strong>Brand:</strong> Aceto Balsamico di Modena </p>\n<p><strong>Mã sản phẩm:</strong> 2790AIFO</p>\n<p><strong>Xuất xứ:</strong> Italy</p>\n<p><strong>Quy cách đóng gói:</strong> 250ml<br /><img src=\"https://salt.tikicdn.com/ts/tmp/9a/5d/23/0d128b7174f97c1af9f07dff8eec1b33.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div>\n<div>Dấm Ý Aceto Balsamico di Modena được sản xuất tại vùng Modona Modena và Reggio Emilia,<br /><br />Màu sắc nâu đậm, vị đắng ngọt nhẹ và cân bằng, hương axit nhẹ với mùi gỗ tự nhiên. Phù hợp khi kết hợp với các món ăn có mùi vị khác nhau nhưng vẫn giữ được sự đặc trưng.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/1a/57/f8/46ba65918e27faed4d5cc92ee561d4ab.jpg\" alt=\"\" width=\"750\" height=\"750\" /></div>\n<div><br /><strong>Thành phần:</strong> dấm rượu vang (79%), nho ép cô đặc, caramel<br /><strong>Cách sử dụng:</strong> dùng làm sốt salad, phết trên bề mặt bánh pizza, chế biến các món mì ý, gà rán hoặc có thể ăn nguội hoặc ăn nóng tùy thích.<br /><strong>Bảo quản:</strong> bảo quản nơi khô mát<br /><img src=\"https://salt.tikicdn.com/ts/tmp/77/71/17/52c0013105eb11261598f657deed1660.jpeg\" alt=\"\" width=\"750\" height=\"750\" /></div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Casa Rinaldi"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Italia"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Italia"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "600 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Dấm rượu vang (79%), nho ép cô đặc, caramel</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "60 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng làm sốt salad, phết trên bề mặt bánh pizza, chế biến các món mì ý, gà rán hoặc có thể ăn nguội hoặc ăn nóng tùy thích.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 274018801,
+      "name": "MUỐI BẠC LIÊU - FLEUR DE SEL 500G​​​​​​​",
+      "price": 180000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/39/25/c8/b7f47d9a963e8c71f1dbbf3c5571cb35.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "MUỐI BẠC LIÊU - FLEUR DE SEL 500GBrand: Bạc LiêuMã sản phẩm: MOD0704-002Xuất xứ: Việt NamQuy cách đóng gói: 500g  Muối Bạc Liêu có 100% muối biển chứa khoáng chất và vi lượng tự nhiên, được t...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MUỐI BẠC LIÊU - FLEUR DE SEL 500G</strong></p>\n<div><strong>Brand: Bạc Liêu</strong></div>\n<div>\n<p><strong>Mã sản phẩm:</strong> MOD0704-002</p>\n<p><strong>Xuất xứ:</strong> Việt Nam</p>\n<p><strong>Quy cách đóng gói:</strong> 500g<br /><br /></p>\n<p> </p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/39/25/c8/2584a52257af2554962e44be9d30e307.jpg\" alt=\"\" width=\"526\" height=\"526\" /></p>\n<p> </p>\n<p>Muối Bạc Liêu có 100% muối biển chứa khoáng chất và vi lượng tự nhiên, được thu hoạch từ ruộng muối Bạc Liêu.<br /><strong>Thành phần:</strong> 100% muối biển (NaCI &gt;=95%)<br /><br /><strong>Hạn sử dụng:</strong> 2 năm kể từ ngày sản xuất<br />Bảo quản nơi khô ráo, thoáng mát.<br />Sử dụng trong chế biến thực phẩm, phòng bệnh, chữa bệnh bướu cổ và các rối loạn do thiếu hụt i-ốt.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/c9/b7/1a/7eeb411d7db99b8a14b0f2cf93e8c316.jpg\" alt=\"\" width=\"750\" height=\"750\" /><br /><br /></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "regional_specialties",
+              "name": "Đặc sản vùng miền",
+              "value": "Không phân biệt"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "SEL DE BAC LIEU"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>100% muối biển (NaCI &gt;=95%)</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Sử dụng trong chế biến thực phẩm, phòng bệnh, chữa bệnh bướu cổ và các rối loạn do thiếu hụt i-ốt.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 251546854,
+      "name": "Sốt Teriyaki Nhật Bản Yamamori 200ML | Ướp Thịt, Cá",
+      "price": 52000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/01/5d/b9893966cf7925ab8c2b4cdbd17d3d21.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Nước sốt Teriyaki ướp thịt 200ML/chaiSốt Teriyaki là một nguyên liệu không thể thiếu trong gian bếp của người Nhật Bản. Các xiên thịt, cá nướng luôn được họ phết lên lớp sốt Teriyaki óng ánh đẹp mắ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>Nước sốt Teriyaki ướp thịt 200ML/chai</strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/a4/01/5d/90f75204d17b46febcf7f5405838cbac.jpg\" alt=\"sốt teriyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p style=\"text-align:center;\"><strong><img src=\"https://salt.tikicdn.com/ts/tmp/5f/41/8d/e7628a7b12a02336b387a598c127b357.png\" alt=\"sốt teriyaki\" width=\"750\" height=\"750\" /></strong></p>\n<p>Sốt Teriyaki là một nguyên liệu không thể thiếu trong gian bếp của người Nhật Bản. Các xiên thịt, cá nướng luôn được họ phết lên lớp sốt Teriyaki óng ánh đẹp mắt. Đây chính là tinh hoa nước sốt cho các món nướng của Nhật. Nước sốt Teriyaki thường được phết nhiều lần để tạo hương vị đậm đà và món ăn thêm phần đẹp mắt.</p>\n<p>Teriyaki Yamamori có màu nâu óng ánh được làm từ nước tương, rượu nấu ngọt mirin, rượu sake và đường, còn có thể thêm mè hoặc tỏi để món ăn thêm đậm vị.</p>\n<ul><li>Xuất xứ: Thái Lan</li>\n<li>Quy cách đóng gói: chai 200ml</li>\n<li>Hạn sử dụng: 18 tháng</li>\n<li>Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</li>\n<li>Hướng dẫn sử dụng: Sau khi chiên thịt / cá xong cho 1 ít nước sốt Yamamori Teriyaki vào nấu cho đến khi nước sốt sánh lại.</li>\n<li>Thành phần: Nước tương 35%, Xi- rô fructose 18%, đường 18%, r.ư.ợ ngọt nấu từ gạo 5%, giấm chưng cất 2%, màu caramel (15a)</li>\n</ul><p>Chú ý: Sản phẩm có chứa đậu nành và lúa mỳ<br /><br /></p>\n<p>Hướng dẫn chế biến món Gà Sốt Teriyaki:</p>\n<p>*Nguyên liệu:</p>\n<ul><li>300g thịt đùi gà đã rút xương</li>\n<li>2 lá xà lách</li>\n<li>2 trái cà chua bi</li>\n<li>1 muỗng canh dầu ăn</li>\n<li>4 muỗng canh Sốt Teriyaki</li>\n</ul><p>*Cách thực hiện:</p>\n<ul><li>Làm nóng chảo với dầu ăn, sau đó cho thịt gà vào chiên đều cả hai mặt.</li>\n<li>Khi thịt đã vàng đều hai mặt, cho Sốt Teriyaki vào và đảo đều trong vòng 2 phút.</li>\n<li>Khi thịt đã chín, cắt thành miếng vừa ăn và trình bày ra dĩa cùng với rau xà lách và cà chua bi.</li>\n</ul><p><br />=========================<br />#Teriyaki<br />#sot_teriyaki</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Yamamori"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Thái Lan"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "280g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Nước tương 35%, Xi- rô fructose 18%, đường 18%, r.ư.ợ.u ngọt nấu từ gạo 5%, giấm chưng cất 2%, màu caramel (15a)...</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Bảo quản lạnh sau khi mở sản phẩm và nhanh chóng dùng hết.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "18 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Sau khi chiên thịt / cá xong cho 1 ít nước sốt Yamamori Teriyaki vào nấu cho đến khi nước sốt sánh lại.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "THỰC PHẨM TODAY",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317837,
+      "name": "MUỐI TIÊU CHANH FUNDOKIN YUZU KOSHOU 30G (40C/T)",
+      "price": 79000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/96/9a/d8d7a42d9ab81195b828cf987dee0993.png",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "MUỐI TIÊU CHANH...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>MUỐI TIÊU CHANH<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FUNDOKIN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317832,
+      "name": "SỐT MUỐI ỚT XANH FUNDOKIN LIQUID YUZU KOSHO 100ML (8C/T)",
+      "price": 130000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/71/da/1e/39c0c2bc8d6e769e97e1b4c1ab57bd86.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT MUỐI ỚT XANH...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT MUỐI ỚT XANH<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "FUNDOKIN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317809,
+      "name": "SỐT THỊT ĂN MÌ SPAGHETTY AJINOMOTO RUMIC MEAT SOUCE 69G (60C/T)",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/2d/83/7b49a2409253037166085cc4b4fec1cd.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT THỊT ĂN MÌ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT THỊT ĂN MÌ<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 193563183,
+      "name": "Xốt tiêu đen 145g",
+      "price": 25000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/c3/f3/94422c2c16450609b123939db9082122.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sản phẩm được sản xuất trên dây chuyền khép kín máy móc hiện đại, nguyên vật liệu được tuyển chọn cẩn thận từ các nhà vườn uy tín. Pha chế theo công thức vàng tạo nên một sản phẩm “TƯƠI NGON” đem đến một bữa ăn đậm đà.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NG NGO GIA JUST IN TIME JOYAL SAUCE"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "145"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Xốt Tiêu Đen</p>\n<p>Thành phần: nước cốt tắc (30%), đường tinh luyện, creamer đặc có đường (25%), Tiêu (15%), muối (10%), INS 415, INS 331, INS 223.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Hướng dẫn bảo quản: bảo quản nơi kho ráo, thoáng mát, tránh ánh nắng trực tiếp, bảo quản lạnh sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "10 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Hướng dẫn sử dụng: dùng để chấm các loại BBQ, hải sản, rau củ và ướp thực phẩm.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "NG NGO GIA JUST IN TIME JOYAL SAUCE",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317793,
+      "name": "SỐT THỊT NƯỚNG CAY EBARA 360G(12C/T)",
+      "price": 165000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/d8/13/05ee87b7c4c0d2134ba56cd15f17c709.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT THỊT NƯỚNG CAY...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT THỊT NƯỚNG CAY<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "EBARA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317777,
+      "name": "SỐT THỊT NƯỚNG EBARA OROSHI NO TARE 270ML (12C/T)-",
+      "price": 98000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/a9/8f/dbfbb3696122652f94797985c4e38427.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "SỐT THỊT NƯỚNG...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>SỐT THỊT NƯỚNG<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "EBARA"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317638,
+      "name": "BỘT NGỌT UMAMI CHOMIRYO AJI PANDA 70G (60C/T)",
+      "price": 160000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/8d/9b/4376a01d22bddd173dd014421229fafa.png",
+      "primary_category_path": "1/2/44792/54362/54370/69146",
+      "availability": 1,
+      "short_description": "BỘT NGỌT...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>BỘT NGỌT<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 184317454,
+      "name": "MUỐI SẤY AJINOMOTO AJISHIO BOTTLE 60G (120/T)",
+      "price": 41000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/51/3a/28a53719cdf61a6b279c1f61dde4adb3.png",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1,
+      "short_description": "MUỐI SẤY...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>MUỐI SẤY<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Ajinomoto"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130390,
+      "name": "Sốt bánh bạch tuộc Takoyaki 300g",
+      "price": 78000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/97/60/91c620e502429b92266f3f38edacbcf6.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt bánh bạch tuộc Takoyaki 300g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Sốt bánh bạch tuộc Takoyaki 300g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Oliver"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130342,
+      "name": "Mì Udon (Tsurushiko Udon) 450g",
+      "price": 95000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/61/92/333fcbf0d0928f81e444955280b2e6dd.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Mì Udon (Tsurushiko Udon) 450g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì Udon (Tsurushiko Udon) 450g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Shigeno"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130256,
+      "name": "Bột Rắc Otonanofurikake Mini Sono 37g",
+      "price": 89000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/dd/e9/c87ccf5c661e1c022cd4011ad43f6ef8.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Bột Rắc Otonanofurikake Mini Sono 37g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Bột Rắc Otonanofurikake Mini Sono 37g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130240,
+      "name": "Bột Rắc Rau Xanh Mizkan 31g",
+      "price": 48000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/29/44/8f23fdfd4b7ad1795065d995c5b1a54e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Bột Rắc Rau Xanh Mizkan 31g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Bột Rắc Rau Xanh Mizkan 31g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130280,
+      "name": "Sốt bánh xèo Okonomi Yaki 500g",
+      "price": 128500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/af/83/07acc4a3dff3451d59a1ce702a043742.png",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1,
+      "short_description": "Sốt bánh xèo Okonomi Yaki 500g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Sốt bánh xèo Okonomi Yaki 500g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Otafuku"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130210,
+      "name": "Ngũ Vị Chiên Cơm Trứng 24g",
+      "price": 49000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7f/6d/d9/3d47c89c7c6c89faeb3628dddb074f21.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Ngũ Vị Chiên Cơm Trứng 24g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Ngũ Vị Chiên Cơm Trứng 24g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130208,
+      "name": "Bột Rắc Màu Trứng Cá Tuyết 30g",
+      "price": 40000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/5e/33/8cee66bf904bdf49bf6051292975bab6.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1,
+      "short_description": "Bột Rắc Màu Trứng Cá Tuyết 30g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Bột Rắc Màu Trứng Cá Tuyết 30g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NAGATANIEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130182,
+      "name": "Bột Rắc Trứng Cá Tuyết Nướng Mizkan 31g",
+      "price": 48000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/7f/50/6cdb8ec84460fa1713121ded49f8976e.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 182130204,
+      "name": "Bột Rắc Cá Ngừ 30g",
+      "price": 48000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/31/4c/c2/009ceb3af982b446b7067ede75715cd7.png",
+      "primary_category_path": "1/2/44792/54362/54370/69147",
+      "availability": 1
+    },
+    {
+      "id": 181503203,
+      "name": "Combo 1 gói Xốt Barona Bún Bò Huế 80g, 1 gói Xốt Barona Hủ Tiếu Nam Vang 80g TẶNG 1 Hũ Sa tế XO Thượng hạng Barona 100g",
+      "price": 32800,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/9b/81/2604d69d3b97bcdc7c17164df0a07752.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69148",
+      "availability": 1
+    },
+    {
+      "id": 142869484,
+      "name": "Muối Tiêu SaHu 150Gr ",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/8e/3f/9c9864d80a30b0449f28d0d6d0fa5d32.jpg",
+      "primary_category_path": "1/2/44792/54362/54370/69151",
+      "availability": 1
+    }
+  ]
+}

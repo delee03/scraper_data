@@ -1,0 +1,448 @@
+{
+  "total_products": 24,
+  "products": [
+    {
+      "id": 273748420,
+      "name": "Nui Rigatoni 500g (Delverde)",
+      "price": 132000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fd/28/35/dce9787221da423f22b0b325dc3db890.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 273937894,
+      "name": "Mì Ý Spaghettini in Bronzo 500g (Delverde)",
+      "price": 132000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/94/a2/b1edf04a8b493d91f171f5f67494a4c4.jpg",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 273401044,
+      "name": "HẠNH NHÂN RANG BƠ 280 G",
+      "price": 105000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/9e/38/2b2a01535e3c435a55467327682a9ebc.JPG",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 273937348,
+      "name": "Nui Fusilli 500g (Delverde)",
+      "price": 119000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/8b/65/a6ba39bea98dd3842a6058d223da5dc9.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 251750689,
+      "name": "Tinh bột khoai tây Nhật Bản Katakuriko {Maehara} 200G ",
+      "price": 59000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/2d/fb/1f15b2ad266ff585b675cb25eccd8aa1.jpg",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 198746654,
+      "name": "Bột Rau Má Nguyên Chất DTFood - 500g",
+      "price": 79000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/d0/33/3f4f68ef79c1b511b7e6cc80c6a59bd7.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 198746708,
+      "name": "Bột Sắn Dây Nguyên Chất DTFood - 500g",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/00/95/404a1c19e86627695d608969f2cdac7d.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 195109598,
+      "name": "Nui Nơ Farfalle Pasta La Sicilia - 500g/gói",
+      "price": 53000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/b8/17/1f38274f8461b164eb6c47d0b95603e8.jpg",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 184317602,
+      "name": "MÌ TƯƠI ITSUKI 3SHOKU YAKISOBA 510G (12C/T)",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/b3/a6/e03bf249401329891a30c7927688d1b2.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 184317756,
+      "name": "MÌ SOBA KHOAI MỠ ITOMEN YAMAIMO SOBA 5P(18G/T)",
+      "price": 92000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/b8/b5/a2eaca9351ec82a8998d4a9e06809aab.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130580,
+      "name": "Mì Somen 200g",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/2e/d3/50b06145c9a7a428d08abc6ef764efa4.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130574,
+      "name": "Mì Zarusoba Shigeno 320g",
+      "price": 112000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ed/b5/de/3a800dd71348ed7845e3b14f108cd877.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130578,
+      "name": "Mì Udon Kato 270g",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/97/d8/402d2c11c753dd185f3995c0e1d6edd2.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130554,
+      "name": "Mì Udon Tách Muối 200g",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/00/a6/d884e840b71b611be41e476cf11bb9eb.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130550,
+      "name": "Mì sợi Shigeno Ajikawa Yanagi Tororo 320g",
+      "price": 108000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/3c/05/7a7d8654a5ebc0789013dbe6da16b512.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130531,
+      "name": "Mì Hiyamugi kato 600g",
+      "price": 104000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/7a/3a/832dce6e21180d82a0b3b0686bc85498.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130424,
+      "name": "Mì Somen Aji Suzumi Soumen 360g",
+      "price": 101000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/77/91/af8e35bba681bd6a906096b36cfd1802.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130506,
+      "name": "Mì sợi Sunaoshi Tokusen men Zaru Soba 400g",
+      "price": 69000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/29/89/58dac5228e7dc962947c1429ebe79f5d.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130362,
+      "name": "Mì Soba Kato 200g",
+      "price": 58000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/73/54/e9/b16077253a389af48c24aea766c53b2b.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1
+    },
+    {
+      "id": 182130330,
+      "name": "Mì Menyuraku Sanuki Udon 600g",
+      "price": 104000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/48/3b/3a/eae211761ee9d8422856a29ae5d4430d.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1,
+      "short_description": "Mì Menyuraku Sanuki Udon 600g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì Menyuraku Sanuki Udon 600g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Katosangyo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130168,
+      "name": "Mì Menyuraku Bansyu Soumen 600g",
+      "price": 104000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/26/e7/d7fa2613bcfc5d69001e0a65428a483f.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1,
+      "short_description": "Mì Menyuraku Bansyu Soumen 600g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì Menyuraku Bansyu Soumen 600g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Katosangyo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130356,
+      "name": "Mì sợi nhỏ Somen 200g",
+      "price": 38000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/ee/c6/26ad695e40e6d7a556613049c401e11b.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1,
+      "short_description": "Mì sợi nhỏ Somen 200g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì sợi nhỏ Somen 200g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Shigeno"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130108,
+      "name": "Mì Shigeno Ajisenryu Zaru Chasoba　200ｇ",
+      "price": 89500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/db/24/f05b2a82738dc7ce011cce7a61cb0608.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1,
+      "short_description": "Mì Shigeno Ajisenryu Zaru Chasoba　200ｇ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì Shigeno Ajisenryu Zaru Chasoba　200ｇ<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "SHIGENOSEIMEN"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    },
+    {
+      "id": 182130162,
+      "name": "Mì Menyuraku Bansyu Hiyamugi 600g",
+      "price": 104000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8b/cc/aa/8bdf278e98eed32f2730f963d5bf2252.png",
+      "primary_category_path": "1/2/44792/54316/54384/54388",
+      "availability": 1,
+      "short_description": "Mì Menyuraku Bansyu Hiyamugi 600g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p>Mì Menyuraku Bansyu Hiyamugi 600g<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Katosangyo"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Nhật Bản"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Siêu thị Akuruhi Lê Thánh Tôn",
+      "stock_status": "available"
+    }
+  ]
+}

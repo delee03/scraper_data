@@ -1,0 +1,65 @@
+{
+  "total_products": 5,
+  "products": [
+    {
+      "id": 177488170,
+      "name": "[ Chỉ giao HCM ] -Thuốc xổ giun Rantel Plus 10g/v",
+      "price": 15000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/fe/f0/13c8f2fd8970a9471eef96afcfcac052.jpg",
+      "primary_category_path": "1/2/44792/54466/68764/68770",
+      "availability": 1
+    },
+    {
+      "id": 177187681,
+      "name": "[ Chỉ giao HCM] -  Nhỏ rận cho chó Plus từ 10-20kg",
+      "price": 190000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e6/88/c1/a57425e331c82a2cb27bda9fb4f080e5.jpg",
+      "primary_category_path": "1/2/44792/54466/68764/68771",
+      "availability": 1
+    },
+    {
+      "id": 177488222,
+      "name": "[ Chỉ giao HCM ] - Thuốc nhỏ trị viêm tai ngoài cho chó Gentazol 10ml",
+      "price": 28000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ed/c7/b1/844f76fb779756bb4ecf23e62e100515.jpg",
+      "primary_category_path": "1/2/44792/54466/68764/68762",
+      "availability": 1
+    },
+    {
+      "id": 177487112,
+      "name": "[ Chỉ giao HN ] - Thuốc nhỏ trị viêm tai ngoài cho chó Gentazol 10ml",
+      "price": 28000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ed/c7/b1/474d7c2688eeb215025857f515c7ecf4.jpg",
+      "primary_category_path": "1/2/44792/54466/68764/68762",
+      "availability": 1
+    },
+    {
+      "id": 177187264,
+      "name": "[ Chỉ giao HCM] -  Xịt ve cao cấp power100ml",
+      "price": 98000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/6c/60/57d8cebe9ad806f27a59c7118a00d024.jpg",
+      "primary_category_path": "1/2/44792/54466/68764/68771",
+      "availability": 1
+    }
+  ]
+}

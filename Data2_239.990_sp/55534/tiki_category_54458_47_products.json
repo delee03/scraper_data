@@ -1,0 +1,1909 @@
+{
+  "total_products": 47,
+  "products": [
+    {
+      "id": 274133856,
+      "name": "Mứt Gừng Dẻo 200g Thành Long_Việt Nam",
+      "price": 69300,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/f2/65/8b03dee61ecd724fc9472e8406d6a4d4.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÔNG TIN CHI TIẾT MỨT GỪNG VIÊN SẤY DẺO TỰ NHIÊN THƯỢNG HẠNG THÀNH LONG️ Thành phần: Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt.️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Lo...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÔNG TIN CHI TIẾT MỨT GỪNG VIÊN SẤY DẺO TỰ NHIÊN THƯỢNG HẠNG THÀNH LONG</p>\n<p>️ Thành phần: Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt.</p>\n<p>️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1</p>\n<p>️ Ngày sản xuất: in trên bao bì</p>\n<p>️ Hạn sử dụng: 09 tháng kể từ ngày sản xuất</p>\n<p>️ Khối lượng tịnh: 200gr</p>\n<p>Sản phẩm có giấy chứng nhận HACCP SỐ 21.4256 – HACCP/VC do trung tâm giám định và chứng nhận hợp chuẩn hợp quy - VIETCERT đánh giá chứng nhận phù hợp tiêu chuẩn.</p>\n<p>Gừng viên sấy dẻo tự nhiên có thể sử dụng trong những ngày lễ tết hoặc nhâm nhi với chút trà ấm. Với chút ngọt ngọt và thơm của gừng tạo nên một thức quà thơm ngon và đầy dinh dưỡng.</p>\n<p> </p>\n<p>Sản phẩm Gừng Viên Sấy Dẻo Tự nhiên Và Tiện Lợi của Thành Long. Với dây chuyền sản xuất đảm bảo vệ sinh an toàn thực phẩm và nguồn nguyên liệu được chọn lọc kỹ lưỡng</p>\n<p> </p>\n<p>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN MỨT GỪNG VIÊN SẤY DẺO TỰ NHIÊN THƯỢNG HẠNG THÀNH LONG</p>\n<p>- Dùng ngay sau khi mở bao bì;</p>\n<p>- Đóng kín bao bì để giữ khô ráo sản phẩm sau khi sử dụng.</p>\n<p>- Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp. Nhiệt độ thích hợp 22°C-30°C.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>- Đóng kín bao bì để giữ khô ráo sản phẩm sau khi sử dụng.</p>\n<p>- Bảo quản nơi thoáng mát, tránh ánh nắng trực tiếp. Nhiệt độ thích hợp 22°C-30°C.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>- Dùng ngay sau khi mở bao bì;</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 199578667,
+      "name": "MỨT ME CHUA CAY (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/6b/6b/1b2381d41795df1d7d471877b849d0ca.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONGĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINHMỨT ME CHUA CAYMỨT THUẦN VIỆTTHÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT ...",
+      "description": "<p><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONG</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">ĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINH</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">MỨT ME CHUA CAY</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">MỨT THUẦN VIỆT</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">THÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT , BỘT ỚT, CHẤT ĐIỀU CHỈNH ĐỘ ACID: ACID CITRIC (E330), CHẤT BẢO QUẢN (E202), HƯƠNG THỰC PHẨM TỔNG HỢP: HƯƠNG ME.</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">SẢN XUẤT THEO: 07/HKDTL/2019</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">THỜI HẠN SỬ DỤNG: 06 THÁNG KỂ TỪ NGÀY SẢN XUẤT</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">CHỈ TIÊU CHẤT LƯỢNG: Độ ẩm ≤ 35 %</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">HƯỚNG DẪN SỬ DỤNG : Dùng ngay sau khi mở bao bì.</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">HƯỚNG DẪN BẢO QUẢN : Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">THÔNG TIN CẢNH BÁO : Không sử dụng sản phẩm khi đã hết hạn sử dụng.</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</span><br style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\" /><span style=\"color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;float:none;\">Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500G"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 THÁNG"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 271362633,
+      "name": "MỨT TÁO SẤY DẺO THÀNH LONG 500G - VIỆT NAM",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/d5/51/e8191a2e6411de3860692def0591c82c.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN PHẨM CỦA  HỘ KINH DOANH  CƠ SỞ  BÁNH MỨT THÀNH LONG 1MỨT TÁO SẤY DẺOTHÀNH PHẦN: Trái táo (80%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223).SẢN XUẤT THEO: 48/HKDCSBMTL1/2021T...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><table>\n<tbody>\n<tr>\n<td>\n<p><strong>SẢN PHẨM CỦA  HỘ KINH DOANH  CƠ SỞ  BÁNH MỨT </strong><strong>THÀNH LONG 1</strong></p>\n<p><strong>MỨT TÁO SẤY DẺO</strong></p>\n<p><strong>THÀNH PHẦN:</strong> Trái táo (80%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223).</p>\n<p><strong>SẢN XUẤT THEO:</strong> 48/HKDCSBMTL1/2021</p>\n<p><strong>THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất</strong></p>\n<p><strong>CHỈ TIÊU CHẤT LƯỢNG : </strong>ĐỘ ẨM ≤ 35%</p>\n<p><strong>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:</strong></p>\n<p><strong>HƯỚNG DẪN BẢO QUẢN</strong>: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 22<sup>0</sup>C-30<sup>0</sup>C</p>\n<p><strong>HƯỚNG DẪN SỬ DỤNG</strong>: DÙNG NGAY SAU KHI MỞ BAO BÌ.</p>\n<p><strong>THÔNG TIN CẢNH BÁO</strong>: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG</p>\n<p><strong>GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC  DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN</strong></p>\n<p><strong>BAO BÌ THAY ĐỔI THEO TỪNG LÔ HÀNG.</strong></p>\n</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 199576527,
+      "name": "MỨT ME THÁI CAY ( 200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 93500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/35/4b/145b54c9c3eb28050a1825b7341fdf39.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONGĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINHMỨT ME THÁI CAYMứt Thuần ViệtTHÀNH PHẦN : Me Thái (80%), đường tinh luyện, muối...",
+      "description": "<table style=\"max-width:100%;border-collapse:collapse;border-spacing:0px;line-height:21px;width:888px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><tbody><tr style=\"font-size:13px;border-bottom:0px;\"><td style=\"padding:10px 15px;width:220px;vertical-align:top;color:#4f4f4f;font-size:13px;font-weight:500;background:#efefef;border-right:0px;\">\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONG</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\"><em>ĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINH</em></strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">MỨT ME THÁI CAY</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\"><em>Mứt Thuần Việt</em></strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">THÀNH PHẦN</strong> : Me Thái (80%), đường tinh luyện, muối i-ốt, ớt khô, chất điều chỉnh độ acid: Acid tartaric (E334), chất bảo quản (E202), hương thực phẩm tổng hợp: Hương me</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">SẢN XUẤT THEO: 60</strong><strong style=\"font-weight:500;\">/HKDTL/2020</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">THỜI HẠN SỬ DỤNG : 09 THÁNG KỂ TỪ NGÀY SẢN XUẤT</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">CHỈ TIÊU CHẤT LƯỢNG:  </strong>Độ ẩm ≤ 35 %</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">HƯỚNG DẪN SỬ DỤNG</strong> : Dùng ngay sau khi mở bao bì.</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">HƯỚNG DẪN BẢO QUẢN</strong> : Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22 độ C - 30 độ C</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">THÔNG TIN CẢNH BÁO</strong> : Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;\"><strong style=\"font-weight:500;\">NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</strong></p>\n</td>\n</tr></tbody></table><p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">Chi tiết mẫu mã bao bì sản phẩm thay đổi theo từng lô hàng.</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500G"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 THÁNG"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 271362889,
+      "name": "MỨT TÁO SẤY DẺO THÀNH LONG 200G - VIỆT NAM",
+      "price": 49500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/d5/51/d1a81fbca615b0738b93702a8b7e60bd.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN PHẨM CỦA  HỘ KINH DOANH  CƠ SỞ  BÁNH MỨT THÀNH LONG 1MỨT TÁO SẤY DẺOTHÀNH PHẦN: Trái táo (80%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223).SẢN XUẤT THEO: 48/HKDCSBMTL1/2021T...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><table>\n<tbody>\n<tr>\n<td>\n<p><strong>SẢN PHẨM CỦA  HỘ KINH DOANH  CƠ SỞ  BÁNH MỨT </strong><strong>THÀNH LONG 1</strong></p>\n<p><strong>MỨT TÁO SẤY DẺO</strong></p>\n<p><strong>THÀNH PHẦN:</strong> Trái táo (80%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223).</p>\n<p><strong>SẢN XUẤT THEO:</strong> 48/HKDCSBMTL1/2021</p>\n<p><strong>THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất</strong></p>\n<p><strong>CHỈ TIÊU CHẤT LƯỢNG : </strong>ĐỘ ẨM ≤ 35%</p>\n<p><strong>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:</strong></p>\n<p><strong>HƯỚNG DẪN BẢO QUẢN</strong>: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 22<sup>0</sup>C-30<sup>0</sup>C</p>\n<p><strong>HƯỚNG DẪN SỬ DỤNG</strong>: DÙNG NGAY SAU KHI MỞ BAO BÌ.</p>\n<p><strong>THÔNG TIN CẢNH BÁO</strong>: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG</p>\n<p><strong>GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC  DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN</strong></p>\n<p><strong>BAO BÌ THAY ĐỔI THEO TỪNG LÔ HÀNG.</strong></p>\n</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 274506690,
+      "name": "MỨT MÂM XÔI ĐEN LA VIEJA FÁBRICA 350gr",
+      "price": 160000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/be/f8/7b2fdc4879035d8cc814da84c54b6392.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT MÂM XÔI ĐEN LA VIEJA FÁBRICA 350grBrand: La Vieja FábricaMã sản phẩm: FRA05042Xuất xứ: Tây Ban NhaQuy cách đóng gói: Hủ 350gThành phần: Trái mâm xôi đen, đường ăn kiêng.Chỉ tiêu chất lượng:...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MỨT MÂM XÔI ĐEN LA VIEJA FÁBRICA 350gr</strong></p>\n<div>\n<p><strong>Brand:</strong> La Vieja Fábrica</p>\n<p><strong>Mã sản phẩm:</strong> FRA05042</p>\n<p><strong>Xuất xứ:</strong> Tây Ban Nha</p>\n<p><strong>Quy cách đóng gói:</strong> Hủ 350g</p>\n<p><strong>Thành phần:</strong> Trái mâm xôi đen, đường ăn kiêng.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/30/be/f8/28470d079901900e295e660007d7df55.jpg\" alt=\"\" width=\"750\" height=\"750\" /><br /><strong>Chỉ tiêu chất lượng:</strong></p>\n<p>Hàm lượng protein: 0,3 – 0,7%<br />Năng lượng: 185 – 245Kcal/100g</p>\n<p>Mứt La Vieja Fábrica đã phát triển một loạt các loại mứt ăn kiêng, trong khi vẫn giữ được tất cả các đặc tính nguyên bản của mứt truyền thống, chúng được làm ngọt hoàn toàn bằng fructose (đường trái cây) và không chứa thêm sucrose (đường thông thường). Mứt mâm xôi đen – La Vieja Fábrica luôn sử dụng những loại trái cây thượng hạng được chọn lọc.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/11/89/af/a1ff188ee04bea36ad4ba954fe521b58.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm </p>\n<p><strong>Bảo quản:</strong></p>\n<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "350 gram"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "La Vieja Fábrica"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Trái mâm xôi đen, đường ăn kiêng.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm kem....</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 275346832,
+      "name": "Trà Gừng Mật Ong Hàn Quốc",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/39/ab/6e/fdc8a89168f4ee99a68db8f4dcc65e94.jpeg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "Trà gừng mật ong được làm từ mật ong nguyên chất và gừng , uống rất tốt cho sức khỏe, nên sử dụng vào buổi sáng mới ngủ dây...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Trà gừng mật ong được làm từ mật ong nguyên chất và gừng , uống rất tốt cho sức khỏe, nên sử dụng vào buổi sáng mới ngủ dây</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Grand Castella"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Hàn Quốc"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thành Phần: Gừng, Mật Ong</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nhiệt độ phòng</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng pha với nước ấm </p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "GRAND CASTELLA",
+      "stock_status": "available"
+    },
+    {
+      "id": 275347186,
+      "name": "Trà Chanh Mật Ong Hàn Quốc",
+      "price": 220000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/39/ab/6e/135abc7456f37783bdb5f6a6bd946407.jpeg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": ". Tên sản phẩm: Trà Chanh Mật Ong Hần Quốc - Honay Citron Tos. Quy cách: 1000g/lọ. Thời hạn sử dụng: 24 tháng kể từ ngày sản xuất.Hạn Bử dụng được In trên bao bì sản phẩm.. Thương nhân chịu trách nhiệ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>. Tên sản phẩm: Trà Chanh Mật Ong Hần Quốc - Honay Citron Tos<br />. Quy cách: 1000g/lọ<br />. Thời hạn sử dụng: 24 tháng kể từ ngày sản xuất.<br />Hạn Bử dụng được In trên bao bì sản phẩm.<br />. Thương nhân chịu trách nhiệm chất lượng của hàng hóa?<br />CÔNG TY TNHH XUẤT NHẬP KHẨU VIETPOWERLIFE<br />Địa chỉ: 240 Lũy Bán Bích, P. Hoà Thạnh, Q. Tân Phú, TP. Hồ Chí Minh Điện thoại: (028) 3.873.8889<br />D. Nhà sản xuất: Doowon NongHyup (Duwon Agricultural Cooporativo)<br />Địa chỉ: 2418 Goheung-ro, Duwon-myeon, Goheung-gun, Jeolanam do, Koras<br />. Xuất xứ: Hàn Quốc<br />. Số TCB: 01/VIETPOWERLIFE/2020</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Grand Castella"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Hàn Quốc"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>2. Thành phần cầu tạo: Chanh ướp đương( chanh 60%<br />(Hàn Quốc), đường tinh chế 60%) 60%, đường tinh chả, nước tinh khiết, mật ong (mật hoa, Hàn Quốc) 6%, chất điầu chình độ acid (INS300. INS330). chất ổn<br />dinh (INS488).</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản Nơi khổ ráo, thoáng mắt, tránh ánh nắng trực tiếp</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>4. Hường dẫn sử dụng: Dùng trực tiếp, pha 20g-30g sản phẩm với 80ml nước nóng hoặc lạnh, sau đó khuấy đầu và uống</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "GRAND CASTELLA",
+      "stock_status": "available"
+    },
+    {
+      "id": 274506610,
+      "name": "MỨT HOA QUẢ RỪNG LA VIEJA FÁBRICA 350G",
+      "price": 173000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/7c/ab/7d87393f1ab1225d88a6d26e2c8f8ef6.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT HOA QUẢ RỪNG LA VIEJA FÁBRICA 350g Brand: La Vieja FábricaMã sản phẩm: FRA05072Xuất xứ: Tây Ban NhaQuy cách đóng gói: Hủ 350gThành phần: Trái dâu tây, dâu rừng, mâm xôi, việt quất, đường ăn...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MỨT HOA QUẢ RỪNG LA VIEJA FÁBRICA 350g</strong></p>\n<div>\n<p> </p>\n<p><strong>Brand:</strong> La Vieja Fábrica</p>\n<p><strong>Mã sản phẩm:</strong> FRA05072</p>\n<p><strong>Xuất xứ:</strong> Tây Ban Nha</p>\n<p><strong>Quy cách đóng gói:</strong> Hủ 350g</p>\n<p><strong>Thành phần:</strong> Trái dâu tây, dâu rừng, mâm xôi, việt quất, đường ăn kiêng<br /><img src=\"https://salt.tikicdn.com/ts/tmp/25/7c/ab/f19d59499ecc1dde7be9fe953c4f7667.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Chỉ tiêu chất lượng:</strong></p>\n<p>Hàm lượng protein: 0,2 – 0,6%<br />Năng lượng: 175 – 235Kcal/100g</p>\n<p>Mứt La Vieja Fábrica đã phát triển một loạt các loại mứt ăn kiêng, trong khi vẫn giữ được tất cả các đặc tính nguyên bản của mứt truyền thống, chúng được làm ngọt hoàn toàn bằng fructose (đường trái cây) và không chứa thêm sucrose (đường thông thường). Mứt hoa quả rừng 350g – La Vieja Fábrica luôn sử dụng những loại trái cây thượng hạng được chọn lọc.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/11/89/af/2d9cbbfa8b4c15b4c553d98bcc87479c.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm </p>\n<p><strong>Bảo quản:</strong></p>\n<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "350 gram"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "La Vieja Fábrica"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "0.8 Kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Trái dâu tây, dâu rừng, mâm xôi, việt quất, đường ăn kiêng</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm kem....</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 274506672,
+      "name": "MỨT THƠM LA VIEJA FÁBRICA 350gr",
+      "price": 160000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/ae/3a/2fb951c16fb8f49312640a6b1a524ca6.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT THƠM LA VIEJA FÁBRICA 350gBrand: La Vieja FábricaMã sản phẩm: FRA05062Xuất xứ: Tây Ban NhaQuy cách đóng gói: Hủ 350gThành phần: Trái Thơm, đường ăn kiêngChỉ tiêu chất lượng:Hàm lượng prote...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MỨT THƠM LA VIEJA FÁBRICA 350g</strong></p>\n<div>\n<p><strong>Brand:</strong> La Vieja Fábrica</p>\n<p><strong>Mã sản phẩm:</strong> FRA05062</p>\n<p><strong>Xuất xứ:</strong> Tây Ban Nha</p>\n<p><strong>Quy cách đóng gói:</strong> Hủ 350g</p>\n<p><strong>Thành phần: </strong>Trái Thơm, đường ăn kiêng<br /><img src=\"https://salt.tikicdn.com/ts/tmp/61/ae/3a/ce42868a9a9bb2a12b899f4c81858a1e.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Chỉ tiêu chất lượng:</strong></p>\n<p>Hàm lượng protein: 1,2 – 1,6%<br />Năng lượng: 185 – 245Kcal/100g</p>\n<p>Mứt La Vieja Fábrica đã phát triển một loạt các loại mứt ăn kiêng, trong khi vẫn giữ được tất cả các đặc tính nguyên bản của mứt truyền thống, chúng được làm ngọt hoàn toàn bằng fructose (đường trái cây) và không chứa thêm sucrose (đường thông thường). Mứt thơm 350g – La Vieja Fábrica luôn sử dụng những loại trái cây thượng hạng được chọn lọc.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/a7/a4/bd/2901498349d521a9fcdd4533035ace7d.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm </p>\n<p><strong>Bảo quản:</strong></p>\n<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "350 gram"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "La Vieja Fábrica"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Trái Thơm, đường ăn kiêng</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm kem....</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 274134016,
+      "name": "Mứt Me Chua Cay 200g Thành Long_Việt Nam",
+      "price": 93500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/6b/6b/3338d4e8b91418d927f91bcc1bd66af4.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONGĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINHMỨT ME CHUA CAYMỨT THUẦN VIỆTTHÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONG<br />ĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINH<br />MỨT ME CHUA CAY<br />MỨT THUẦN VIỆT<br />THÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT , BỘT ỚT, CHẤT ĐIỀU CHỈNH ĐỘ ACID: ACID CITRIC (E330), HƯƠNG THỰC PHẨM TỔNG HỢP: HƯƠNG ME.<br />SẢN XUẤT THEO: 07/HKDTL/2019<br />THỜI HẠN SỬ DỤNG: 06 THÁNG KỂ TỪ NGÀY SẢN XUẤT<br />CHỈ TIÊU CHẤT LƯỢNG: Độ ẩm ≤ 35 %<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN SỬ DỤNG : Dùng ngay sau khi mở bao bì.<br />HƯỚNG DẪN BẢO QUẢN : Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃<br />THÔNG TIN CẢNH BÁO : Không sử dụng sản phẩm khi đã hết hạn sử dụng.<br />NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005<br />Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT , BỘT ỚT, CHẤT ĐIỀU CHỈNH ĐỘ ACID: ACID CITRIC (E330), CHẤT BẢO QUẢN (E202), HƯƠNG THỰC PHẨM TỔNG HỢP: HƯƠNG ME.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng ngay sau khi mở bao bì.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 271363595,
+      "name": "VỎ BƯỞI SẤY DẺO - BÁNH MỨT THÀNH LONG - TÚI 200G - VIỆT NAM",
+      "price": 71500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/9d/fa/09039448cc89829c391d6d39abe883b0.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "VỎ BƯỞI SẤY DẺOMứt Thuần ViệtTHÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)SẢN XUẤT THEO: 02/H...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>VỎ BƯỞI SẤY DẺO<br />Mứt Thuần Việt</p>\n<p>THÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)<br />SẢN XUẤT THEO: 02/HKDCSBMTL1/2021<br />THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất<br />CHỈ TIÊU CHẤT LƯỢNG : ĐỘ ẨM ≤ 35%<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN BẢO QUẢN: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 220C-300C<br />HƯỚNG DẪN SỬ DỤNG: DÙNG NGAY SAU KHI MỞ BAO BÌ.<br />THÔNG TIN CẢNH BÁO: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG<br />GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN.</p>\n<p>BAO BÌ THAY ĐỔI THEO TỪNG LÔ HÀNG.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 273302036,
+      "name": "Mứt Mãng Cầu Me Sấy, Kẹo Mãng Cầu Me Đặc Biệt Thơm Ngon Thành Long 200gr ",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/e2/37/56937ab808a7299441d141d44310bf70.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÔNG TIN CHI TIẾT MÃNG CẦU ME SẤY, KẸO MÃNG CẦU ME ĐẶC BIỆT THƠM NGON THÀNH LONG 200GR️ Thành phần: Mãng cầu tươi (50%), Me Trái (32%), Đường Tinh Luyện, Muối I-Ốt.️ Thương hiệu: Hộ Kinh Doanh Cơ S...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÔNG TIN CHI TIẾT MÃNG CẦU ME SẤY, KẸO MÃNG CẦU ME ĐẶC BIỆT THƠM NGON THÀNH LONG 200GR</p>\n<p>️ Thành phần: Mãng cầu tươi (50%), Me Trái (32%), Đường Tinh Luyện, Muối I-Ốt.</p>\n<p>️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1</p>\n<p>️ Ngày sản xuất: in trên bao bì</p>\n<p>️ Hạn sử dụng: 06 tháng kể từ ngày sản xuất</p>\n<p>️ Khối lượng tịnh: 200gr</p>\n<p>NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</p>\n<p>Sản phẩm có Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn.</p>\n<p>Mãng Cầu Me Sấy, Kẹo Mãng Cầu Me Đặc Biệt có thể sử dụng trong những ngày lễ tết, nhâm nhi với chút trà ấm hoặc là một thức quà vặt thơm ngon và đầy dinh dưỡng.</p>\n<p> </p>\n<p>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN MÃNG CẦU ME SẤY, KẸO MÃNG CẦU ME ĐẶC BIỆT THƠM NGON THÀNH LONG 200GR</p>\n<p>- Sử dụng ngay khi mở bao bì;</p>\n<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>\n<p>- Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>\n<p> </p>\n<p>#mang #cau #me #say #keo #mang #cau #me #truyen #thong #thom #ngon #mut #mang #cau #me #hoa #qua #say #trai #cay #say #hat dinh #duong #thanh #long #food #dinh #duong #an #vat #dinh #duong .</p>\n<p> </p>\n<p>Những đơn hàng đã cập nhật Mã vận đơn shop sẽ không chấp nhận huỷ. Sản phẩm/size nào còn hiển thị đặt được nghĩa là còn hàng và ngược lại Sản phẩm/size nào không hiển thị nghĩa là hết hàng.</p>\n<p> </p>\n<p>Các trường hợp đổi/trả: Hư, mốc/ Lỗi nhầm mẫu / Lỗi sơ sót thiếu sản phẩm các bạn liên hệ shop để được đổi lại ( trường hợp thiếu hàng các bạn cung cấp clip quay bóc sản phẩm nhé)</p>\n<p> </p>\n<p>Các trường hợp không xử lý: Hàng đã khui gói / Đặt nhầm size / Đặt nhầm sản phẩm/ đặt trùng đơn / Không thích / Không Hợp / Không đọc kĩ thông tin mô tả / Đặt 1 loại đòi giao nhiều loại.</p>\n<p> </p>\n<p>KHÁCH cần gấp liên hệ HOLINE</p>\n<p>️ 0908.939.962 (z/alo) để được trợ giúp nhanh nhất ạ</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Mãng cầu tươi (50%), Me Trái (32%), Đường Tinh Luyện, Muối I-Ốt</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 274134048,
+      "name": "Vỏ Bưởi Sấy Dẻo 200g Thành Long_Việt Nam",
+      "price": 71500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/9d/fa/ae8ed79c9b63167a90f5100b6052c6cc.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)SẢN XUẤT THEO: 02/HKDCSBMTL1/2021THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)<br />SẢN XUẤT THEO: 02/HKDCSBMTL1/2021<br />THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất<br />CHỈ TIÊU CHẤT LƯỢNG : ĐỘ ẨM ≤ 35%<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN BẢO QUẢN: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 220C-300C<br />HƯỚNG DẪN SỬ DỤNG: DÙNG NGAY SAU KHI MỞ BAO BÌ.<br />THÔNG TIN CẢNH BÁO: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG<br />GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN.</p>\n<p>BAO BÌ THAY ĐỔI THEO TỪNG LÔ HÀNG.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P,5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 220C-300C</p>\n<p>KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "6 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>DÙNG NGAY SAU KHI MỞ BAO BÌ</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 273301973,
+      "name": "Mứt Mãng Cầu Truyền Thống Đặc Biệt Thơm Ngon Thành Long 200gr ",
+      "price": 75900,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/21/04/e9b1457803ed2b4d539110f3618dbc73.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÔNG TIN CHI TIẾT️ Thành phần Mứt: Mãng cầu (70%), Đường tinh luyện️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1️ Ngày sản xuất: in trên bao bì️ Hạn sử dụng: 12 tháng kể từ ngày sản xu...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÔNG TIN CHI TIẾT</p>\n<p>️ Thành phần Mứt: Mãng cầu (70%), Đường tinh luyện</p>\n<p>️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1</p>\n<p>️ Ngày sản xuất: in trên bao bì</p>\n<p>️ Hạn sử dụng: 12 tháng kể từ ngày sản xuất</p>\n<p>️ Khối lượng tịnh: 200gr</p>\n<p>NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</p>\n<p>Sản phẩm có Giấy Chứng Nhận Haccp Số 21.4256 – Haccp/Vc Do Trung Tâm Giám Định Và Chứng Nhận Hợp Chuẩn Hợp Quy - Vietcert Đánh Giá Chứng Nhận Phù Hợp Tiêu Chuẩn.</p>\n<p>Mứt Mãng Cầu Cay Và Truyền Thống có thể sử dụng trong những ngày lễ tết, nhâm nhi với chút trà ấm hoặc là một thức quà vặt thơm ngon và đầy dinh dưỡng.</p>\n<p> </p>\n<p>Sản phẩm Mứt Mãng Cầu Cay Và Truyền Thống Thơm Ngon Tiện Lợi của Thành Long. Với dây chuyền sản xuất trên công nghệ hiện đại và nguồn nguyên liệu được chọn lọc kỹ lưỡng, sản phẩm Mứt Mãng Cầu Cay Và Truyền Thống Thơm Ngon vì lợi ích sức khỏe, giữ được hương vị đậm đà, truyền thống.</p>\n<p> </p>\n<p>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN</p>\n<p>- Sử dụng ngay khi mở bao bì;</p>\n<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>\n<p>- Không sử dụng sản phẩm khi đã hết hạn sử dụng</p>\n<p>Những đơn hàng đã cập nhật Mã vận đơn shop sẽ không chấp nhận huỷ. Sản phẩm/size nào còn hiển thị đặt được nghĩa là còn hàng và ngược lại Sản phẩm/size nào không hiển thị nghĩa là hết hàng.</p>\n<p> </p>\n<p>Các trường hợp đổi/trả: Hư, mốc/ Lỗi nhầm mẫu / Lỗi sơ sót thiếu sản phẩm các bạn liên hệ shop để được đổi lại ( trường hợp thiếu hàng các bạn cung cấp clip quay bóc sản phẩm nhé)</p>\n<p> </p>\n<p>Các trường hợp không xử lý: Hàng đã khui gói / Đặt nhầm size / Đặt nhầm sản phẩm/ đặt trùng đơn / Không thích / Không Hợp / Không đọc kĩ thông tin mô tả / Đặt 1 loại đòi giao nhiều loại.</p>\n<p> </p>\n<p>KHÁCH cần gấp liên hệ HOLINE</p>\n<p>️ 0908.939.962 (z/alo) để được trợ giúp nhanh nhất ạ</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 274506364,
+      "name": "MỨT CHERRY LA VIEJA FÁBRICA 280gram",
+      "price": 173000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/ff/a0/2573a311a25eaa62347c1856262deb06.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT CHERRY LA VIEJA FÁBRICA 280grBrand: La Vieja FábricaMã sản phẩm: FRA05083Xuất xứ: Tây Ban NhaQuy cách đóng gói: Hủ 280gThành phần: Trái cherry, đường ăn kiêngChỉ tiêu chất lượng:Hàm lượng ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MỨT CHERRY LA VIEJA FÁBRICA 280gr</strong></p>\n<div>\n<p><strong>Brand:</strong> La Vieja Fábrica</p>\n<p><strong>Mã sản phẩm:</strong> FRA05083</p>\n<p><strong>Xuất xứ:</strong> Tây Ban Nha</p>\n<p><strong>Quy cách đóng gói:</strong> Hủ 280g</p>\n<p><strong><img src=\"https://salt.tikicdn.com/ts/tmp/4a/ff/a0/8a12d9e23fed82b3a82b376c92f77856.jpg\" alt=\"\" width=\"750\" height=\"750\" /><br />Thành phần:</strong> Trái cherry, đường ăn kiêng<br /><br /></p>\n<p><strong>Chỉ tiêu chất lượng:</strong></p>\n<p>Hàm lượng protein: 0,1 – 0,3%<br />Năng lượng: 185 – 245Kcal/100g</p>\n<p>Mứt La Vieja Fábrica đã phát triển một loạt các loại mứt ăn kiêng, trong khi vẫn giữ được tất cả các đặc tính nguyên bản của mứt truyền thống, chúng được làm ngọt hoàn toàn bằng fructose (đường trái cây) và không chứa thêm sucrose (đường thông thường). Mứt Cherry 280g – La Vieja Fábrica luôn sử dụng những loại trái cây thượng hạng được chọn lọc.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/11/89/af/50b71871cf1e49ac2eb569b90ddcf9c9.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm </p>\n<p><strong>Bảo quản:</strong></p>\n<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "280 gram"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "La Vieja Fábrica"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "0.5 gram"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Trái cherry, đường ăn kiêng</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm kem....</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 274502448,
+      "name": "MỨT DÂU TÂY LA VIEJA FÁBRICA 350gr",
+      "price": 175000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/0f/c5/debd4884eb24514e79cf09f57b7dc24c.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT DÂU TÂY LA VIEJA FÁBRICA 350grBrand: La Vieja FábricaMã sản phẩm: FRA05012Xuất xứ: Tây Ban NhaQuy cách đóng gói: Hộp 350gThành phần: Trái dâu tây, đường ăn kiêng.Chỉ tiêu chất lượng:Hàm lư...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p><strong>MỨT DÂU TÂY LA VIEJA FÁBRICA 350gr</strong></p>\n<div>\n<p><strong>Brand:</strong> La Vieja Fábrica</p>\n<p><strong>Mã sản phẩm:</strong> FRA05012</p>\n<p><strong>Xuất xứ:</strong> Tây Ban Nha</p>\n<p><strong>Quy cách đóng gói:</strong> Hộp 350g</p>\n<p><strong>Thành phần: </strong>Trái dâu tây, đường ăn kiêng.</p>\n<p><strong>Chỉ tiêu chất lượng:</strong></p>\n<p><strong>Hàm lượng protein:</strong> 0,3 – 0,5%<br /><strong>Năng lượng:</strong> 180 – 240Kcal/100g<br /><img src=\"https://salt.tikicdn.com/ts/tmp/0f/0f/c5/68219ed9b1add70ad969dd408bafe41f.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n<p>Mứt La Vieja Fábrica đã phát triển một loạt các loại mứt ăn kiêng, trong khi vẫn giữ được tất cả các đặc tính nguyên bản của mứt truyền thống, chúng được làm ngọt hoàn toàn bằng fructose (đường trái cây) và không chứa thêm sucrose (đường thông thường). Mứt dâu tây 350g – La Vieja Fábrica luôn sử dụng những loại trái cây thượng hạng được chọn lọc.</p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm </p>\n<p><strong>Bảo quản:</strong></p>\n<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/c0/60/98/de235e3fd977658445c96925ec43bce9.jpg\" alt=\"\" width=\"750\" height=\"750\" /></p>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "375ml"
+            },
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "Đang cập nhật"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "La Vieja Fábrica"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Tây Ban Nha"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "0.8 kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p><strong> </strong>Trái dâu tây, đường ăn kiêng.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô mát, tránh ánh nắng mặt trời. Giữ tủ mát sau khi mở nắp.</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "24 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp, ăn kèm với bánh mì, làm nhân các loại bánh, pha nước uống, pha với sữa chua, làm kem....</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Saigon Gourmet",
+      "stock_status": "available"
+    },
+    {
+      "id": 274180551,
+      "name": "Táo Đỏ Hàn Quốc",
+      "price": 145000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 5,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/44/1f/24922dbc936a71df913c1a2e369408e5.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "Mô tảTHÔNG TIN SẢN PHẨM TÁO ĐỎ HÀN QUỐC SẤY KHÔXuất xứ: Hàn Quốc – Tập Đoàn Sam SungHạn sử dụng: 36 tháng kể từ ngày sản xuất (Xem trên bao bì sản phẩm)Quy cách: 1kg====================MÔ TẢ S...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><h3 class=\"ast-distributed-header ast-tab-header\">Mô tả</h3>\n<div class=\"ast-distributed-content woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab\">\n<div class=\"ast-distributed-wrap\">\n<p>THÔNG TIN SẢN PHẨM TÁO ĐỎ HÀN QUỐC SẤY KHÔ</p>\n<p>Xuất xứ: Hàn Quốc – Tập Đoàn Sam Sung</p>\n<p>Hạn sử dụng: 36 tháng kể từ ngày sản xuất (Xem trên bao bì sản phẩm)</p>\n<p>Quy cách: 1kg</p>\n<p>====================</p>\n<p>MÔ TẢ SẢN PHẨM:</p>\n<p>Táo đỏ Hàn Quốc sấy khô là sản phẩm được làm từ những quả táo từ vùng Gyeongsan – Hàn Quốc.</p>\n<p>Với táo đỏ dồi dào từ mảnh đất được mệnh danh là “ thung lũng táo đỏ”, táo đỏ Hàn Quốc sấy khô giàu chất dinh dưỡng, cung cấp dưỡng chất sắt cần thiết cho bà bầu, bổ sung khí huyết, nhuận phổi và rất có lợi cho dạ dày.</p>\n<p>Giá trị dinh dưỡng có trong táo đỏ Hàn Quốc sấy khô rất cao, chứa nhiều loại vitamin A, C, B1, canxi, lipit, protein, đường, sắt,…</p>\n<p>====================</p>\n<p>THÀNH PHẦN: 100% táo đỏ tự nhiên sấy khô</p>\n</div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Grand Castella"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Hàn Quốc"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "1kg"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>THÀNH PHẦN: 100% táo đỏ tự nhiên sấy khô</p>\n<p>====================</p>\n<p>CÔNG DỤNG CỦA TẢO ĐỎ HÀN QUỐC</p>\n<p>Tăng cường trí nhớ: đối với những người hay quên hoặc làm việc trí óc căng thẳng có thể hầm nhỏ lửa táo đỏ và thêm muỗng canh mật ong hoặc đường cho vừa ngọt uống mỗi ngày trước khi đi ngủ sẻ giúp cải thiện được trí nhớ một cách tốt nhất.</p>\n<p>Táo đỏ hàn quốc sấy khô có tác dụng bổ gan, tăng cường cơ bắp, hạ huyết áp, an thần, dễ ngủ, hạn chế sự phát triển tế bào u.n.g t.h.ư, làm tan đờm, giảm ho, cải thiện dinh dưỡng cơ tim…Sản phụ ăn táo đỏ có thể bổ sung khí huyết, bổ não và giúp hồi phục sức khỏe nhanh.</p>\n<p>Các chuyên gia khuyên dùng táo đỏ Hàn Quốc sấy khô để có thể tăng sức đề kháng cho bé yêu, nên sử dụng táo đỏ sấy thường xuyên để giảm tỷ lệ mắc bệnh khi em bé chào đời.</p>\n<p>Táo đỏ sấy khô của Hàn Quốc 1kg là một sản phẩm giàu dinh dưỡng, bổ sung khí huyết, nhuận phổi, bổ sung sắt cho t.h.a.i p.h.ụ, và rất có lợi cho dạ dày.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>BẢO QUẢN</p>\n<p>Nên để tủ lạnh ngăn mát, tránh không khí ẩm thấp. Khi đã mở túi táo đỏ thì nên đóng mép cẩn thận và cho vào tủ lạnh để sử dụng dần.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>CÁCH SỬ DỤNG</p>\n<p>Dùng để nấu chè hạt sen, chưng với tổ yến,…</p>\n<p>Táo đỏ Hàn Quốc sấy khô dùng hầm chung với sườn, gà, nấu sâm bổ lượng…</p>\n<p>Táo đỏ có thể ăn liền, nấu chè hoặc hầm với nhân sâm Hàn Quốc, hay nấu canh gà kì tử đẳng sâm i dĩ rong biển, canh chân giò hầm với kỷ tử, long nhãn v.v…..</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "GRAND CASTELLA",
+      "stock_status": "available"
+    },
+    {
+      "id": 274134048,
+      "name": "Vỏ Bưởi Sấy Dẻo 200g Thành Long_Việt Nam",
+      "price": 71500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/9d/fa/ae8ed79c9b63167a90f5100b6052c6cc.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)SẢN XUẤT THEO: 02/HKDCSBMTL1/2021THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÀNH PHẦN : Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)<br />SẢN XUẤT THEO: 02/HKDCSBMTL1/2021<br />THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất<br />CHỈ TIÊU CHẤT LƯỢNG : ĐỘ ẨM ≤ 35%<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN BẢO QUẢN: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 220C-300C<br />HƯỚNG DẪN SỬ DỤNG: DÙNG NGAY SAU KHI MỞ BAO BÌ.<br />THÔNG TIN CẢNH BÁO: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG<br />GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN.</p>\n<p>BAO BÌ THAY ĐỔI THEO TỪNG LÔ HÀNG.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P,5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Vỏ Bưởi (70%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid Tartaric (E334)</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 220C-300C</p>\n<p>KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "6 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>DÙNG NGAY SAU KHI MỞ BAO BÌ</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 274134016,
+      "name": "Mứt Me Chua Cay 200g Thành Long_Việt Nam",
+      "price": 93500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/6b/6b/3338d4e8b91418d927f91bcc1bd66af4.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONGĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINHMỨT ME CHUA CAYMỨT THUẦN VIỆTTHÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONG<br />ĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3, THÀNH PHỐ HỒ CHÍ MINH<br />MỨT ME CHUA CAY<br />MỨT THUẦN VIỆT<br />THÀNH PHẦN: TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT , BỘT ỚT, CHẤT ĐIỀU CHỈNH ĐỘ ACID: ACID CITRIC (E330), HƯƠNG THỰC PHẨM TỔNG HỢP: HƯƠNG ME.<br />SẢN XUẤT THEO: 07/HKDTL/2019<br />THỜI HẠN SỬ DỤNG: 06 THÁNG KỂ TỪ NGÀY SẢN XUẤT<br />CHỈ TIÊU CHẤT LƯỢNG: Độ ẩm ≤ 35 %<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN SỬ DỤNG : Dùng ngay sau khi mở bao bì.<br />HƯỚNG DẪN BẢO QUẢN : Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃<br />THÔNG TIN CẢNH BÁO : Không sử dụng sản phẩm khi đã hết hạn sử dụng.<br />NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005<br />Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>TRÁI ME (80%) , ĐƯỜNG TINH LUYỆN,MUỐI I-ỐT , BỘT ỚT, CHẤT ĐIỀU CHỈNH ĐỘ ACID: ACID CITRIC (E330), CHẤT BẢO QUẢN (E202), HƯƠNG THỰC PHẨM TỔNG HỢP: HƯƠNG ME.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 tháng"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng ngay sau khi mở bao bì.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 271369080,
+      "name": "MỨT GỪNG DẺO DẠNG VIÊN THÀNH LONG 500G - VIỆT NAM",
+      "price": 123200,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/f2/65/b8c9daf66d046a5bca83a33dd4866a62.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "MỨT GỪNG DẺOMứt Thuần ViệtThời hạn sử dụng: 09 Tháng kể từ ngày sản xuất.Thành phần: Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt, chất chống oxy hóa (E223).SX THEO: 11/HKDCSBMTL1/2018C...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>MỨT GỪNG DẺO<br />Mứt Thuần Việt<br />Thời hạn sử dụng: 09 Tháng kể từ ngày sản xuất.<br />Thành phần: Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt, chất chống oxy hóa (E223).<br />SX THEO: 11/HKDCSBMTL1/2018<br />CHỈ TIÊU CHẤT LƯỢNG:<br />ĐỘ ẨM ≤ 10 % ĐƯỜNG TỔNG: 68 % - 88 %<br />Giấy chứng nhận HACCP số 18.2394-HACCP do trung tâm giám định và chứng nhận hợp chuẩn hợp quy - Vietcert đánh giá chứng nhận phù hợp tiêu chuẩn.<br />Hướng dẫn sử dụng: Dùng ngay sau khi mở bao bì.<br />Hướng dẫn bảo quản: bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp 220C – 300C.<br />Thông tin cảnh báo: Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thành phần: Củ gừng (30%), đu đủ, đường tinh luyện, mạch nha, muối i-ốt, chất chống oxy hóa (E223).</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp 22 độ C – 30 độ C.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng ngay sau khi mở bao bì.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 273302108,
+      "name": "Mứt Me Thái Sấy Khô Cay Thơm Ngon Thành Long 200gr",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/35/4b/f431d94d3e68f25438e7e551f8167eb3.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "THÔNG TIN CHI TIẾT MỨT ME THÁI SẤY KHÔ CAY, CAM THẢO CHUA NGỌT THƠM NGON THÀNH LONG 200GR️ Thành phần- Mứt Me Thái Sấy Khô Cay: Me Thái (80%), Đường tinh luyện, Muối I-Ốt, Ớt Khô.️ Thương hiệu: Hộ ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>THÔNG TIN CHI TIẾT MỨT ME THÁI SẤY KHÔ CAY, CAM THẢO CHUA NGỌT THƠM NGON THÀNH LONG 200GR</p>\n<p>️ Thành phần</p>\n<p>- Mứt Me Thái Sấy Khô Cay: Me Thái (80%), Đường tinh luyện, Muối I-Ốt, Ớt Khô.</p>\n<p>️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1</p>\n<p>️ Ngày sản xuất: in trên bao bì</p>\n<p>️ Hạn sử dụng: 09 tháng kể từ ngày sản xuất</p>\n<p>️ Khối lượng tịnh: 200gr,</p>\n<p>NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</p>\n<p>Sản phẩm có Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn.</p>\n<p>Mứt Me Thái Sấy Khô có thể sử dụng trong những ngày lễ tết, nhâm nhi với chút trà ấm hoặc là một thức quà vặt thơm ngon và đầy dinh dưỡng.</p>\n<p> </p>\n<p>Sản phẩm Mứt Me Thái Sấy Khô Cay, Cam Thảo Chua Ngọt Tiện Lợi của Thành Long. Với dây chuyền sản xuất trên công nghệ hiện đại và nguồn nguyên liệu được chọn lọc kỹ lưỡng, sản phẩm Mứt Me Thái Sấy Khô vì lợi ích sức khỏe, giữ được hương vị đậm đà, truyền thống.</p>\n<p> </p>\n<p>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN MỨT ME THÁI SẤY KHÔ CAY, CAM THẢO CHUA NGỌT THƠM NGON THÀNH LONG 200GR</p>\n<p>- Sử dụng ngay khi mở bao bì;</p>\n<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>\n<p>- Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>\n<p> </p>\n<p>#mut #me #thai #say #kho #cay #cam #thao #chua #ngot #thom #ngon #mut #me #thai #trai #cay #say #hat dinh #duong #thanh #long #food #dinh #duong #an #vat #dinh #duong .</p>\n<p>Những đơn hàng đã cập nhật Mã vận đơn shop sẽ không chấp nhận huỷ. Sản phẩm/size nào còn hiển thị đặt được nghĩa là còn hàng và ngược lại Sản phẩm/size nào không hiển thị nghĩa là hết hàng.</p>\n<p> </p>\n<p>Các trường hợp đổi/trả: Hư, mốc/ Lỗi nhầm mẫu / Lỗi sơ sót thiếu sản phẩm các bạn liên hệ shop để được đổi lại ( trường hợp thiếu hàng các bạn cung cấp clip quay bóc sản phẩm nhé)</p>\n<p> </p>\n<p>Các trường hợp không xử lý: Hàng đã khui gói / Đặt nhầm size / Đặt nhầm sản phẩm/ đặt trùng đơn / Không thích / Không Hợp / Không đọc kĩ thông tin mô tả / Đặt 1 loại đòi giao nhiều loại.</p>\n<p> </p>\n<p>KHÁCH cần gấp liên hệ HOLINE</p>\n<p>️ 0908.939.962 (z/alo) để được trợ giúp nhanh nhất ạ</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Me Thái (80%), Đường tinh luyện, Muối I-Ốt, Ớt Khô.</p>\n<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>\n<p>- Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃</p>\n<p>- Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>- Sử dụng ngay khi mở bao bì;</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 273302089,
+      "name": "Mứt Chuối Tươi Phồng, Kẹo Chuối Đậu Phộng Cuộn Bánh Phồng Dẻo Thơm Ngon Thành Long 200gr",
+      "price": 49500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/2a/59/3cacb94b072df0625adc28930ecd4c31.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "Kẹo chuối là một trong những món ăn vặt khoái khẩu của rất nhiều người bởi lớp kẹo chuối dẻo dai kết hợp cùng vị ngọt, bùi của đậu phộng và một chút cay cay của gừng, ăn hoài mà không thấy chán. Với k...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Kẹo chuối là một trong những món ăn vặt khoái khẩu của rất nhiều người bởi lớp kẹo chuối dẻo dai kết hợp cùng vị ngọt, bùi của đậu phộng và một chút cay cay của gừng, ăn hoài mà không thấy chán. Với kỹ thuật chế biến thủ công giữ trọn nét truyền thống mộc mạc Thành Long cho ra mắt sản phẩm Mứt Chuối Tươi Phồng, Kẹo Chuối Đậu Phộng Cuộn Bánh Phồng Dẻo thơm ngon, bổ dưỡng và cực kỳ tiện lợi.</p>\n<p>THÔNG TIN CHI TIẾT MỨT CHUỐI TƯƠI PHỒNG, KẸO CHUỐI ĐẬU PHỘNG CUỘN BÁNH PHỒNG DẺO THƠM NGON THÀNH LONG 200GR</p>\n<p>️ Thành phần: Chuối Trái (70%), Đường Tinh Luyện, Đậu Phộng, Gừng Củ, Mạch Nha, Bánh Phồng ️ Thương hiệu: Hộ Kinh Doanh Cơ Sở Bánh Mứt Thành Long 1</p>\n<p>️ Ngày sản xuất: in trên bao bì ️ Hạn sử dụng: 06 tháng kể từ ngày sản xuất</p>\n<p>️ Khối lượng tịnh: 200gr NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005 Sản phẩm có Giấy Chứng Nhận Haccp Số 21.4256 – Haccp/Vc Do Trung Tâm Giám Định Và Chứng Nhận Hợp Chuẩn Hợp Quy - Vietcert Đánh Giá Chứng Nhận Phù Hợp Tiêu Chuẩn. Mứt Chuối Tươi Phồng, Kẹo Chuối Đậu Phộng Cuộn Bánh Phồng Dẻo là một thức quà không thể thiếu trong những ngày lễ tết, nhâm nhi thưởng thức cùng bạn bè và gia đình hoặc là một thức quà vặt chiều thơm ngon và đầy dinh dưỡng.</p>\n<p>Sản phẩm Mứt Chuối Tươi Phồng, Kẹo Chuối Đậu Phộng Cuộn Bánh Phồng Dẻo Thơm Ngon Tiện Lợi của Thành Long. Với quy trình chế biến nghiêm ngặt, từ khâu lựa chọn nguyên vật liệu sạch, không sử dụng phẩm màu, hương liệu trôi nổi trên thị trường. Quy trình hoàn toàn thủ công giữ được nguyên vị, nét truyền thống mộc mạc và an toàn.</p>\n<p> </p>\n<p>HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN MỨT CHUỐI TƯƠI PHỒNG, KẸO CHUỐI ĐẬU PHỘNG CUỘN BÁNH PHỒNG DẺO THƠM NGON THÀNH LONG 200GR - Sử dụng ngay khi mở bao bì; - Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃ - Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>\n<p> </p>\n<p>#mut #chuoi #tuoi #phong #keo #chuoi #dau #phong #cuon #banh #phong #deo #thom #ngon #mut #banh #hat #tet #hoa #qua #say #trai #cay #say #hat dinh #duong #thanh #long #food #dinh #duong #an #vat #dinh #duong .</p>\n<p> </p>\n<p>Những đơn hàng đã cập nhật Mã vận đơn shop sẽ không chấp nhận huỷ. Sản phẩm/size nào còn hiển thị đặt được nghĩa là còn hàng và ngược lại Sản phẩm/size nào không hiển thị nghĩa là hết hàng.</p>\n<p> </p>\n<p>Các trường hợp đổi/trả: Hư, mốc/ Lỗi nhầm mẫu / Lỗi sơ sót thiếu sản phẩm các bạn liên hệ shop để được đổi lại ( trường hợp thiếu hàng các bạn cung cấp clip quay bóc sản phẩm nhé)</p>\n<p> </p>\n<p>Các trường hợp không xử lý: Hàng đã khui gói / Đặt nhầm size / Đặt nhầm sản phẩm/ đặt trùng đơn / Không thích / Không Hợp / Không đọc kĩ thông tin mô tả / Đặt 1 loại đòi giao nhiều loại.</p>\n<p> </p>\n<p>KHÁCH cần gấp liên hệ HOLINE</p>\n<p>️ 0908.939.962 (z/alo) để được trợ giúp nhanh nhất ạ</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "200g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Chuối Trái (70%), Đường Tinh Luyện, Đậu Phộng, Gừng Củ, Mạch Nha, Bánh Phồng</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>- Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22℃-30℃ - Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>- Sử dụng ngay khi mở bao bì;</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 199542207,
+      "name": "MỨT XOÀI SẤY DẺO (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 165000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/32/0e/2be75ddc6c7346d01ba1b8281aa63505.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN PHẨM CỦA HỘ KINH DOANH CƠ SỞ BÁNH MỨT THÀNH LONG 1XOÀI SẤY DẺOMứt Thuần ViệtTHÀNH PHẦN : : Trái xoài (80%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất đi...",
+      "description": "<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\">SẢN PHẨM CỦA HỘ KINH DOANH CƠ SỞ BÁNH MỨT THÀNH LONG 1<br />XOÀI SẤY DẺO<br />Mứt Thuần Việt<br />THÀNH PHẦN : : Trái xoài (80%), đường tinh luyện, muối i-ốt, chất bảo quản (E202), chất chống oxy hóa (E223), chất điều chỉnh độ acid: Acid tartaric (E334), màu thực phẩm tổng hợp: Sunset Yellow<br />SẢN XUẤT THEO: 01/HKDCSBMTL1/2021<br />THỜI HẠN SỬ DỤNG : 06 Tháng kể từ ngày sản xuất<br />CHỈ TIÊU CHẤT LƯỢNG : ĐỘ ẨM ≤ 35%<br />HƯỚNG DẪN SỬ DỤNG VÀ BẢO QUẢN:<br />HƯỚNG DẪN BẢO QUẢN: BẢO QUẢN NƠI KHÔ RÁO, THOÁNG MÁT. TRÁNH ÁNH NẮNG TRỰC TIẾP. NHIỆT ĐỘ THÍCH HỢP: 22 ĐỘ C-30 ĐỘ C<br />HƯỚNG DẪN SỬ DỤNG: DÙNG NGAY SAU KHI MỞ BAO BÌ.<br />THÔNG TIN CẢNH BÁO: KHÔNG SỬ DỤNG SẢN PHẨM KHI ĐÃ HẾT HẠN SỬ DỤNG<br />GIẤY CHỨNG NHẬN HACCP SỐ 21.4256 – HACCP/VC DO TRUNG TÂM GIÁM ĐỊNH VÀ CHỨNG NHẬN HỢP CHUẨN HỢP QUY VIETCERT ĐÁNH GIÁ CHỨNG NHẬN PHÙ HỢP TIÊU CHUẨN</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\">Chi tiết mẫu mã bao bì sản phẩm thay đổi theo từng lô hàng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "6 THÁNG"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 274133856,
+      "name": "Mứt Gừng Dẻo 200g Thành Long_Việt Nam",
+      "price": 69300,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/f2/65/8b03dee61ecd724fc9472e8406d6a4d4.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 199576458,
+      "name": "MỨT ME (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 184800,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/d9/de/30480e649334a6434d5728ec6d734b82.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1,
+      "short_description": "SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONGĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3,THÀNH PHỐ HỒ CHÍ MINHMỨT MEMỨT THUẦN VIỆTTHÀNH PHẦN: Trái me  (80%), đường tinh luyện, muối i-ốt, chấ...",
+      "description": "<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">SẢN XUẤT TẠI HỘ KINH DOANH THÀNH LONG</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\"><em>ĐỊA CHỈ : 42/19-21 NGUYỄN THƯỢNG HIỀN, PHƯỜNG 5, QUẬN 3,</em></strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\"><em>THÀNH PHỐ HỒ CHÍ MINH</em></strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">MỨT ME</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\"><em>MỨT THUẦN VIỆT</em></strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">THÀNH PHẦN:</strong> Trái me  (80%), đường tinh luyện, muối i-ốt, chất điều chỉnh độ acid: Acid citric (E330), chất bảo quản (E202), hương thực phẩm tổng hợp: Hương me.</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">SẢN XUẤT THEO: </strong>11/HKDTL/2019<strong style=\"font-weight:500;\">     </strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">THỜI HẠN SỬ DỤNG : 09 THÁNG KỂ TỪ NGÀY SẢN XUẤT</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">CHỈ TIÊU CHẤT LƯỢNG:  </strong>Độ ẩm ≤ 35 %</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">HƯỚNG DẪN SỬ DỤNG</strong> : Dùng ngay sau khi mở bao bì.</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">HƯỚNG DẪN BẢO QUẢN</strong> : Bảo quản nơi khô ráo, thoáng mát. Tránh ánh nắng trực tiếp. Nhiệt độ thích hợp: 22 độ C - 30 độ C</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">THÔNG TIN CẢNH BÁO</strong> : Không sử dụng sản phẩm khi đã hết hạn sử dụng.</p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">NHÃN HIỆU ĐĂNG KÝ BẢO HỘ ĐỘC QUYỀN 60933 CẤP THEO QĐ Số A1994/QĐ-ĐK, NGÀY :10.03.2005</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">Giấy chứng nhận ISO 22000:2007/ISO 22000:2005 số 18.2177 – FSMS do Trung tâm Giám định và chứng nhận hợp chuẩn hợp quy - VietCert đánh giá chứng nhận phù hợp tiêu chuẩn</strong></p>\n<p style=\"margin:5px 0px 12px;line-height:21px;color:#242424;font-family:Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:justify;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:#ffffff;\"><strong style=\"font-weight:500;\">Chi tiết mẫu mã bao bì sản phẩm thay đổi theo từng lô hàng.</strong></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "Organization_address",
+              "name": "Địa chỉ tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "291/7 Võ Văn Tần, P.5, Q.3, TP.HCM"
+            },
+            {
+              "code": "Organization_name",
+              "name": "Tên đơn vị/tổ chức chịu trách nhiệm về hàng hóa",
+              "value": "HKD Cơ Sở Bánh Mứt Thành Long"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Thành Long"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500G"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 THÁNG"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mứt Thành Long",
+      "stock_status": "available"
+    },
+    {
+      "id": 273302089,
+      "name": "Mứt Chuối Tươi Phồng, Kẹo Chuối Đậu Phộng Cuộn Bánh Phồng Dẻo Thơm Ngon Thành Long 200gr",
+      "price": 49500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/2a/59/3cacb94b072df0625adc28930ecd4c31.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 273302108,
+      "name": "Mứt Me Thái Sấy Khô Cay Thơm Ngon Thành Long 200gr",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/35/4b/f431d94d3e68f25438e7e551f8167eb3.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 273301995,
+      "name": "Mứt Me Thành Long gói 200gr | Ăn vặt văn phòng | Trái cây sấy dẻo | Thành Long",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/d9/de/5eb4ccf6c1c36b46ccf728896b338eb5.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 273302036,
+      "name": "Mứt Mãng Cầu Me Sấy, Kẹo Mãng Cầu Me Đặc Biệt Thơm Ngon Thành Long 200gr ",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/e2/37/56937ab808a7299441d141d44310bf70.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 273301973,
+      "name": "Mứt Mãng Cầu Truyền Thống Đặc Biệt Thơm Ngon Thành Long 200gr ",
+      "price": 75900,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/21/04/e9b1457803ed2b4d539110f3618dbc73.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 271369080,
+      "name": "MỨT GỪNG DẺO DẠNG VIÊN THÀNH LONG 500G - VIỆT NAM",
+      "price": 123200,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/f2/65/b8c9daf66d046a5bca83a33dd4866a62.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 271362633,
+      "name": "MỨT TÁO SẤY DẺO THÀNH LONG 500G - VIỆT NAM",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/d5/51/e8191a2e6411de3860692def0591c82c.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 271362889,
+      "name": "MỨT TÁO SẤY DẺO THÀNH LONG 200G - VIỆT NAM",
+      "price": 49500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/d5/51/d1a81fbca615b0738b93702a8b7e60bd.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 271363595,
+      "name": "VỎ BƯỞI SẤY DẺO - BÁNH MỨT THÀNH LONG - TÚI 200G - VIỆT NAM",
+      "price": 71500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/9d/fa/09039448cc89829c391d6d39abe883b0.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 199578667,
+      "name": "MỨT ME CHUA CAY (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/6b/6b/1b2381d41795df1d7d471877b849d0ca.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 199576527,
+      "name": "MỨT ME THÁI CAY ( 200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 93500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/35/4b/145b54c9c3eb28050a1825b7341fdf39.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 199542207,
+      "name": "MỨT XOÀI SẤY DẺO (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 88000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/32/0e/096106aedf8e3fefb0543d26de80a9f6.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 199576458,
+      "name": "MỨT ME (200G, 500G) THÀNH LONG - VIỆT NAM",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/d9/de/201a29aeb43252d57ff62cff74be6d5a.jpg",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746756,
+      "name": "Ô Mai Đào Không Hạt DTFood 500g",
+      "price": 75000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c4/ee/f6/c9beb723cb169d86c51091ca85a90a2d.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746704,
+      "name": "1Kg Me Lào Một Nắng Tách Vỏ DTfood (2 hộp 500g) - Tặng Kèm Muối Tôm Tây Ninh",
+      "price": 105000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/7f/0e/4c208ccfb2acf8edd85f463167c22994.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746678,
+      "name": "Chuối Sấy Huynh Đệ Tề Hùng 500g",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d2/12/79/c53232b2b58f960d81389307d38b2c7e.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746666,
+      "name": "Mít Sấy Huynh Đệ Tề Hùng 250g",
+      "price": 65000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/e5/2f/e0c4390f5fbb153437b479ac0848cf1c.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746658,
+      "name": "Trần Bì (Vỏ quýt sấy đường) Thơm Ngon DTFood - 250g",
+      "price": 50000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/40/90/daa37b56a3b15790b80778e9022eb968.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746651,
+      "name": "Me Xí Muội Chua Cay DTFood cực ngon - 500g",
+      "price": 49000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/2d/97/2f290f224c9368d57a5bf712d50a317b.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 182130310,
+      "name": "Mứt Việt Quất Sudo Nhật Bản 280g",
+      "price": 164000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/5a/80/e8d8c3fb8610cff2f1e63fbbc474b50a.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    },
+    {
+      "id": 198746640,
+      "name": "Trái Say Tách Vỏ Rim Đường Muối Ớt DTFood - 300g",
+      "price": 79000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/5e/d1/335c2fc5ceb8f82b73313f3f6c8889a9.png",
+      "primary_category_path": "1/2/44792/54452/54458",
+      "availability": 1
+    }
+  ]
+}

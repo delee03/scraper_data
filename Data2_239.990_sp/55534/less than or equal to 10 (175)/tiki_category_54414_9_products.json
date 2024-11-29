@@ -1,0 +1,113 @@
+{
+  "total_products": 9,
+  "products": [
+    {
+      "id": 184317504,
+      "name": "BIA ASAHI SUPPER DRY 350ML (24L/T)",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/89/7e/89d4453188a0768c1d53be2df7e92691.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 184317620,
+      "name": "BIA ASAHI ZEITAKU ZERO 350ML (24C/T)-",
+      "price": 63000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/b1/ff/8aaab1f40dd44f7e400ca37d41837ba9.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 184317657,
+      "name": "BIA ASAHI SUPER DRY 500ML (24L/T)",
+      "price": 65000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/ee/ec/b92a0cbb3ed0e63a849c6425d1d1d79e.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 184317695,
+      "name": "BIA ASAHI NON ALCOHOL BEER DRY ZERO 350ML (24C/T)",
+      "price": 62000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/78/97/9d/24caa05f78f53c0b62c49cb50d0445bd.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 184317400,
+      "name": "BIA TƯƠI ĐEN  ASAHI NAMA BEER MARUEFU KURONAMA 350ML CALC.5% (24L/T)",
+      "price": 51000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 7,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/81/83/fd132f933b9391a0c86480e43847a146.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 182130196,
+      "name": "Bia Asahi Không Cồn 350ml",
+      "price": 62000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b2/31/09/cdda7ef3a7d411111da87ab207fb097c.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 184317440,
+      "name": "BIA CLEAR ASAHI CAN 350ML (24L/T)",
+      "price": 65000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/50/d2/2a594f7a805687e9c7712e66e9b391f8.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 182130175,
+      "name": "Bia Asahi Super Dry 500ml",
+      "price": 65000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 26,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c2/f7/a6/6df5da77ee0571530e52bbe90f19aa30.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    },
+    {
+      "id": 182130144,
+      "name": "Bia Asahi 350ml",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/c6/75/a60331efa80ad48b6c21bba3870c3e9b.png",
+      "primary_category_path": "1/2/44792/54412/54414",
+      "availability": 1
+    }
+  ]
+}

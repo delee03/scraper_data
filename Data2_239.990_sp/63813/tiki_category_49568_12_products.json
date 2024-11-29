@@ -1,0 +1,149 @@
+{
+  "total_products": 12,
+  "products": [
+    {
+      "id": 272890290,
+      "name": "Giày búp bê nữ Aldo HALERENA",
+      "price": 1650000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/1a/be/485749a398bc8ea41c3d351009bd6b57.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 271520139,
+      "name": "Giày Nữ Cao Gót Bít Mũi Đế Xuồng ChristinA-Q GBX042",
+      "price": 499000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/58/2c/d6561d20e96f909d4f1afe6a3b688e6c.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 273507804,
+      "name": "Vascara Giày Búp Bê Leather Nhấn Nơ Trang Trí - GBB 0431",
+      "price": 947000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cb/5d/3d/47ca419f574ba9df7d63f0aca07328ff.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 273728340,
+      "name": "Giày nữ Đế Xuồng 4cm Da Bò mũi vuông Trường Hải 2 màu kem DX125Đ",
+      "price": 329000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/82/ec/bc3c361fd03f44a57abb964c67e2ab52.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 198699292,
+      "name": "Giày Nữ Búp Bê Bít Mũi Vuông ChristinA-Q GBV086",
+      "price": 799000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/3c/31/1b3ffd1cf90a8902bc7de70c68fa1d89.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 272890472,
+      "name": "Giày búp bê nữ Aldo ENCORE",
+      "price": 2150000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/eb/54/6f454c53e6efabb9c72d9397bf64acb7.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 276304617,
+      "name": "Giày búp bê nữ Aldo MILENIA",
+      "price": 1950000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/b3/e6/66cf066c299f1f90b24f3a6f8b60fa8c.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 194187646,
+      "name": "Giày mũi vuông 9p đơn giản sang trọng (có bảo hành , giao hỏa tốc)",
+      "price": 390000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/72/0e/78cb973d4dc69179ea1677796f75987a.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 186626900,
+      "name": "Giày Búp Bê Nữ Da Bò Thật BIGGBEN Cao Cấp BB125",
+      "price": 370000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c2/3e/48/94b5d25e6f53ff81e5bf9a0917f75871.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 153665451,
+      "name": "Giày cao gót ZAHAN 2cm, mũi vuông, nơ đá, CGZA145",
+      "price": 495000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/66/00/75/ed6df73bea5574bba5e616f7bbecdb57.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 68561354,
+      "name": "Giày búp bê ZAHAN mũi vuông, nơ đá BZAT158",
+      "price": 425000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/17/5c/6226927915912d7553f38409123d198d.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    },
+    {
+      "id": 112958688,
+      "name": "Giầy nữ hở mùi thời trang phong cách 21812",
+      "price": 245500,
+      "discount_rate": 6,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b2/cc/70/f02c6a908fa1fd3fe59cca25c06c41ee.jpg",
+      "primary_category_path": "1/2/1703/1192/49568",
+      "availability": 1
+    }
+  ]
+}

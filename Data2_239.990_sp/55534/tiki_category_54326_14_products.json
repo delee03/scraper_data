@@ -1,0 +1,173 @@
+{
+  "total_products": 14,
+  "products": [
+    {
+      "id": 273558639,
+      "name": "ĐẬU HŨ TƯƠI VỊ NGUYÊN BẢN 250g",
+      "price": 17000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d5/b7/3e/0a28b2b1d923eb4dd43df65916ac6e1b.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 273558888,
+      "name": "ĐẬU HŨ TƯƠI CHIÊN 250g",
+      "price": 17000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9c/1e/de/4d2b23e04ee848232223c295d359d1bc.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 273657426,
+      "name": "ĐẬU HŨ TƯƠI ĐẬU ĐỎ 250g",
+      "price": 21000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5b/3f/c3/628b182823c7f1e9d292f8930ff9c7a1.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 273559291,
+      "name": "ĐẬU HŨ TƯƠI MÈ ĐEN 250g",
+      "price": 21000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/e6/c6/96b2a6a432c5f99007e6d42abeabfc5b.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 200949008,
+      "name": "PHỦ TRÚC TRỨNG CÁ ROE 450GR _ FISH ROY & SOY",
+      "price": 123000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/01/43/4eb0136905e0ac324ea8150eab11e8dd.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 200948974,
+      "name": "ĐẬU HỦ CÁ PHÔ MAI 500GR _ CHEESE FISH TOFU 500GR",
+      "price": 129000,
+      "discount_rate": 11,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e6/80/cc/7dbeda04647b6e8bd92fbca656e5a782.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 200948964,
+      "name": "ĐẬU HỦ PHÔ MAI HÌNH HOA 380gr - NHẬP KHẨU TRỰC TIẾP TỪ MALAYSIA",
+      "price": 106000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/33/67/78745019d26f2b4360ea664489891732.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 200948963,
+      "name": "ĐẬU HỦ CÁ 500GR _ FISH TOFU 500GR",
+      "price": 105000,
+      "discount_rate": 10,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fd/5b/15/637cefa9602a4cd66791e4727a7be5e8.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 172968727,
+      "name": "FILLET TÀU HỦ KY 35c - 500g - FILLET TÀU HỦ KY - ĐEN ĐỎ - PHI LÊ TÀU HỦ KY - TÀU HỦ KI - PHI LÊ CÁ - QUE CÁ PHI LÊ - QUE PHI LÊ - DEN DO Snack Ăn Vặt Food",
+      "price": 47000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/69/e6/55b44827d03db36d37935a49b88ae569.png",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 171905429,
+      "name": "Fillet Rong Biển 20c - 500g - FILLET RONG BIỂN - ĐEN ĐỎ - PHI LÊ RONG BIỂN - CÁ PHI LÊ RONG BIỂN - CÂY PHI LÊ RONG BIỂN - CỤC PHI LÊ - CÁ PHI LÊ - ĐEN ĐỎ - DEN DO Thức Ăn Lá Rong Biển Food Ăn Vặt Snack",
+      "price": 47000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/52/3b/35/f40b7bdd1757cb27e8e7eb3246d17dda.png",
+      "primary_category_path": "1/2/44792/54316/54326/68708",
+      "availability": 1
+    },
+    {
+      "id": 87054450,
+      "name": "[Chỉ Giao HCM] - ĐẬU HỦ KY TOJY 200G",
+      "price": 29000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 5,
+      "order_count": 65,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/86/38/9942f8bf3f5d170d50d415d87b43ed30.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 168073655,
+      "name": "Hủ ky cuốn tôm chiên 96gr/3 miếng",
+      "price": 44800,
+      "discount_rate": 20,
+      "rating_average": 5,
+      "review_count": 4,
+      "order_count": 60,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/8e/68/5f92b640df55154875f6f5c0ddc9b165.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 74174006,
+      "name": "[Chỉ Giao HCM] - ĐẬU HŨ BÌA 300G",
+      "price": 19000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 5,
+      "order_count": 74,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/fe/f1/35a3c1338f9e3b4270b8559d6891fc3f.png",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    },
+    {
+      "id": 74173463,
+      "name": "[Chỉ Giao HCM] - ĐẬU HŨ NON TOJY 300G",
+      "price": 19000,
+      "discount_rate": 0,
+      "rating_average": 4,
+      "review_count": 4,
+      "order_count": 46,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/37/5e/c5/4c2e91159a4934952b172a13f1f746cc.jpg",
+      "primary_category_path": "1/2/44792/54316/54326/68707",
+      "availability": 1
+    }
+  ]
+}

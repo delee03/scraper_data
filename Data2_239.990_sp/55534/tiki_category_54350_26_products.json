@@ -1,0 +1,671 @@
+{
+  "total_products": 26,
+  "products": [
+    {
+      "id": 275716448,
+      "name": "Xúc xích Master Mini Cocktail 200g/túi",
+      "price": 39500,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/05/7d/1e39bbb03fa336f45e435a3f75362121.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 275716515,
+      "name": "Xúc xích Master patê 200g/túi ",
+      "price": 41000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/d0/32/7cf3868b3f3aa9744632a423cf9ed6de.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 276432081,
+      "name": "Xúc xích khô Mini Stick Plain Auvernou 100g",
+      "price": 159000,
+      "discount_rate": 3,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/87/ac/ec/6e00992e1da907ef487913dd695b2619.png",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 275716571,
+      "name": "Xúc xích Master phô mai Mozzarella 200g/túi",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/3b/14/60083c0fce0fb36a04103f1e3160e1fe.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 274799813,
+      "name": "Combo Patê Cột Đèn Hải Phòng và Xúc Xích Đức",
+      "price": 230000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/8f/95/83347562de44eb1b23f436bdd66fa65e.png",
+      "primary_category_path": "1/2/44792/54344/54350",
+      "availability": 1
+    },
+    {
+      "id": 274669633,
+      "name": "Xúc Xích Đức ",
+      "price": 105000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1a/6e/9a/75c1f67b3dc6e5a653d6e858336af8ce.png",
+      "primary_category_path": "1/2/44792/54344/54350",
+      "availability": 1
+    },
+    {
+      "id": 274669490,
+      "name": "Patê Cột Đèn Hải Phòng - Halong Canfoco",
+      "price": 145000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/e8/4a/646df7f4dc7ebba2e819f116dd636abc.png",
+      "primary_category_path": "1/2/44792/54344/54350",
+      "availability": 1
+    },
+    {
+      "id": 273461606,
+      "name": "GIÒ LỤA ĐẶC BIỆT 500 G",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/03/97/99b9df8b848536ca7ed8f80cd52fea0a.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 273444119,
+      "name": "CHẢ QUẾ ĐẶC BIỆT 500 G",
+      "price": 99000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/89/d5/1b/a16c3f0e86001de87e00339e510d228a.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 273356514,
+      "name": "Xúc xích khô Mini Sticks Roquefort & Noix Auvernou 100g",
+      "price": 159000,
+      "discount_rate": 3,
+      "rating_average": 5,
+      "review_count": 1,
+      "order_count": 2,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/4f/21/fc7596fa3cf8db8b31bab6f59ae4ca84.jpg",
+      "primary_category_path": "1/2/44792/54344/54350",
+      "availability": 1
+    },
+    {
+      "id": 200948976,
+      "name": "CHẢ HÌNH CÁ TRỘN TRỨNG CÁ SHISAMO 500GR ",
+      "price": 125000,
+      "discount_rate": 10,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 10,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/92/47/1326b4ddc255d6e94094a96a8d7ea612.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 200948952,
+      "name": "CHẢ CÁ YUBA 300GR _ FISH & YUBA 300GR",
+      "price": 80000,
+      "discount_rate": 10,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/94/b4/74f860ed58da893f2991f8b08dd94d78.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 199109989,
+      "name": "COMBO ĂN KHỎE - DÙNG CHO TRẺ BÉO PHÌ",
+      "price": 389000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/2c/7c/a4879cd59bee118a30abc942191dc1ff.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 199077933,
+      "name": "COMBO CHÓNG LỚN - GIÚP PHÁT TRIỂN CHIỀU CAO",
+      "price": 429000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/80/a5/5a/695230a9ddfa61a4b6ba05a19ba8438d.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 199053675,
+      "name": "COMBO BANG BANG - GIÚP TĂNG CƠ",
+      "price": 429000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/62/59/734bf7b3a5afc1eb8e92f13121f0d451.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1
+    },
+    {
+      "id": 183337355,
+      "name": "GIÒ TAI LƯỠI XÀO 250G",
+      "price": 79000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/73/83/8a0f38999d40f593b64b868cbf870359.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 183337986,
+      "name": "MỌC NẤM HƯƠNG 250G",
+      "price": 76000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/a3/86/4db3acb364f3fcaf42ef584051a2dec1.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1
+    },
+    {
+      "id": 183336689,
+      "name": "GIÒ TAI NẤM HƯƠNG 500G",
+      "price": 162000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/42/3c/b0/620fac159914b0654f674bdeff619dd2.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1,
+      "short_description": "Giò tai nấm hương là sản phẩm được chế biến từ thịt nạt heo, cùng tai heo. sản phẩm được lựa chọn kỹ lưỡng từ nguồn nguyên liệu tốt nhất đáp ứng các tiêu chuẩn về an toàn và chất lượng.Thịt nạc heo g...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Giò tai nấm hương là sản phẩm được chế biến từ thịt nạt heo, cùng tai heo. sản phẩm được lựa chọn kỹ lưỡng từ nguồn nguyên liệu tốt nhất đáp ứng các tiêu chuẩn về an toàn và chất lượng.</p>\n<p>Thịt nạc heo giúp người dùng cung cấp giá trị dinh dưỡng cho cơ thể gồm có protein, lipid, Ca, Photpho, Fe, cystine, myoglobin. Thực phẩm này còn có rất nhiều Vitamin A, B1, B2, B3… và tai heo chiếm phần lớn là da heo (bì lợn) được đánh giá là giàu collagen, có thể làm chậm sự lão hóa của các tế bào cơ thể.</p>\n<p>Nấm hương được coi là thực phẩm cho những người bị thiếu máu do thiếu sắt, cao huyết áp, tiểu đường, trẻ em suy dinh dưỡng.Nấm hương được coi là thực phẩm cho những người bị thiếu máu do thiếu sắt, cao huyết áp, tiểu đường, trẻ em suy dinh dưỡng<br />các nhà khoa học đã khẳng định nấm hương có tác dụng tăng cường hệ miễn dịch của cơ thể, ức chế tế bào ung thư, hạ huyết áp, giảm cholesterol máu, phòng ngừa sỏi thận và sỏi tiết niệu, trợ giúp tiêu hoá</p>\n<p>Nguồn nguyên liệu được lựa chọn kỹ càng đảm bảo chất lượng nhất về giá trị dinh dưỡng cũng như cảm nhận khi thưởng thức, nên sản phẩm giò heo nấm hương Ngọc Thơm luôn đảm bảo độ dinh dưỡng, độ thơm ngon về mùi vị khi thưởng thức. Công nghệ xử lý tiên tiến đảm bảo sạch sẽ, an toàn, giữ được đầy đủ nhất dinh dưỡng của sản phẩm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NGỌC THƠM FOOD"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thịt nạc heo (70%); Tai heo (10%); Mỡ heo (5%); nấm hương (5%); Tiêu xay. Phụ gia thực phẩm: Chất nhũ hóa (INS 450(i)), Chất tạo phức kim loại (INS 450(iii)), Chất điều chỉnh độ acid (INS 451(i), INS 262(i), INS 296); Chất bảo quản (INS 234); Đường kính; Muối tinh; Nước mắm; Chất điều vị (INS 621).</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản ở nhiệt độ 0°C - 4°C, Hsd 45 ngày trong ngăn mát và 3 tháng trong ngăn đông kể từ ngày sản xuất.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp sau khi mở bao bì hoặc chế biến các món ăn theo yêu cầu</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "VB NGÂN 1",
+      "stock_status": "available"
+    },
+    {
+      "id": 183032097,
+      "name": "GÀ MUỐI 500G",
+      "price": 168000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/a9/8e/9ea643b93e055f3f7efa4cdc0c307d1b.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68763",
+      "availability": 1,
+      "short_description": "Sản phẩm gà muối sẽ phù hợp với tất cả mọi người trong gia đình bạn trong việc nâng cao sức khỏe cho cha, mẹ bạn, hàm lượng cao protein cho mọi người trong gia đình. Nhất là giúp con trẻ sáng mắt và t...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Sản phẩm gà muối sẽ phù hợp với tất cả mọi người trong gia đình bạn trong việc nâng cao sức khỏe cho cha, mẹ bạn, hàm lượng cao protein cho mọi người trong gia đình. Nhất là giúp con trẻ sáng mắt và tiêu hóa tốt. bản thân bạn sẽ giữ vóc dáng và cung cấp đầy đủ dinh dưỡng mỗi ngày cho cơ thể.<br />Sản phẩm từ thịt gà theo các nhà dinh dưỡng học, ngoài những chất albumin, chất béo, thịt gà còn có các vitamin A, B1, B2, C, E, a-xít, can-xi, phốt pho, sắt. Đây là loại thực phẩm chất lượng cao, cơ thể con người dễ hấp thu và tiêu hóa. Phù hợp cho mọi đối tượng người dùng.<br />Hàm lượng protein và phức hợp của amino a-xít trong thịt gà có ảnh hưởng tích cực đến não bộ, làm phấn chấn tinh thần, giảm sự lo lắng, stress cũng như có tác dụng cải thiện huyết áp và nhịp tim với người trẻ, thể giúp bạn giảm các cơn đau khớp, dùng thường xuyên giúp xương được bổ sung dưỡng chất cần thiết cho xương, làm giảm quá trình loãng xương với người lớn tuổi.<br />Cùng với thành phần nghệ vàng giúp gia tăng khả năng hỗ trợ tiêu hóa, hấp thụ, công dụng đẹp da, tốt cho cơ thể.<br />Sản phẩm Gà muối Ngọc Thơm được sản xuất từ những nguyên liệu sạch, cùng với công nghệ tiên tiến, nghiêm ngặc, đảm bảo an toàn vệ sinh thực phẩm tuyệt đối mang đến món gà muối đúng chuẩn hương vị, đảm bảo dinh dưỡng tối đa khi thưởng thức.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NGỌC THƠM FOOD"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Gà nguyên con/nửa con (95%); muối NaCl; đường kính trắng; chất điều vị INS 621; chất nhũ hóa (INS 450(ii)), dextrose, sodium chloride, chất chống oxy hóa INS 316, chất bảo quản INS 250; chất điều chỉnh độ acid INS 262(i), chất chống đông vón INS 551; maltodextrin, hương khói tự nhiên; bột nghệ.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản ở nhiệt độ 0°C - 4°C, Hsd 90 ngày trong ngăn mát và 6 tháng trong ngăn đông kể từ ngày sản xuất.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp sau khi mở bao bì hoặc chế biến các món ăn theo yêu cầu</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "VB NGÂN 1",
+      "stock_status": "available"
+    },
+    {
+      "id": 178107962,
+      "name": "Xúc Xích Wyn (Thau) Vị BBQ",
+      "price": 48000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/91/d2/604e129944750f6eed5515668bd557af.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1,
+      "short_description": "  Xúc xích tiệt trùng BBQ Wyn là sự kết hợp độc đáo giữa hương vị của thịt lợn và các loại gia vị, tạo nên một món ăn đặc trưng, hấp dẫn. Sản phẩm mang đến những trải nghiệm mới trong các món ăn chế ...",
+      "description": "\n  <p>Xúc xích tiệt trùng BBQ Wyn là sự kết hợp độc đáo giữa hương vị của thịt lợn và các loại gia vị, tạo nên một món ăn đặc trưng, hấp dẫn. Sản phẩm mang đến những trải nghiệm mới trong các món ăn chế biến sẵn.</p>\n   <p>Xúc xích được sản xuất trên dây chuyền hiện đại với những nguyên liệu tự nhiên được chọn lọc kỹ lưỡng đảm bảo an toàn cũng như chất lượng. Với sản phẩm này, các bà nội trợ sẽ tiết kiệm được đáng kể thời gian cũng như công sức chế biến mà vẫn có món ăn thơm ngon và bổ dưỡng. Xúc xích tiệt trùng BBQ Wyn có thể dùng trong bữa ăn nhẹ, ăn sáng, chế biến tùy thích.</p>\n   <p>Hướng dẫn sử dụng : Dùng ăn trực tiếp hoặc chế biến thành các món ăn khác tùy ý.</p>\n   <p>Hướng dẫn bảo quản : Bảo quản ở nhiệt độ thường, không để nơi nóng ẩm.</p>\n   <p>Trọng lượng : Thau 500g (20g*5 cây*5 gói) và 875g (35g* 5 cây*5 gói)</p>\n   <p>Hạn sử dụng : 4 tháng kể từ ngày sản xuất.</p>\n   <p>Ngày sản xuất : Xem trên bao bì sản phẩm.</p>\n   <p>Xuất xứ : Việt Nam</p>\n   <p>ĐẶT HÀNG TIỆN LỢI</p>\n   <p>Chuyên cung cấp, phân phối các sản phẩm của Bibigo!, Wyn, G Kitchen, chính hãng, cam kết chất lượng.</p>\n  <p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "capacity",
+              "name": "Dung tích",
+              "value": "500ml"
+            },
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Wyn"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "An Nhiên Foods",
+      "stock_status": "available"
+    },
+    {
+      "id": 183334963,
+      "name": "CHÂN GIÒ HEO MUỐI 500G",
+      "price": 192000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/28/f4/cf55ca2d71347bde338b0ce6c4d56b8b.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1,
+      "short_description": "Chân giò heo muối là món ăn rất đặc trưng và thơm ngon, món ăn này cung cấp thành phần dinh dưỡng vô cùng dồi dào, tốt cho sức khỏe của con người.Chân giò có phần thịt nằm ở cổ chân gồm cả xương chày ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Chân giò heo muối là món ăn rất đặc trưng và thơm ngon, món ăn này cung cấp thành phần dinh dưỡng vô cùng dồi dào, tốt cho sức khỏe của con người.<br />Chân giò có phần thịt nằm ở cổ chân gồm cả xương chày và móng chân nên hàm lượng dinh dưỡng dồi dào rất nhiều khoáng chất, vitamin, đạm…<br />Dùng chân giò heo muối thường xuyên sẽ giúp người dùng cung cấp giá trị dinh dưỡng cho cơ thể gồm có protein, lipid, Ca, Photpho, Fe, cystine, myoglobin. Thực phẩm này còn có rất nhiều Vitamin A, B1, B2, B3… và lượng collagen vô cùng có lợi cho sức khỏe.<br />Chân giò heo muối khá khác lạ có hương vị rất đặc trưng khi thưởng thức. Miếng chân giò cắt lát mỏng có bề mặt khô, phần thịt nạc màu hồng, phần mỡ màu trắng và phần da màu nâu. Mang lại cảm giác hấp dẫn vô cùng tuyệt vời khi thưởng thức.<br />Chứng minh món ăn có tác dụng tốt tạo ra hồng cầu giúp bổ máu, tăng cường quá trình trao đổi chất trong cơ thể, giúp cơ thể giữ nước, giúp đẹp da.<br />Sản phẩm chân giò heo muối Ngọc Thơm đã được kiểm tra rất kỹ lưỡng nguyên liệu đầu vào, cùng công nghệ nấu muối chuyên nghiệp nhầm giữ trọn vẹn chất dinh dưỡng của chân giò heo muối cũng như mang lại hương vụ đặc chưng thơm ngon đặc biệt khi thưởng thức.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "NGỌC THƠM FOOD"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Thịt chân giò rút xương (95%); muối NaCl; đường kính trắng; chất điều vị INS 621; chất nhũ hóa (INS 450(iii), INS 451(i), INS 451(ii)), dextrose, sodium chloride, chất chống oxy hóa (INS 316, INS 300), chất bảo quản INS 250; chất điều chỉnh độ acid INS 262(i), chất chống đông vón INS 551; chất làm dày INS 415, Myristic acid (FEMA#2763), octadecadienoic acid plus 9,12,15-octadecadienoic acid (FEMA#3380), maltodextrin, hương khói tự nhiên.</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản ở nhiệt độ 0°C - 4°C, Hsd 90 ngày trong ngăn mát và 6 tháng trong ngăn đông kể từ ngày sản xuất.</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>Dùng trực tiếp sau khi mở bao bì hoặc chế biến các món ăn theo yêu cầu</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "VB NGÂN 1",
+      "stock_status": "available"
+    },
+    {
+      "id": 172079789,
+      "name": "XÚC XÍCH ĐỨC RICH 20c - 500g - ĐEN ĐỎ - XÚC XÍCH ĐỨC RICH",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/98/b1/39638823eabd3efdf53326d8b2d90f6c.png",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1,
+      "short_description": "Xúc xích chứa nhiều dưỡng chất cần thiết cho cơ thể giúp cung cấp năng lượng, thúc đẩy quá trình trao đổi chất bên trong. Sản phẩm giúp bạn tiết kiệm tối đa thời gian nấu nướng mà vẫn có món ăn nhanh ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Xúc xích chứa nhiều dưỡng chất cần thiết cho cơ thể giúp cung cấp năng lượng, thúc đẩy quá trình trao đổi chất bên trong. Sản phẩm giúp bạn tiết kiệm tối đa thời gian nấu nướng mà vẫn có món ăn nhanh thơm ngon, bổ dưỡng. Được đóng gói tiện lợi và phù hợp với các bữa ăn nhanh, góp phần làm bữa cơm của bạn thêm ngon miệng và phong phú.<br />Khối lượng: 500g<br />HSD: được in trên bao bì sản phẩm</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Đen Đỏ"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "DEN DO FASTFOO1",
+      "stock_status": "available"
+    },
+    {
+      "id": 142850377,
+      "name": "Chả Cá Thác Lác Không Gia Vị Tân Hậu Giang 500Gr",
+      "price": 125000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/c1/32/5a791df4a41c74a212764bb0d6d39f77.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1,
+      "short_description": "Chả Cá Thác Lác Không Gia Vị Tân Hậu Giang 500Gr...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><style type=\"text/css\"><!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--></style>\n<p><span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Chả Cá Thác Lác Không Gia Vị Tân Hậu Giang 500Gr&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:12673,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;10&quot;:1,&quot;11&quot;:0,&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:10}\">Chả Cá Thác Lác Không Gia Vị Tân Hậu Giang 500Gr</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Tân Hậu Giang"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "LÀNH FOODS",
+      "stock_status": "available"
+    },
+    {
+      "id": 140742902,
+      "name": "Xúc xích Đức 10c/500g Cty ĐEN ĐỎ - XÚC XÍCH ĐỨC RICH - ĐEN ĐỎ - SÚC XÍCH ĐỨC - SÚC XÍCH NGON - SÚC XÍCH GIÁ SỈ - DEN DO - DENDO",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 3,
+      "order_count": 24,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/98/b1/8f69d8e6b314647fb116495b4d8fd909.png",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1,
+      "short_description": "Xúc xích chứa nhiều dưỡng chất cần thiết cho cơ thể giúp cung cấp năng lượng, thúc đẩy quá trình trao đổi chất bên trong. Sản phẩm giúp bạn tiết kiệm tối đa thời gian nấu nướng mà vẫn có món ăn nhanh ...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Xúc xích chứa nhiều dưỡng chất cần thiết cho cơ thể giúp cung cấp năng lượng, thúc đẩy quá trình trao đổi chất bên trong. Sản phẩm giúp bạn tiết kiệm tối đa thời gian nấu nướng mà vẫn có món ăn nhanh thơm ngon, bổ dưỡng. Được đóng gói tiện lợi và phù hợp với các bữa ăn nhanh, góp phần làm bữa cơm của bạn thêm ngon miệng và phong phú.<br />Khối lượng: 10 cái - 500g<br />HSD: 12 tháng kể từ ngày sản xuất (ngày sản xuất được in trên bao bì sản phẩm)</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Đen Đỏ"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "1 năm"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "DEN DO FASTFOO1",
+      "stock_status": "available"
+    },
+    {
+      "id": 81808202,
+      "name": "Chả Cá Viên SG Food Gói 500g",
+      "price": 77500,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 5,
+      "order_count": 44,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/17/6c/53/9be8c1cddefcd9b6ae844ebef3e37e40.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68761",
+      "availability": 1,
+      "short_description": "Chả cá viên Sài Gòn Food được chế biến từ nguồn nguyên liệu thịt cá tươi ngon, là sự kết hợp hoàn hảo của thịt cá xay nhuyễn và các gia vị. Đặc biệt không chất bảo quản, không phẩm màu nhân tạo, an to...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Chả cá viên Sài Gòn Food được chế biến từ nguồn nguyên liệu thịt cá tươi ngon, là sự kết hợp hoàn hảo của thịt cá xay nhuyễn và các gia vị. Đặc biệt không chất bảo quản, không phẩm màu nhân tạo, an toàn cho người sử dụng, giúp bạn dễ dàng chế biến món ăn đơn giản và tiện lợi.</p>\n<p><strong><br />Thành phần:</strong></p>\n<p>Thịt cá tra: 72%, Nước: 18%, Chất ổn định (E1414, E450(iii), E451(i), E420(i)): 7,7%, Dầu đậu nành: 2%, Muối I- ốt: 1,5%, Isolated Soy Protein: 1%, Chất điều vị (E621): 0,6%, Tiêu: 0,1%, Chất nhũ hóa (E450(i)): 0,05%.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/1f/7f/88/0965597149f721c8c46c4d62a85cd91d.png\" alt=\"\" width=\"750\" height=\"467\" /></p>\n<p><strong>Khối lượng tịnh:</strong> 500gr</p>\n<p><strong>Hướng dẫn sử dụng:</strong></p>\n<ul>\n<li>Rã đông tự nhiên sản phẩm ở ngăn mát tủ lạnh 1 ngày trước khi dùng.</li>\n<li>Chiên, dùng kèm với tương ớt.</li>\n<li>Nấu canh, nấu lẩu, nấu súp, sốt cà, xào với các loại rau củ.</li>\n</ul>\n<p><strong>Cách bảo quản:</strong></p>\n<p>Ở nhiệt độ -18<sup>o</sup>C hoặc trong ngăn đá tủ lạnh.</p>\n<p><strong>Hạn sử dụng:</strong> 12 tháng kể từ ngày sản xuất.</p>\n<p><strong>Thương hiệu: </strong>Sài Gòn Food<strong> </strong></p>\n<p><strong>Nhà sản xuất: </strong>Công ty Cổ phần Sài Gòn Food<strong> </strong></p>\n<p><strong>Xuất xứ: </strong>Việt Nam</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Sài Gòn Food"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>Bảo quản ở nhiệt độ -18<sup>o</sup>C hoặc trong ngăn đá tủ lạnh.</p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "SG Food Store",
+      "stock_status": "available"
+    },
+    {
+      "id": 67720041,
+      "name": "Mỳ Ý Xúc Xích Kiểu Nhật SG Food Túi 250g",
+      "price": 34000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 66,
+      "order_count": 866,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3d/91/4c/485d3808cc5d1eaa225255561cbbb2e1.jpg",
+      "primary_category_path": "1/2/44792/54344/54350/68766",
+      "availability": 1,
+      "short_description": "Mỳ Ý Xúc Xích Kiểu Nhật – một sản phẩm hoàn toàn mới với sự kết hợp giữa sốt cà chua, xúc xích và ớt chuông,… đem đến hương vị thơm ngon truyền thống của nền ẩm thực xứ sở hoa anh đào. Sản phẩm cung c...",
+      "description": "<p>Với sản phẩm tươi sống, trọng lượng thực tế có thể chênh lệch khoảng 10%.</p><p>Mỳ Ý Xúc Xích Kiểu Nhật – một sản phẩm hoàn toàn mới với sự kết hợp giữa sốt cà chua, xúc xích và ớt chuông,… đem đến hương vị thơm ngon truyền thống của nền ẩm thực xứ sở hoa anh đào. Sản phẩm cung cấp dưỡng chất và năng lượng thiết yếu cho 1 khẩu phần ăn.<br /><img src=\"https://salt.tikicdn.com/ts/tmp/5e/70/5d/30645aebd4eb6603ce0693090653a3dc.jpg\" alt=\"\" width=\"750\" height=\"499\" /></p>\n<p><img src=\"https://salt.tikicdn.com/ts/tmp/fc/ac/60/aba27e01a66606fa9b4291a11c982360.jpg\" alt=\"\" width=\"750\" height=\"499\" /></p>\n<p><strong>Thành phần:</strong>Mỳ Ý Spaghetti: 52%, tương cà, xúc xích heo: 10%, ớt chuông, nước, dầu thực vật, bơ lạt, muối I-ốt, tỏi, đường tinh luyện, hạt nêm, tiêu.</p>\n<p><strong>Hướng dẫn sử dụng:</strong><br />Bước 1: Rã đông<br />+Cách 1: Rã đông tự nhiên ở nhiệt độ phòng từ 3,5 - 4 giờ<br />+Cách 2: Rã đông trong ngăn mát tủ lạnh từ 10 - 12 giờ.<br /><br />Bước 2: Tháo bỏ túi ngoài, xé mở nhẹ miệng túi trong hoặc đâm một lỗ nhỏ ở góc túi. Hâm nóng trong lò vi sóng 800W khoảng 2 - 3 phút<br /><br /></p>\n<p><strong>Mách nhỏ</strong>: ngon hơn khi dùng với rau đi kèm</p>\n<p><strong>Hướng dẫn bảo quản</strong>: trong ngăn đá tủ lạnh hoặc nhiệt độ -18<sup>0</sup>C</p>\n<p><strong>Hạn sử dụng:</strong> 9 tháng kể từ ngày sản xuất.</p>\n<p><strong>Thương hiệu: </strong>Sài Gòn Food<strong> </strong></p>\n<p><strong>Nhà sản xuất: </strong>Công ty Cổ phần Sài Gòn Food<strong> </strong></p>\n<p><strong>Xuất xứ: </strong>Việt Nam</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "Sài Gòn Food"
+            },
+            {
+              "code": "brand_country",
+              "name": "Xuất xứ thương hiệu",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "250g"
+            },
+            {
+              "code": "expiry_time",
+              "name": "Hạn sử dụng",
+              "value": "9 tháng kể từ ngày sản xuất."
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "SG Food Store",
+      "stock_status": "available"
+    }
+  ]
+}

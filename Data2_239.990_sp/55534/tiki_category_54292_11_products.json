@@ -1,0 +1,137 @@
+{
+  "total_products": 11,
+  "products": [
+    {
+      "id": 272893211,
+      "name": "Tôm sú nguyên con sinh thái Seaprodex kích cỡ 5 con/hộp , 500gr",
+      "price": 395000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/93/ff/cc/c7f99e8ea9764985452227b1dde7194e.jpg",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 274474414,
+      "name": "Ốc Xoắn Nấu Chín Ocean Gems 1kg - Maxzi",
+      "price": 275000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ca/c0/1a/7034a0ef5ca0776a0883b351d81cfdb2.png",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 272893159,
+      "name": "Tôm sú nguyên con sinh thái Seaprodex kích cỡ 8 con/hộp, 500gr",
+      "price": 310000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/36/db/c0/94ce7965e311b9e99971bcaee3c932a5.jpg",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 272893205,
+      "name": "Tôm sú nguyên con sinh thái Seaprodex kích cỡ 6 con/hộp, 500gr",
+      "price": 375000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/e5/07/cebe86ba255b0d543aa40bd105ae33ba.jpg",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 272893137,
+      "name": "Tôm sú nguyên con sinh thái Seaprodex kích cỡ 10 con/hộp, 500gr",
+      "price": 250000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/b2/22/f90e9abaf8c0826de54030982a0d744a.jpg",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 272892984,
+      "name": "Tôm sú nguyên con sinh thái Seaprodex kích cỡ 14 con/hộp, 500gr",
+      "price": 210000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/16/ac/70/8fa7fb268188b943c838adc18e300543.jpg",
+      "primary_category_path": "1/2/44792/54290/54292",
+      "availability": 1
+    },
+    {
+      "id": 178724844,
+      "name": "[Chỉ Giao HCM] - Ốc Bulot Pháp - 500gram",
+      "price": 180000,
+      "discount_rate": 0,
+      "rating_average": 4.5,
+      "review_count": 2,
+      "order_count": 9,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/f9/4b/8cdd2f8001b6cd5d3065fc151424adbf.jpg",
+      "primary_category_path": "1/2/44792/54290/54292/68701",
+      "availability": 1
+    },
+    {
+      "id": 182130121,
+      "name": "Mù Tạt Kizami 1kg",
+      "price": 345000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/3b/48/3bca1a1f266a9da919ae7b3f5a367914.png",
+      "primary_category_path": "1/2/44792/54290/54292/68701",
+      "availability": 1
+    },
+    {
+      "id": 113402460,
+      "name": "Tôm hùm Canada (Alaska) sống size 1kg",
+      "price": 1260000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/15/a8/f7e486e1d569422efe265058d4d4768f.jpg",
+      "primary_category_path": "1/2/44792/54290/54292/68702",
+      "availability": 1
+    },
+    {
+      "id": 113401455,
+      "name": "Tôm hùm Canada (Alaska) sống size 500g",
+      "price": 498000,
+      "discount_rate": 0,
+      "rating_average": 5,
+      "review_count": 4,
+      "order_count": 23,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/14/15/a8/b62a3a67c6a36fc3a871c2e24116576f.jpg",
+      "primary_category_path": "1/2/44792/54290/54292/68702",
+      "availability": 1
+    },
+    {
+      "id": 77351149,
+      "name": "Tôm Sú Tươi Sống Bơi Tại Hồ - 1 Đổi 1 Tận Nhà",
+      "price": 286500,
+      "discount_rate": 0,
+      "rating_average": 4.7,
+      "review_count": 12,
+      "order_count": 38,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/0c/35/2d932be9980164c312d7e158e48c8750.jpg",
+      "primary_category_path": "1/2/44792/54290/54292/68702",
+      "availability": 1
+    }
+  ]
+}

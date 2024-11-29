@@ -1,0 +1,483 @@
+{
+  "total_products": 11,
+  "products": [
+    {
+      "id": 274844924,
+      "name": "Bánh mì bì chay",
+      "price": 23000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 6,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/33/49/5f8e64ddc7fc60f3b2375ea2ffa93ce7.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì bì chay,ăn kèm với đồ chua, dưa leo,hành ngò,nước măm chay...",
+      "description": "<p>Bánh mì bì chay,ăn kèm với đồ chua, dưa leo,hành ngò,nước măm chay</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274845100,
+      "name": "Bánh mì que Đặc Biêt",
+      "price": 30000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/32/57/19/4be47d399426cc87009ac7cd1405f5c7.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì que đặc biệt có kích thước lớn hơn, nhân pate và bơ cũng nhiều hơn so với bánh mì que Patê và đặc biệt có thêm chà bông / ăn kèm với tương ớt Bắc ...",
+      "description": "<p>Bánh mì que đặc biệt có kích thước lớn hơn, nhân pate và bơ cũng nhiều hơn so với bánh mì que Patê và đặc biệt có thêm chà bông / ăn kèm với tương ớt Bắc </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274844984,
+      "name": "Bánh mì que Patê",
+      "price": 8000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/09/81/878cb7096d6d02a4206319748cf84770.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì que Patê chuẩn bị Hải Phòng, ăn kèm với Tương ớt Bắc...",
+      "description": "<p>Bánh mì que Patê chuẩn bị Hải Phòng, ăn kèm với Tương ớt Bắc</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274845013,
+      "name": "Combo 05 Bánh mì que Patê",
+      "price": 35000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 4,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/88/3e/eb/96db338c0d7cc315ff8976c6c331aeb5.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "05 x Bánh mì que Patê, ăn cùng với tương ớt ...",
+      "description": "<p>05 x Bánh mì que Patê, ăn cùng với tương ớt </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "400g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274844745,
+      "name": "Bánh Mì No Nê",
+      "price": 55000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/79/e3/32d21669305f5b0d7f7b29ebbf028f67.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì thịt chả size lớn, gấp đôi các loại nhân như bơ, pate, chả lụa, giò thủ, dăm bông, chà bô ...",
+      "description": "<p>Bánh mì thịt chả size lớn, gấp đôi các loại nhân như bơ, pate, chả lụa, giò thủ, dăm bông, chà bô</p>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g"
+            },
+            {
+              "code": "thanh_phan",
+              "name": "Thành phần",
+              "value": "<p>Bánh mì , bơ, pate, chả lụa, dăm bông,giò thủ, chà bông, đồ chua, dưa leo,hành ngò, ớt..</p>"
+            },
+            {
+              "code": "huong_dan_bao_quan",
+              "name": "Hướng dẫn bảo quản",
+              "value": "<p>- Nhiệt độ phòng</p>"
+            },
+            {
+              "code": "huong_dan_su_dung",
+              "name": "Hướng dẫn sử dụng",
+              "value": "<p>- Dùng trong ngày </p>"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274844861,
+      "name": "Bánh Mì Ốp La",
+      "price": 28000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/5f/11/0a67c77cb735d21dfa5b4e5507799ca9.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "- Bánh mì Ốp la 2 trứng, kèm với Patê,bơ trứng, đồ chua, hành, ngò, ...",
+      "description": "<p>- Bánh mì Ốp la 2 trứng, kèm với Patê,bơ trứng, đồ chua, hành, ngò, </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "500g "
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274834688,
+      "name": "Bánh mì kẹp xúc xích Đức phô mai / Hot dog phô mai",
+      "price": 45000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 12,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/39/db/2cf2208112ffd82edddf6c731fed39ec.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì hotdog với xúc xích đức và phô mai, ăn kèm với tương ớt,tương cà, mù tạt vàng, mayonnaise ...",
+      "description": "<p>Bánh mì hotdog với xúc xích đức và phô mai, ăn kèm với tương ớt,tương cà, mù tạt vàng, mayonnaise </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "0.4"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274834601,
+      "name": "Bánh mì kẹp xúc xích Đức / Hotdog",
+      "price": 35000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 3,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6c/45/44/65480f5537ac55ffaa5b1cff5836b6cb.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì hot dog và xúc xích đức, ăn kèm với tương cà , tương ớt, mù tạt vàng, mayonnaise ...",
+      "description": "<p>Bánh mì hot dog và xúc xích đức, ăn kèm với tương cà , tương ớt, mù tạt vàng, mayonnaise </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "400g"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274834555,
+      "name": "Bánh mì Patê",
+      "price": 35000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 5,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2b/6e/62/a43e3b57be0f35a07b91d62638f466dd.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì với pate , ăn kèm với đồ chua, dưa leo, hành ngò, ớt , nhân Patê sẽ nhiều hơn các loại bánh mì khác....",
+      "description": "<p>Bánh mì với pate , ăn kèm với đồ chua, dưa leo, hành ngò, ớt , nhân Patê sẽ nhiều hơn các loại bánh mì khác.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "product_weight",
+              "name": "Trọng lượng sản phẩm",
+              "value": "400g "
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274831369,
+      "name": "Bánh mì thịt chả",
+      "price": 30000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 1,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/75/8d/aa8eabd66d21a784359a1dab755578e7.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì thịt chả : pate,bơ, chả lụa, giò thủ, dăm bông, hành ngò, đồ chua, ớt...",
+      "description": "<p>Bánh mì thịt chả : pate,bơ, chả lụa, giò thủ, dăm bông, hành ngò, đồ chua, ớt</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    },
+    {
+      "id": 274831338,
+      "name": "Bánh mì xíu mại",
+      "price": 30000,
+      "discount_rate": 0,
+      "rating_average": 0,
+      "review_count": 0,
+      "order_count": 0,
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/ed/b7/7f2ddd30fa9ed3ec4381fe2898f527a5.png",
+      "primary_category_path": "1/2/44792/54316/54318/68705",
+      "availability": 1,
+      "short_description": "Bánh mì thịt xíu mại : pate, bơ thịt xíu mại, sốt cà chua,ăn kèm với đồ chua, dưa leo, hành ngò, ớt ...",
+      "description": "<p>Bánh mì thịt xíu mại : pate, bơ thịt xíu mại, sốt cà chua,ăn kèm với đồ chua, dưa leo, hành ngò, ớt </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "specifications": [
+        {
+          "name": "Thông tin chung",
+          "attributes": [
+            {
+              "code": "brand",
+              "name": "Thương hiệu",
+              "value": "HALONG CANFOCO"
+            },
+            {
+              "code": "origin",
+              "name": "Xuất xứ (Made in)",
+              "value": "Việt Nam"
+            },
+            {
+              "code": "seller_delivery_method",
+              "name": "Phương thức giao hàng Seller Delivery",
+              "value": "Nhà bán giao hàng cho khách hàng"
+            }
+          ]
+        }
+      ],
+      "seller_name": "Bánh Mì Patê Cột Đèn Hải Phòng",
+      "stock_status": "available"
+    }
+  ]
+}
